@@ -16,8 +16,7 @@ export default function CtaSection() {
 							<div className="fugu--default-content">
 								<h2>Subscribe to learn more and get updates</h2>
 								<p>
-									A membership site lets you create a secure platform that allows you to deliver
-									content easily and automatically..
+								Join the growing list of satisfied clients who trust B2B-Ultimate for their fintech needs. Together, we can transform the way financial services are delivered, making them more accessible, efficient, and secure for everyone.
 								</p>
 								<div className="fugu--newsletter fugu--newsletter2">
 									<input type="email" placeholder="Type your email here" />

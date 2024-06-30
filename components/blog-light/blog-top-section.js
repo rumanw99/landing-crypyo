@@ -18,7 +18,7 @@ export default function BlogTopSection() {
 								<li>
 									<Link href="#">
 										<img src="/images/svg2/calendar2.svg" alt="" />
-										July 18, 2022
+										July 18, 2023
 									</Link>
 								</li>
 								<li>

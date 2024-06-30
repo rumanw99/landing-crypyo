@@ -20,7 +20,7 @@ export default function BreadcrumbSection() {
 						</li>
 						<li>
 							<Link href={"#"}>
-								<img src="assets/images/svg2/clock.svg" alt="" /> July 18, 2022
+								<img src="assets/images/svg2/clock.svg" alt="" /> July 18, 2023
 							</Link>
 						</li>
 					</ul>

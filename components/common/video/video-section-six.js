@@ -25,9 +25,7 @@ export default function VideoSectionSix() {
 						<div className="fugu-default-content">
 							<h2>How do we provide our clients with industry a leading security?</h2>
 							<p>
-								There are three main types of security officers working for a private and public bus and
-								individuals: government, in-house and those working contractually for the private
-								security firms.
+							At B2B-Ultimate, our mission is to empower businesses by offering cutting-edge financial technology solutions that enhance operational efficiency and drive growth. We are committed to delivering exceptional value through our white-label services, enabling our clients to offer secure, reliable, and user-friendly financial products under their own brand.
 							</p>
 							<p>
 								Within those three main types, there are a even more options armed and unarmed,

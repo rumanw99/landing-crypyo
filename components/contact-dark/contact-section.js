@@ -15,7 +15,7 @@ export default function ContactSection() {
 			<div className="row">
 				<div className="col-lg-5">
 					<div className="fugu--contact-info">
-						<h4>Reach out to us at:</h4>
+						<h4 style={{color:"white"}}>Reach out to us at:</h4>
 						<ul>
 							<li>
 								<Link href={"#"}>

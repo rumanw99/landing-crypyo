@@ -46,7 +46,7 @@ export default function FeatureSectionTwo() {
 								<h4>Affordable plans</h4>
 								<p>
 									If you're ready to invest in some crypto, check out the nexto cheap options that
-									could generate nice returns in 2022.
+									could generate nice returns in 2023.
 								</p>
 							</div>
 						</div>

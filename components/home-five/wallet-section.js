@@ -30,22 +30,26 @@ export default function WalletSection() {
 							<div className="fugu--default-content">
 								<h2>In the crypto world, we are secure & trustworthy</h2>
 								<p>
-									Fugu is one of the largest and safest platforms out there. The best crypto wallets
+								B2B Ultimate is one of the largest and safest platforms out there. The best crypto wallets
 									provide a good mix of security tools and user-facing features at a reasonable cost.
 								</p>
 								<div className="fugu--meta">
 									<ul>
 										<li>
 											<img src="/images/svg2/check.svg" alt="" />
-											Cost-effective mode of transaction secure and private.
+											Innovation: We continuously innovate to stay ahead in the dynamic fintech landscape.
 										</li>
 										<li>
 											<img src="/images/svg2/check.svg" alt="" />
-											Self-governed managed all and easy transfer of funds.
+											Integrity: We conduct our business with the highest standards of ethics and transparency.
 										</li>
 										<li>
 											<img src="/images/svg2/check.svg" alt="" />
-											Currency exchanges finish smoothly and decentralized.
+											Customer-Centricity: Our clients’ success is our success. We strive to exceed their expectations in every interaction.
+										</li>
+										<li>
+											<img src="/images/svg2/check.svg" alt="" />
+											Reliability: We ensure our solutions are robust, secure, and reliable.
 										</li>
 									</ul>
 								</div>
@@ -73,32 +77,35 @@ export default function WalletSection() {
 						</div>
 						<div className="col-xl-6">
 							<div className="fugu--default-content">
-								<h2>Easy step to use Fugu wallet on any device</h2>
+								<h2>Easy step to use B2B Ultimate wallet on any device</h2>
 								<p>
-									While the concept is simple a place to store your crypto & use choosing Fugu crypto
+									While the concept is simple a place to store your crypto & use choosing B2B Ultimate crypto
 									wallet can be an incredibly experience.
 								</p>
 								<div className="fugu--accordion-one accordion-two" id="accordionExample">
 									<Accordion defaultActiveKey="0">
 										<Accordion.Item eventKey="0">
-											<Accordion.Header>Create your wallet</Accordion.Header>
+											<Accordion.Header>Crypto Exchanges</Accordion.Header>
 											<Accordion.Body>
-												Fugu just like any other digital wallet, a crypto wallet helps users
-												store, send & receive easily
+											Crypto Exchanges: Customized white-label solutions that allow you to launch your own crypto exchange with ease.
 											</Accordion.Body>
 										</Accordion.Item>
 										<Accordion.Item eventKey="1">
-											<Accordion.Header>Link your bank account</Accordion.Header>
+											<Accordion.Header>Payment Gateways</Accordion.Header>
 											<Accordion.Body>
-												Fugu just like any other digital wallet, a crypto wallet helps users
-												store, send & receive easily
+											Secure and efficient payment gateway solutions tailored to your business needs.
 											</Accordion.Body>
 										</Accordion.Item>
 										<Accordion.Item eventKey="2">
-											<Accordion.Header>WStart buying & selling crypto</Accordion.Header>
+											<Accordion.Header>Crypto Cards</Accordion.Header>
 											<Accordion.Body>
-												Fugu just like any other digital wallet, a crypto wallet helps users
-												store, send & receive easily
+											White-label crypto card services that enable your customers to seamlessly spend their cryptocurrency.
+											</Accordion.Body>
+										</Accordion.Item>
+										<Accordion.Item eventKey="3">
+											<Accordion.Header>ATMs and POS Machines</Accordion.Header>
+											<Accordion.Body>
+											Advanced ATMs and POS solutions designed for modern financial transactions.
 											</Accordion.Body>
 										</Accordion.Item>
 									</Accordion>

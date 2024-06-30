@@ -9,7 +9,7 @@ export default function FeatureSection() {
 					<div className="fugu--default-content">
 						<h2>Innovative features to buy, trade and invest in crypto</h2>
 						<p>
-							A cryptocurrency is a digital & virtual currency that is secured by Fugu which makes it
+							A cryptocurrency is a digital & virtual currency that is secured by B2B Ultimate which makes it
 							nearly impossible to counterfeit or double-spend.
 						</p>
 					</div>
@@ -142,7 +142,7 @@ export default function FeatureSection() {
 								<h4>Integrated application</h4>
 								<p>
 									An integrated application is a stand-alone application that can seamlessly integrate
-									into any Fugu project.
+									into any B2B Ultimate project.
 								</p>
 							</div>
 						</div>

@@ -27,13 +27,10 @@ export default function AboutSection() {
 						<div className="fugu-default-content">
 							<h2>The story behind our companys beginnings and our mission</h2>
 							<p>
-								Mthemeus was founded in 2016, and we have accomplished so much over the years. To create
-								the solution your business. In the digital world, an impactful first impression for you
-								stand
+							Founded in 2023 and based in the vibrant city of Dubai, B2B-Ultimate has swiftly established itself as a leader in the fintech industry. We specialize in providing comprehensive white-label solutions for crypto exchanges, payment gateways, crypto cards, ATMs, and POS machines. 
 							</p>
 							<p>
-								Being memorable is hard, but worth it if you want a brand for that will resonate with
-								customers, colleagues, and investors.
+							Our team of dedicated professionals combines extensive industry knowledge with innovative technology to deliver tailored solutions that meet the evolving needs of our B2B clients.
 							</p>
 						</div>
 					</div>

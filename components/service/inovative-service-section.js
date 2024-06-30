@@ -13,8 +13,7 @@ export default function InovativeServiceSection() {
 						<div className="fugu-default-content">
 							<h2>We provide all kinds of innovative services as per your needs</h2>
 							<p>
-								We have been providing services for a long time. We’re caring about customers & provide
-								all necessary services. We always vigilant to maintain the quality of service.
+							At B2B-Ultimate, our mission is to empower businesses by offering cutting-edge financial technology solutions that enhance operational efficiency and drive growth. We are committed to delivering exceptional value through our white-label services, enabling our clients to offer secure, reliable, and user-friendly financial products under their own brand.
 							</p>
 							<p>
 								We are serving with honor in many countries of the world, you can take our services with

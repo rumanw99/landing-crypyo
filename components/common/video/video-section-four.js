@@ -29,15 +29,12 @@ export default function VideoSectionFour() {
 					</div>
 					<div className="col-xl-6 d-flex align-items-center">
 						<div className="fugu--default-content">
-							<h2>Fugu is the most trusted cryptocurrency platform</h2>
+							<h2> B2B Ultimate is the most trusted cryptocurrency platform</h2>
 							<p>
-								Fugu Cryptocurrency exchanges are websites where individuals can buy, sell, or exchange
-								crypto-currencies other digital currency here a Fugu is a cryptocurrency markets have
-								crashed in the last 24 hours.
+							Founded in 2023 and based in the vibrant city of Dubai, B2B-Ultimate has swiftly established itself as a leader in the fintech industry. We specialize in providing comprehensive white-label solutions for crypto exchanges, payment gateways, crypto cards, ATMs, and POS machines. 
 							</p>
 							<p>
-								The exchanges can converte a crypto-currencies into major part of a government-backed
-								currencies and convert cryptocurrencies.
+							Our team of dedicated professionals combines extensive industry knowledge with innovative technology to deliver tailored solutions that meet the evolving needs of our B2B clients.
 							</p>
 							<div className="fugu--btn-wrap">
 								<Link href={"#"} legacyBehavior>

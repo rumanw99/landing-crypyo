@@ -12,7 +12,7 @@ export default function IndexFour() {
 	return (
 		<>
 			<Head>
-				<title>fugu - index o4</title>
+				<title>B2B Ultimate - index o4</title>
 			</Head>
 			<HeroSection />
 			<TextSliderThree />

@@ -25,14 +25,14 @@ export default function FaqHomeOne() {
 							<div className="fugu-accordion-item">
 								<h4>Is it safe to use crypto app?</h4>
 								<p>
-									Yes, Fugu crypto app and Coinbase are safe and use security measures that are
+									Yes, B2B Ultimate crypto app and Coinbase are safe and use security measures that are
 									industry-standard or above for U.S.-based.
 								</p>
 							</div>
 							<div className="fugu-accordion-item">
-								<h4>How do I connect fugu to my crypto wallet?</h4>
+								<h4>How do I connect B2B Ultimate to my crypto wallet?</h4>
 								<p>
-									Once you ve approved a connection request from the app the fugu can send transaction
+									Once you ve approved a connection request from the app the B2B Ultimate can send transaction
 									requests to wallet, which is the on your must also manually approve in the Wallet.
 								</p>
 							</div>

@@ -14,7 +14,7 @@ export default function CommentSection() {
 							</div>
 							<div className="fugu--comment-meta">
 								<h5>Juliya Naik</h5>
-								<span>Dec. 25, 2022</span>
+								<span>Dec. 25, 2023</span>
 								<p>
 									The value that this server serves up is next level.I have just joined but wow I see
 									myself always coming back refreshing hoping for more.My advice for anyone wanting to
@@ -33,7 +33,7 @@ export default function CommentSection() {
 							</div>
 							<div className="fugu--comment-meta">
 								<h5>Willium Marco</h5>
-								<span>Dec. 25, 2022</span>
+								<span>Dec. 25, 2023</span>
 								<p>
 									NFT Trading Academy is amazing. Ever since I was invited as an influencer this has
 									been a crucial piece in terms of where I interact with the NFT Space and source
@@ -52,7 +52,7 @@ export default function CommentSection() {
 							</div>
 							<div className="fugu--comment-meta">
 								<h5>Robert fox</h5>
-								<span>Dec. 25, 2022</span>
+								<span>Dec. 25, 2023</span>
 								<p>
 									I have been using the service and it is great value for your money! With only one
 									good call you can make back what you pay plus profit. It is a very organized discord

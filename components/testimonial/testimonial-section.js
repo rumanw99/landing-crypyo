@@ -34,7 +34,7 @@ export default function TestimonialSection() {
 								</li>
 							</ul>
 							<p>
-								“I found Fugu very professional and trustworthy during my crypto trading duration of 147
+								“I found B2B Ultimate very professional and trustworthy during my crypto trading duration of 147
 								days. They are very honest and trusted.”
 							</p>
 							<div className="fugu-testimonial-author-wrap">
@@ -238,7 +238,7 @@ export default function TestimonialSection() {
 								</li>
 							</ul>
 							<p>
-								“I found Fugu very professional and trustworthy during my crypto trading duration of 147
+								“I found B2B Ultimate very professional and trustworthy during my crypto trading duration of 147
 								days. They are very honest and trusted.”
 							</p>
 							<div className="fugu-testimonial-author-wrap">

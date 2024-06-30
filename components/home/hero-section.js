@@ -12,7 +12,7 @@ export default function HeroSection() {
 								The crypto trading app for the next-gen
 							</h1>
 							<p className="wow fadeInUpX" data-wow-delay="0.25s">
-								Fugu is the app that gives you access to trading tools that you can actively buy & sell
+							B2B Ultimate is the app that gives you access to trading tools that you can actively buy & sell
 								digital currencies in an optimal way.
 							</p>
 							<div className="fugu-app-btn-wrap wow fadeInUpX" data-wow-delay="0.40s">

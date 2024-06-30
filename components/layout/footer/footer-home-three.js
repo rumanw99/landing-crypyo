@@ -113,7 +113,7 @@ export default function FooterHomeThree() {
 					</div>
 				</div>
 				<div className="fugu--footer-bottom">
-					assets <p>&copy; Copyright 2022, All Rights Reserved by Mthemeus</p>
+					assets <p>&copy; Copyright 2023, All Rights Reserved by Mthemeus</p>
 					<div className="fugu--footer-menu">
 						<ul>
 							<li>

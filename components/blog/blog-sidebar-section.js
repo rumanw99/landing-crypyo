@@ -50,7 +50,7 @@ export default function BlogSidebarSection() {
 									<Link href={"/"}>Article</Link>
 								</li>
 								<li>
-									<Link href={"/"}>August 26, 2022</Link>
+									<Link href={"/"}>August 26, 2023</Link>
 								</li>
 							</ul>
 						</div>
@@ -70,7 +70,7 @@ export default function BlogSidebarSection() {
 									<Link href={"/"}>Article</Link>
 								</li>
 								<li>
-									<Link href={"/"}>August 26, 2022</Link>
+									<Link href={"/"}>August 26, 2023</Link>
 								</li>
 							</ul>
 						</div>
@@ -90,7 +90,7 @@ export default function BlogSidebarSection() {
 									<Link href={"/"}>Article</Link>
 								</li>
 								<li>
-									<Link href={"/"}>August 26, 2022</Link>
+									<Link href={"/"}>August 26, 2023</Link>
 								</li>
 							</ul>
 						</div>

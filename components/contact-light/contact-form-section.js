@@ -17,14 +17,14 @@ export default function ContactFormSection() {
 					<div className="row">
 						<div className="col-lg-5">
 							<div className="fugu--contact-info">
-								<h4>Reach out to us at:</h4>
+								<h4 >Reach out to us at:</h4>
 								<ul>
 									<li>
 										<Link href={"#"}>
 											<span>
 												<img src="/images/svg2/phone2.svg" alt="" />
 											</span>
-											+008-245-5667
+											00971568398322
 										</Link>
 									</li>
 									<li>
@@ -40,7 +40,7 @@ export default function ContactFormSection() {
 											<span>
 												<img src="/images/svg2/map2.svg" alt="" />
 											</span>
-											389 Ranchview, California 62639
+											Dubai
 										</Link>
 									</li>
 								</ul>

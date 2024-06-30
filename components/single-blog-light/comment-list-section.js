@@ -13,7 +13,7 @@ export default function CommentListSection() {
 					</div>
 					<div className="fugu-comment-author-data">
 						<h6>Kathryn Murphy</h6>
-						<span>August 26, 2022</span>
+						<span>August 26, 2023</span>
 						<p>
 							It is a long established fact that a reader will be distrac readable content of a page when
 							looking at its layout. The point of using is that it has two.
@@ -29,7 +29,7 @@ export default function CommentListSection() {
 					</div>
 					<div className="fugu-comment-author-data">
 						<h6>Darrell Steward</h6>
-						<span>August 26, 2022</span>
+						<span>August 26, 2023</span>
 						<p>
 							It is a long established fact that a reader will be distra readable content of a page when
 							looking its layout. The point of using.
@@ -45,7 +45,7 @@ export default function CommentListSection() {
 					</div>
 					<div className="fugu-comment-author-data">
 						<h6>Ronald Richards</h6>
-						<span>August 26, 2022</span>
+						<span>August 26, 2023</span>
 						<p>
 							It is a long established fact that a reader will be distrac readable content of a page when
 							looking at its layout. The point of using is that it has two.

@@ -13,7 +13,7 @@ export default function IndexTwo() {
 	return (
 		<>
 			<Head>
-				<title>fugu - index o2</title>
+				<title>B2B Ultimate - index o2</title>
 			</Head>
 			<HomeTwoHeroSection />
 			<HeroThumbSection />

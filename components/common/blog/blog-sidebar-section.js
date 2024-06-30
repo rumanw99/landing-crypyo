@@ -44,7 +44,7 @@ export default function BlogSidebarSection() {
 					</div>
 					<div className="fugu--blog-post-data">
 						<Link href={"#"}>
-							<p>July 27, 2022</p>
+							<p>July 27, 2023</p>
 						</Link>
 						<Link href={"#"}>
 							<h5>We’ve valued one of the biggest NFT portfolios in the world!</h5>
@@ -59,7 +59,7 @@ export default function BlogSidebarSection() {
 					</div>
 					<div className="fugu--blog-post-data">
 						<Link href={"#"}>
-							<p>July 27, 2022</p>
+							<p>July 27, 2023</p>
 						</Link>
 						<Link href={"#"}>
 							<h5>One global or several tiny NFT communities? Traders version</h5>
@@ -74,7 +74,7 @@ export default function BlogSidebarSection() {
 					</div>
 					<div className="fugu--blog-post-data">
 						<Link href={"#"}>
-							<p>July 27, 2022</p>
+							<p>July 27, 2023</p>
 						</Link>
 						<Link href={"#"}>
 							<h5>Always be on time on your metaverse event with Dwiss!</h5>

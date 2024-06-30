@@ -45,7 +45,7 @@ export default function TestimonialSliderOne() {
 							</div>
 							<h4>Very satisfied 😊</h4>
 							<p>
-								I started with the Fugu app and now I am planning on upgrading to higher value & $25
+								I started with the B2B Ultimate app and now I am planning on upgrading to higher value & $25
 								welcome bonus. when you very first register for the app or the exchange with a referral
 								code.
 							</p>
@@ -62,9 +62,9 @@ export default function TestimonialSliderOne() {
 							</div>
 							<h4>Really happy with the app 💰</h4>
 							<p>
-								Here, Im rating the Fugu crypto app and the debit card. My experience is great! & the
+								Here, Im rating the B2B Ultimate crypto app and the debit card. My experience is great! & the
 								app is very well designed. Crypto is a marketing is very good and I think it ll to win
-								long term with fugu app.
+								long term with B2B Ultimate app.
 							</p>
 						</div>
 						<div className="fugu-testimonial-card">
@@ -79,8 +79,8 @@ export default function TestimonialSliderOne() {
 							</div>
 							<h4>I love it! ❤️</h4>
 							<p>
-								I have been using Fugu crypto app since December 2021 and so far things have a been
-								alright where purchasing BTCs and to my external wallets. Thanks fugu for a good
+								I have been using B2B Ultimate crypto app since December 2021 and so far things have a been
+								alright where purchasing BTCs and to my external wallets. Thanks B2B Ultimate for a good
 								experience at my first Wallet
 							</p>
 						</div>
@@ -96,7 +96,7 @@ export default function TestimonialSliderOne() {
 							</div>
 							<h4>Very satisfied 😊</h4>
 							<p>
-								I started with the Fugu app and now I am planning on upgrading to higher value & $25
+								I started with the B2B Ultimate app and now I am planning on upgrading to higher value & $25
 								welcome bonus. when you very first register for the app or the exchange with a referral
 								code.
 							</p>
@@ -113,9 +113,9 @@ export default function TestimonialSliderOne() {
 							</div>
 							<h4>Really happy with the app 💰</h4>
 							<p>
-								Here, I'm rating the Fugu crypto app and the debit card. My experience is great! & the
+								Here, I'm rating the B2B Ultimate crypto app and the debit card. My experience is great! & the
 								app is very well designed. Crypto is a marketing is very good and I think it'll to win
-								long term with fugu app.
+								long term with B2B Ultimate app.
 							</p>
 						</div>
 						<div className="fugu-testimonial-card">
@@ -130,8 +130,8 @@ export default function TestimonialSliderOne() {
 							</div>
 							<h4>I love it! ❤️</h4>
 							<p>
-								I have been using Fugu crypto app since December 2021 and so far things have a been
-								alright where purchasing BTCs and to my external wallets. Thanks fugu for a good
+								I have been using B2B Ultimate crypto app since December 2021 and so far things have a been
+								alright where purchasing BTCs and to my external wallets. Thanks B2B Ultimate for a good
 								experience at my first Wallet
 							</p>
 						</div>

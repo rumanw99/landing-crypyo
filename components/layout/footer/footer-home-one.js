@@ -15,7 +15,7 @@ export default function FooterHomeOne() {
 							<p>
 							Founded in 2023 and based in the vibrant city of Dubai, B2B-Ultimate has swiftly established itself as a leader in the fintech industry.
 							</p>
-							<p className="fugu-copywright">&copy; Copyright 2022, All Rights Reserved by Mthemeus</p>
+							<p className="fugu-copywright">&copy; Copyright 2023, All Rights Reserved by Mthemeus</p>
 						</div>
 					</div>
 					<div className="col-lg-2 offset-lg-1 col-md-4 col-sm-4">

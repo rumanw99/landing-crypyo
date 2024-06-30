@@ -18,7 +18,7 @@ export default function BlogPostSection() {
 									<Link href={"#"}>Art & Analusis</Link>
 								</li>
 								<li>
-									<Link href={"#"}>July 18, 2022</Link>
+									<Link href={"#"}>July 18, 2023</Link>
 								</li>
 							</ul>
 						</div>
@@ -52,7 +52,7 @@ export default function BlogPostSection() {
 									<Link href={"#"}>Art & Analusis</Link>
 								</li>
 								<li>
-									<Link href={"#"}>July 18, 2022</Link>
+									<Link href={"#"}>July 18, 2023</Link>
 								</li>
 							</ul>
 						</div>
@@ -86,7 +86,7 @@ export default function BlogPostSection() {
 									<Link href={"#"}>Art & Analusis</Link>
 								</li>
 								<li>
-									<Link href={"#"}>July 18, 2022</Link>
+									<Link href={"#"}>July 18, 2023</Link>
 								</li>
 							</ul>
 						</div>
@@ -120,7 +120,7 @@ export default function BlogPostSection() {
 									<Link href={"#"}>Art & Analusis</Link>
 								</li>
 								<li>
-									<Link href={"#"}>July 18, 2022</Link>
+									<Link href={"#"}>July 18, 2023</Link>
 								</li>
 							</ul>
 						</div>
@@ -154,7 +154,7 @@ export default function BlogPostSection() {
 									<Link href={"#"}>Art & Analusis</Link>
 								</li>
 								<li>
-									<Link href={"#"}>July 18, 2022</Link>
+									<Link href={"#"}>July 18, 2023</Link>
 								</li>
 							</ul>
 						</div>
@@ -188,7 +188,7 @@ export default function BlogPostSection() {
 									<Link href={"#"}>Art & Analusis</Link>
 								</li>
 								<li>
-									<Link href={"#"}>July 18, 2022</Link>
+									<Link href={"#"}>July 18, 2023</Link>
 								</li>
 							</ul>
 						</div>
@@ -222,7 +222,7 @@ export default function BlogPostSection() {
 									<Link href={"#"}>Art & Analusis</Link>
 								</li>
 								<li>
-									<Link href={"#"}>July 18, 2022</Link>
+									<Link href={"#"}>July 18, 2023</Link>
 								</li>
 							</ul>
 						</div>
@@ -256,13 +256,13 @@ export default function BlogPostSection() {
 									<Link href={"#"}>Art & Analusis</Link>
 								</li>
 								<li>
-									<Link href={"#"}>July 18, 2022</Link>
+									<Link href={"#"}>July 18, 2023</Link>
 								</li>
 							</ul>
 						</div>
 						<div className="fugu--blog-title">
 							<Link href={"/single-blog-light"}>
-								<h3>Our NFT Market Report Q1 2022 is published</h3>
+								<h3>Our NFT Market Report Q1 2023 is published</h3>
 							</Link>
 						</div>
 						<Link href={"single-blog-light"} legacyBehavior>

@@ -29,7 +29,7 @@ export default function ContactFormSection() {
 												<img src="/images/social/call.svg" alt="" />
 											</div>
 											<h5>Call us</h5>
-											<p>+088-234-6534-563</p>
+											<p>00971568398322</p>
 										</Link>
 									</li>
 									<li>
@@ -47,7 +47,7 @@ export default function ContactFormSection() {
 												<img src="/images/social/map.svg" alt="" />
 											</div>
 											<h5>Office address</h5>
-											<p>4132 Thornridge City, New York.</p>
+											<p>Dubai</p>
 										</Link>
 									</li>
 								</ul>

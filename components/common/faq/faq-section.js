@@ -27,7 +27,7 @@ export default function FaqSection() {
 							<div className="fugu-accordion-item">
 								<h4>Do you provide any moneyback guarantee?</h4>
 								<p>
-									Once you've approved a connection request from the app the fugu can to send
+									Once you've approved a connection request from the app the B2B Ultimate can to send
 									transaction requests to wallet, which is the on your must also have manually approve
 									in the Wallet easily provided.
 								</p>

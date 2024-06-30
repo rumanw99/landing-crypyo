@@ -9,9 +9,9 @@ export default function TestimonialSection() {
 			<div className="container">
 				<div className="fugu--section-title">
 					<div className="fugu--default-content">
-						<h2>Users around the world have a great experience with Fugu</h2>
+						<h2>Users around the world have a great experience with B2B Ultimate</h2>
 						<p>
-							Fugu is a place of trust for millions of people. Our customer reviews overall and is rated
+						B2B Ultimate is a place of trust for millions of people. Our customer reviews overall and is rated
 							just 4.5 out of 5 stars on Trustpilot. It is the right place for you.
 						</p>
 					</div>
@@ -40,7 +40,7 @@ export default function TestimonialSection() {
 							</div>
 							<div className="fugu--testimonial-data">
 								<p>
-									“I found Fugu very professional and trustworthy during my crypto trading duration of
+									“I found B2B Ultimate very professional and trustworthy during my crypto trading duration of
 									147 days. They are very honest and trusted.”
 								</p>
 							</div>
@@ -78,7 +78,7 @@ export default function TestimonialSection() {
 							</div>
 							<div className="fugu--testimonial-data">
 								<p>
-									“100% Trusted. Very legit in crypto world. So far I'm satisfied with Fugu. I just
+									“100% Trusted. Very legit in crypto world. So far I'm satisfied with B2B Ultimate. I just
 									wish this will continue at this way and there will be no sudden changes.”
 								</p>
 							</div>

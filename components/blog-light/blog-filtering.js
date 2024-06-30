@@ -72,7 +72,7 @@ export default function BlogFilterning() {
 										<li>
 											<Link href={"#"}>
 												<img src="/images/svg2/calendar.svg" alt="" />
-												July 18, 2022
+												July 18, 2023
 											</Link>
 										</li>
 										<li>
@@ -120,7 +120,7 @@ export default function BlogFilterning() {
 										<li>
 											<Link href={"#"}>
 												<img src="/images/svg2/calendar.svg" alt="" />
-												July 18, 2022
+												July 18, 2023
 											</Link>
 										</li>
 										<li>
@@ -168,7 +168,7 @@ export default function BlogFilterning() {
 										<li>
 											<Link href={"#"}>
 												<img src="/images/svg2/calendar.svg" alt="" />
-												July 18, 2022
+												July 18, 2023
 											</Link>
 										</li>
 										<li>
@@ -216,7 +216,7 @@ export default function BlogFilterning() {
 										<li>
 											<Link href={"#"}>
 												<img src="/images/svg2/calendar.svg" alt="" />
-												July 18, 2022
+												July 18, 2023
 											</Link>
 										</li>
 										<li>
@@ -264,7 +264,7 @@ export default function BlogFilterning() {
 										<li>
 											<Link href={"#"}>
 												<img src="/images/svg2/calendar.svg" alt="" />
-												July 18, 2022
+												July 18, 2023
 											</Link>
 										</li>
 										<li>
@@ -312,7 +312,7 @@ export default function BlogFilterning() {
 										<li>
 											<Link href={"#"}>
 												<img src="/images/svg2/calendar.svg" alt="" />
-												July 18, 2022
+												July 18, 2023
 											</Link>
 										</li>
 										<li>

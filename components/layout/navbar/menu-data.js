@@ -195,13 +195,13 @@ export const ElementsMegaMenu = [
 				path: "about-dark",
 			},
 			{
-				title: "About Light 01",
+				title: "About Light",
 				path: "about-us",
 			},
-			{
-				title: "Blog Light 02",
-				path: "about-light",
-			},
+			// {
+			// 	title: "Blog Light 02",
+			// 	path: "about-light",
+			// },
 		
 	
 
@@ -288,30 +288,30 @@ export const BlogDropdownMenus = [
 		title: "Blog Dark",
 		path: "blog-dark",
 	},
-	{
-		title: "Blog Dark Sidebar",
-		path: "blog-dark-sidebar",
-	},
-	{
-		title: "Blog Dark Details",
-		path: "single-blog-dark",
-	},
+	// {
+	// 	title: "Blog Dark Sidebar",
+	// 	path: "blog-dark-sidebar",
+	// },
+	// {
+	// 	title: "Blog Dark Details",
+	// 	path: "single-blog-dark",
+	// },
 	{
 		title: "Blog Light",
 		path: "blog-light",
 	},
-	{
-		title: "Blog Light Sidebar 01",
-		path: "blog",
-	},
-	{
-		title: "Blog Light Sidebar 02",
-		path: "blog-light-sidebar",
-	},
-	{
-		title: "Single Blog Light",
-		path: "single-blog-light",
-	},
+	// {
+	// 	title: "Blog Light Sidebar 01",
+	// 	path: "blog",
+	// },
+	// {
+	// 	title: "Blog Light Sidebar 02",
+	// 	path: "blog-light-sidebar",
+	// },
+	// {
+	// 	title: "Single Blog Light",
+	// 	path: "single-blog-light",
+	// },
 ];
 
 export const ContactDropdownMenus = [
@@ -320,11 +320,11 @@ export const ContactDropdownMenus = [
 		path: "contact-dark",
 	},
 	{
-		title: "Contact Light 01",
+		title: "Contact Light",
 		path: "contact",
 	},
-	{
-		title: "Contact Light 02",
-		path: "contact-light",
-	},
+	// {
+	// 	title: "Contact Light 02",
+	// 	path: "contact-light",
+	// },
 ];

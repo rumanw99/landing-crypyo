@@ -80,7 +80,7 @@ export default function FooterHomeFour() {
 				<div className="fugu--footer-bottom fugu--footer-bottom2">
 					<div className="row">
 						<div className="col-lg-6">
-							<p>&copy; Copyright 2022, All Rights Reserved by Mthemeus</p>
+							<p>&copy; Copyright 2023, All Rights Reserved by Mthemeus</p>
 						</div>
 						<div className="col-lg-6">
 							<div className="fugu--footer-menu">

@@ -15,7 +15,7 @@ export default function SingleBlogPost() {
 						<Link href={"#"}> Article </Link>
 					</li>
 					<li>
-						<Link href={"#"}> August 26, 2022 </Link>
+						<Link href={"#"}> August 26, 2023 </Link>
 					</li>
 				</ul>
 			</div>
@@ -94,7 +94,7 @@ export default function SingleBlogPost() {
 						</li>
 					</ul>
 					<p>
-						“Here, I'm rating the Fugu crypto app and the debit card. My experience is great! and as the app
+						“Here, I'm rating the B2B Ultimate crypto app and the debit card. My experience is great! and as the app
 						is very well designed. Crypto is a marketing is very good and I think it'll to win.”
 					</p>
 				</div>
