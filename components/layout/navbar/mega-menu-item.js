@@ -5,7 +5,7 @@ export default function MegaMenuItem({ menuItems }) {
 		<li className="col-lg-3">
 			<div className="single-dropdown-block">
 				<h3>{menuItems?.title}</h3>
-				{menuItems?.submenu.length &&
+				{menuItems?.submenu?.length &&
 					menuItems.submenu.map((item) => <MegaDropdownItem dropdownItem={item} key={uuidv4()} />)}
 			</div>
 		</li>

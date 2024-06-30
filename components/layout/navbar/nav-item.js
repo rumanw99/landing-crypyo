@@ -14,7 +14,7 @@ export default function NavItem({ navItemText, menuItems, megaMenu = false }) {
 		<li className={`nav-item ${menuItems ? "nav-item-has-children" : ""}`}>
 			<a href="#" className="nav-link-item drop-trigger" onClick={handleClick}>
 				{navItemText}
-				<FontAwesomeIcon icon={faAngleDown} />
+				{/* <FontAwesomeIcon icon={faAngleDown} /> */}
 			</a>
 
 			{!megaMenu ? (
