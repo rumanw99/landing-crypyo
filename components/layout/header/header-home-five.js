@@ -6,6 +6,9 @@ import {
 	ContactDropdownMenus,
 	DemoDropdownMenus,
 	ElementsMegaMenu,
+	/* `PagesDropdownMenus` is being used as menu items for the "Service" navigation item in the header.
+	It contains the dropdown menu items that will be displayed when the "Service" navigation item is
+	hovered or clicked on. */
 	PagesDropdownMenus,
 } from "../navbar/menu-data";
 import NavItem from "../navbar/nav-item";
@@ -27,7 +30,8 @@ export default function HeaderHomeFive() {
 				<nav className="navbar site-navbar">
 					<div className="brand-logo rt-mr-20">
 						<Link href={"/"}>
-							<img src="/images/logo/logo-white.svg" alt="" className="light-version-logo" />
+							{/* <img src="/images/logo/logo-white.svg" alt="" className="light-version-logo" /> */}
+							<span style={{color:"white"}}>B2B Ultimate</span>
 						</Link>
 					</div>
 					<div className="menu-block-wrapper">
@@ -43,10 +47,10 @@ export default function HeaderHomeFive() {
 							</div>
 
 							<Navbar>
-								<NavItem navItemText="Demo" menuItems={DemoDropdownMenus} />
-								<NavItem navItemText="Pages" menuItems={PagesDropdownMenus} />
-								<NavItem navItemText="Elements" menuItems={ElementsMegaMenu} megaMenu />
-								<NavItem navItemText="Blog" menuItems={BlogDropdownMenus} />
+								<NavItem navItemText="Home" />
+								<NavItem navItemText="Service" menuItems={PagesDropdownMenus} />
+								<NavItem navItemText="About" menuItems={ElementsMegaMenu} megaMenu />
+								<NavItem navItemText="Blog" menuItems={BlogDropdownMenus}  />
 								<NavItem navItemText="Contact Us" menuItems={ContactDropdownMenus} />
 							</Navbar>
 						</nav>
