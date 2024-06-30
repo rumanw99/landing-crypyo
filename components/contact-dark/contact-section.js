@@ -22,7 +22,7 @@ export default function ContactSection() {
 									<span>
 										<img src="/images/svg2/phone2.svg" alt="" />
 									</span>
-									+008-245-5667
+									00971568398322
 								</Link>
 							</li>
 							<li>
@@ -38,7 +38,7 @@ export default function ContactSection() {
 									<span>
 										<img src="/images/svg2/map2.svg" alt="" />
 									</span>
-									389 Ranchview, California 62639
+									Dubai
 								</Link>
 							</li>
 						</ul>

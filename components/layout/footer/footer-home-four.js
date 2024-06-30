@@ -29,14 +29,15 @@ export default function FooterHomeFour() {
 					<div className="row">
 						<div className="col-xl-3 col-lg-2">
 							<div className="fugu--footer-logo">
-								<img src="/images/logo/logo-black.svg" alt="" />
+								{/* <img src="/images/logo/logo-black.svg" alt="" /> */}
+								<span style={{color:"black"}}>B2B Ultimate</span>
 							</div>
 						</div>
 						<div className="col-xl-6 col-lg-8">
 							<div className="fugu--footer-menu2">
 								<ul>
 									<li>
-										<Link href={"#"}> Demos </Link>
+										<Link href={"#"}> Home </Link>
 									</li>
 									<li>
 										<Link href={"about-us"}> About Us </Link>
@@ -45,7 +46,7 @@ export default function FooterHomeFour() {
 										<Link href={"#"}> Collections </Link>
 									</li>
 									<li>
-										<Link href={"#"}> Pages </Link>
+										<Link href={"#"}> Service </Link>
 									</li>
 									<li>
 										<Link href={"contact"}> Contact </Link>

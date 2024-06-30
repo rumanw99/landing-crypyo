@@ -11,11 +11,11 @@ export default function FooterHomeFive() {
 						<div className="col-lg-3">
 							<div className="fugu--textarea">
 								<div className="fugu--footer-logo">
-									<img src="/images/logo/logo-white.svg" alt="" className="light-version-logo" />
+									{/* <img src="/images/logo/logo-white.svg" alt="" className="light-version-logo" /> */}
+									<span style={{color:"white"}}>B2B Ultimate</span>
 								</div>
 								<p>
-									Discover NFTs by category, track the latest drops, and follow the collections you
-									love to enjoy it!
+								Founded in 2023 and based in the vibrant city of Dubai, B2B-Ultimate has swiftly established itself as a leader in the fintech industry.
 								</p>
 								<div className="fugu--social-icon fugu--social-icon3">
 									<ul>
@@ -96,7 +96,7 @@ export default function FooterHomeFive() {
 									<li>
 										<Link href="#">
 											<img src="/images/svg2/phone.svg" alt="" />
-											+088-234-6534
+											00971568398322
 										</Link>
 									</li>
 									<li>
@@ -108,7 +108,7 @@ export default function FooterHomeFive() {
 									<li>
 										<Link href="#">
 											<img src="/images/svg2/map.svg" alt="" />
-											6391 Elgin St. Celina, New York City.
+											Dubai
 										</Link>
 									</li>
 								</ul>

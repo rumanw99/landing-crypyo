@@ -9,11 +9,11 @@ export default function FooterHomeOne() {
 					<div className="col-lg-4">
 						<div className="fugu-textarea">
 							<div className="fugu-footer-logo">
-								<img src="/images/logo/logo-white.svg" alt="" className="light-version-logo" />
+								{/* <img src="/images/logo/logo-white.svg" alt="" className="light-version-logo" /> */}
+								<span style={{color:"white"}}>B2B Ultimate</span>
 							</div>
 							<p>
-								Cryptocurrency trading is offered through an account with the fugu crypto app. Our
-								simplified zero commission pricing for use stocks.
+							Founded in 2023 and based in the vibrant city of Dubai, B2B-Ultimate has swiftly established itself as a leader in the fintech industry.
 							</p>
 							<p className="fugu-copywright">&copy; Copyright 2022, All Rights Reserved by Mthemeus</p>
 						</div>
@@ -67,7 +67,7 @@ export default function FooterHomeOne() {
 							<span>Contact</span>
 							<ul>
 								<li>
-									<Link href="tel:123">+088-234-6534 </Link>
+									<Link href="tel:123">00971568398322 </Link>
 								</li>
 								<li>
 									<Link href="mailto:name@email.com">example@gmail.com </Link>

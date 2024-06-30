@@ -11,7 +11,8 @@ export default function FooterHomeThree() {
 						<div className="col-lg-3">
 							<div className="fugu--textarea">
 								<div className="fugu--footer-logo">
-									<img src="/images/logo/logo-white.svg" alt="" className="light-version-logo" />
+									{/* <img src="/images/logo/logo-white.svg" alt="" className="light-version-logo" /> */}
+									<span style={{color:"white"}}>B2B Ultimate</span>
 								</div>
 								<p>
 									Discover NFTs by category, track the latest drops, and follow the collections you

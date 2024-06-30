@@ -34,7 +34,8 @@ export default function FooterHomeTwo() {
 					<div className="row">
 						<div className="col-xl-2 col-lg-2">
 							<div className="fugu-footer-logo">
-								<img src="/images/logo/logo-white.svg" alt="" />
+								{/* <img src="/images/logo/logo-white.svg" alt="" /> */}
+								<span style={{color:"white"}}>B2B Ultimate</span>
 							</div>
 						</div>
 						<div className="col-xl-7 col-lg-8">
