@@ -31,7 +31,8 @@ export default function HeaderHomeThree() {
 				<nav className="navbar site-navbar">
 					<div className="brand-logo">
 						<Link href={"/"}>
-							<img src="/images/logo/logo-white.svg" alt="" className="light-version-logo" />
+							{/* <img src="/images/logo/logo-white.svg" alt="" className="light-version-logo" /> */}
+							<span style={{color:"white"}}>B2B Ultimate</span>
 						</Link>
 					</div>
 					<div className="menu-block-wrapper">
@@ -47,9 +48,9 @@ export default function HeaderHomeThree() {
 							</div>
 
 							<Navbar>
-								<NavItem navItemText="Demo" menuItems={DemoDropdownMenus} />
-								<NavItem navItemText="Pages" menuItems={PagesDropdownMenus} />
-								<NavItem navItemText="Elements" menuItems={ElementsMegaMenu} megaMenu />
+							<a href="/" style={{color:"white" , fontWeight:"500" , marginRight:"15px"}}>Home</a>
+								<NavItem navItemText="Service" menuItems={PagesDropdownMenus} />
+								<NavItem navItemText="About" menuItems={ElementsMegaMenu}  />
 								<NavItem navItemText="Blog" menuItems={BlogDropdownMenus} />
 								<NavItem navItemText="Contact Us" menuItems={ContactDropdownMenus} />
 							</Navbar>
