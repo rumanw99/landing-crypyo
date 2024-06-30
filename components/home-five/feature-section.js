@@ -16,7 +16,7 @@ export default function FeatureSection() {
 				</div>
 				<div className="row">
 					<div className="col-xl-4 col-md-6">
-						<div className="fugu--iconbox-wrap fugu--iconbox-wrap3 wow fadeInUpX" data-wow-delay="0s">
+						<div style={{borderRadius:"20px"}} className="fugu--iconbox-wrap fugu--iconbox-wrap3 wow fadeInUpX" data-wow-delay="0s">
 							<div className="fugu--iconbox-thumb">
 								<svg
 									width="41"
@@ -49,7 +49,7 @@ export default function FeatureSection() {
 						</div>
 					</div>
 					<div className="col-xl-4 col-md-6">
-						<div className="fugu--iconbox-wrap fugu--iconbox-wrap3 wow fadeInUpX" data-wow-delay=".10s">
+						<div style={{borderRadius:"20px"}} className="fugu--iconbox-wrap fugu--iconbox-wrap3 wow fadeInUpX" data-wow-delay=".10s">
 							<div className="fugu--iconbox-thumb">
 								<svg
 									width="45"
@@ -82,7 +82,7 @@ export default function FeatureSection() {
 						</div>
 					</div>
 					<div className="col-xl-4 col-md-6">
-						<div className="fugu--iconbox-wrap fugu--iconbox-wrap3 wow fadeInUpX" data-wow-delay=".20s">
+						<div style={{borderRadius:"20px"}} className="fugu--iconbox-wrap fugu--iconbox-wrap3 wow fadeInUpX" data-wow-delay=".20s">
 							<div className="fugu--iconbox-thumb">
 								<svg
 									width="45"
@@ -115,7 +115,7 @@ export default function FeatureSection() {
 						</div>
 					</div>
 					<div className="col-xl-4 col-md-6">
-						<div className="fugu--iconbox-wrap fugu--iconbox-wrap3 wow fadeInUpX" data-wow-delay=".30s">
+						<div style={{borderRadius:"20px"}} className="fugu--iconbox-wrap fugu--iconbox-wrap3 wow fadeInUpX" data-wow-delay=".30s">
 							<div className="fugu--iconbox-thumb">
 								<svg
 									width="42"
@@ -148,7 +148,7 @@ export default function FeatureSection() {
 						</div>
 					</div>
 					<div className="col-xl-4 col-md-6">
-						<div className="fugu--iconbox-wrap fugu--iconbox-wrap3 wow fadeInUpX" data-wow-delay=".40s">
+						<div style={{borderRadius:"20px"}} className="fugu--iconbox-wrap fugu--iconbox-wrap3 wow fadeInUpX" data-wow-delay=".40s">
 							<div className="fugu--iconbox-thumb">
 								<svg
 									width="45"
@@ -177,7 +177,7 @@ export default function FeatureSection() {
 						</div>
 					</div>
 					<div className="col-xl-4 col-md-6">
-						<div className="fugu--iconbox-wrap fugu--iconbox-wrap3 wow fadeInUpX" data-wow-delay=".50s">
+						<div style={{borderRadius:"20px"}} className="fugu--iconbox-wrap fugu--iconbox-wrap3 wow fadeInUpX" data-wow-delay=".50s">
 							<div className="fugu--iconbox-thumb">
 								<svg
 									width="45"

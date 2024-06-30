@@ -48,9 +48,9 @@ export default function HeaderHomeFive() {
 
 							<Navbar>
 								<NavItem navItemText="Home" />
-								<NavItem navItemText="Service" menuItems={PagesDropdownMenus} />
+								<NavItem navItemText="Products" menuItems={PagesDropdownMenus} />
 								<NavItem navItemText="About" menuItems={ElementsMegaMenu}  />
-								<NavItem navItemText="Blog" menuItems={BlogDropdownMenus}  />
+								<NavItem navItemText="Blogs" menuItems={BlogDropdownMenus}  />
 								<NavItem navItemText="Contact Us" menuItems={ContactDropdownMenus} />
 							</Navbar>
 						</nav>

@@ -45,45 +45,41 @@ export default function FooterHomeFive() {
 						</div>
 						<div className="col-lg-2 offset-lg-1 col-md-4 col-sm-4">
 							<div className="fugu--footer-menu">
-								<span>Marketplace</span>
+								<span>Products</span>
 								<ul>
 									<li>
-										<Link href="#">Create A Store</Link>
+										<Link href="#">Service 1</Link>
 									</li>
 									<li>
-										<Link href="#">Start Selling</Link>
+										<Link href="#">Service 2</Link>
 									</li>
 									<li>
-										<Link href="#">My Account</Link>
+										<Link href="#">Service 3</Link>
 									</li>
 									<li>
-										<Link href="#">Job</Link>
+										<Link href="#">Service 4</Link>
 									</li>
-									<li>
-										<Link href="#">List a Item</Link>
-									</li>
+									
 								</ul>
 							</div>
 						</div>
 						<div className="col-lg-2 offset-lg-1 col-md-4 col-sm-4">
 							<div className="fugu--footer-menu">
-								<span>Marketplace</span>
+								<span>Quiq Links</span>
 								<ul>
 									<li>
-										<Link href="#">Art</Link>
+										<Link href="#">Products</Link>
 									</li>
 									<li>
-										<Link href="#">Digital Art</Link>
+										<Link href="#">About</Link>
 									</li>
 									<li>
-										<Link href="#">Photography</Link>
+										<Link href="#">Blogs</Link>
 									</li>
 									<li>
-										<Link href="#">Games</Link>
+										<Link href="#">Contact as</Link>
 									</li>
-									<li>
-										<Link href="#">Music</Link>
-									</li>
+									
 								</ul>
 							</div>
 						</div>
@@ -119,7 +115,7 @@ export default function FooterHomeFive() {
 				<div className="fugu--footer-bottom fugu--footer-bottom3">
 					<div className="row">
 						<div className="col-lg-6">
-							<p>&copy; Copyright 2023, All Rights Reserved by Mthemeus</p>
+							<p>&copy; Copyright 2024, B2B Ultimate</p>
 						</div>
 						<div className="col-lg-6">
 							<div className="fugu--footer-menu">

@@ -18,7 +18,7 @@ export default function TestimonialSection() {
 				</div>
 				<div className="row">
 					<div className="col-xl-4 col-md-6">
-						<div className="fugu--testimonial-wrap wow fadeInUpX" data-wow-delay="0s">
+						<div style={{borderRadius:"20px"}}  className="fugu--testimonial-wrap wow fadeInUpX" data-wow-delay="0s">
 							<div className="fugu--testimonial-rating">
 								<ul>
 									<li>
@@ -56,7 +56,7 @@ export default function TestimonialSection() {
 						</div>
 					</div>
 					<div className="col-xl-4 col-md-6">
-						<div className="fugu--testimonial-wrap wow fadeInUpX" data-wow-delay=".10s">
+						<div style={{borderRadius:"20px"}}  className="fugu--testimonial-wrap wow fadeInUpX" data-wow-delay=".10s">
 							<div className="fugu--testimonial-rating">
 								<ul>
 									<li>
@@ -94,7 +94,7 @@ export default function TestimonialSection() {
 						</div>
 					</div>
 					<div className="col-xl-4 col-md-6">
-						<div className="fugu--testimonial-wrap wow fadeInUpX" data-wow-delay=".20s">
+						<div style={{borderRadius:"20px"}}  className="fugu--testimonial-wrap wow fadeInUpX" data-wow-delay=".20s">
 							<div className="fugu--testimonial-rating">
 								<ul>
 									<li>
@@ -132,7 +132,7 @@ export default function TestimonialSection() {
 						</div>
 					</div>
 					<div className="col-xl-4 col-md-6">
-						<div className="fugu--testimonial-wrap wow fadeInUpX" data-wow-delay=".30s">
+						<div style={{borderRadius:"20px"}}  className="fugu--testimonial-wrap wow fadeInUpX" data-wow-delay=".30s">
 							<div className="fugu--testimonial-rating">
 								<ul>
 									<li>
@@ -170,7 +170,7 @@ export default function TestimonialSection() {
 						</div>
 					</div>
 					<div className="col-xl-4 col-md-6">
-						<div className="fugu--testimonial-wrap wow fadeInUpX" data-wow-delay=".40s">
+						<div style={{borderRadius:"20px"}}  className="fugu--testimonial-wrap wow fadeInUpX" data-wow-delay=".40s">
 							<div className="fugu--testimonial-rating">
 								<ul>
 									<li>
@@ -208,7 +208,7 @@ export default function TestimonialSection() {
 						</div>
 					</div>
 					<div className="col-xl-4 col-md-6">
-						<div className="fugu--testimonial-wrap wow fadeInUpX" data-wow-delay=".50s">
+						<div style={{borderRadius:"20px"}}  className="fugu--testimonial-wrap wow fadeInUpX" data-wow-delay=".50s">
 							<div className="fugu--testimonial-rating">
 								<ul>
 									<li>
