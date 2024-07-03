@@ -15,20 +15,20 @@ export const DemoDropdownMenus = [
 	// 	title: "Home 04",
 	// 	path: "index-four",
 	// },
-	{
-		title: "Home 05",
-		path: "index-five",
-	},
+	// {
+	// 	title: "Home 05",
+	// 	path: "index-five",
+	// },
 ];
-// export const PagesDropdownMenus = [
+ export const PagesDropdownMenus = [
 // 	// {
 // 	// 	title: "About",
 // 	// 	path: "about",
 // 	// 	submenu: [
-// 	// 		{
-// 	// 			title: "About Dark",
-// 	// 			path: "about-dark",
-// 	// 		},
+ 		{
+ 			title: "About Dark",
+ 			path: "about-dark",
+ 		},
 // 	// 		{
 // 	// 			title: "About Light 01",
 // 	// 			path: "about-us",
@@ -65,10 +65,10 @@ export const DemoDropdownMenus = [
 // 	// 	title: "Blog Dark",
 // 	// 	path: "blog-dark",
 // 	// 	submenu: [
-// 	// 		{
-// 	// 			title: "Blog Dark",
-// 	// 			path: "blog-dark",
-// 	// 		},
+			{
+				title: "Blog Dark",
+				path: "blog-dark",
+			},
 // 	// 		{
 // 	// 			title: "Blog Dark Sidebar",
 // 	// 			path: "blog-dark-sidebar",
@@ -81,14 +81,14 @@ export const DemoDropdownMenus = [
 // 	// },
 	
 // 		//of
-// 			// {
-// 			// 	title: "Services",
-// 			// 	path: "service",
-// 			// },
-// 			// {
-// 			// 	title: "Single Service",
-// 			// 	path: "single-service",
-// 			// },
+//  			 {
+//  	title: "Services",
+// 	path: "service",
+//  },
+//   {
+//   	title: "Single Service",
+//   	path: "service",
+//   },
 		
 	
 // 	// {
@@ -185,23 +185,23 @@ export const DemoDropdownMenus = [
 // 	// 		},
 // 	// 	],
 // 	// },
-// ];
+ ];
 
-// export const ElementsMegaMenu = [
+ export const ElementsMegaMenu = [
 
 // 		// of
-// 			// {
-// 			// 	title: "About Dark",
-// 			// 	path: "about-dark",
-// 			// },
-// 			// {
-// 			// 	title: "About Light",
-// 			// 	path: "about-us",
-// 			// },
-// 			// {
-// 			// 	title: "Blog Light 02",
-// 			// 	path: "about-light",
-// 			// },
+ {
+ 	title: "About Dark",
+ 	path: "about-dark",
+ },
+//  {
+//  	title: "About Light",
+//  	path: "about-us",
+//  },
+//  {
+//  	title: "Blog Light 02",
+//  	path: "about-light",
+//  },
 		
 	
 
@@ -217,10 +217,10 @@ export const DemoDropdownMenus = [
 // 	// 			title: "Blog Dark Sidebar",
 // 	// 			path: "blog-dark-sidebar",
 // 	// 		},
-// 	// 		{
-// 	// 			title: "Blog Dark Details",
-// 	// 			path: "single-blog-dark",
-// 	// 		},
+ 		{
+ 			title: "Blog Dark Details",
+ 			path: "single-blog-dark",
+ 		},
 // 	// 		{
 // 	// 			title: "Blog Light",
 // 	// 			path: "blog-light",
@@ -281,22 +281,22 @@ export const DemoDropdownMenus = [
 // 	// 		},
 // 	// 	],
 // 	// },
-// ];
+ ];
 
-// export const BlogDropdownMenus = [
+ export const BlogDropdownMenus = [
 // 	//of
-// 	{
-// 		title: "Blog Dark",
-// 		path: "blog-dark",
-// 	},
+	{
+ 		title: "Blog Dark",
+ 		path: "blog-dark",
+ 	},
 // 	// {
 // 	// 	title: "Blog Dark Sidebar",
 // 	// 	path: "blog-dark-sidebar",
 // 	// },
-// 	// {
-// 	// 	title: "Blog Dark Details",
-// 	// 	path: "single-blog-dark",
-// 	// },
+ {
+ 	title: "Blog Dark Details",
+ 	path: "single-blog-dark",
+ },
 // 	{
 // 		title: "Blog Light",
 // 		path: "blog-light",
@@ -313,14 +313,14 @@ export const DemoDropdownMenus = [
 // 	// 	title: "Single Blog Light",
 // 	// 	path: "single-blog-light",
 // 	// },
-// ];
+ ];
 
-// export const ContactDropdownMenus = [
+ export const ContactDropdownMenus = [
 // 	//of
-// 	{
-// 		title: "Contact Dark",
-// 		path: "contact-dark",
-// 	},
+ 	{
+ 		title: "Contact Dark",
+ 		path: "contact-dark",
+ 	},
 // 	{
 // 		title: "Contact Light",
 // 		path: "contact",
@@ -329,4 +329,4 @@ export const DemoDropdownMenus = [
 // 	// 	title: "Contact Light 02",
 // 	// 	path: "contact-light",
 // 	// },
-// ];
+ ];

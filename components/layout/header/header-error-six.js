@@ -38,8 +38,8 @@ export default function HeaderErrorSix() {
 							</div>
 
 							<Navbar>
-								<NavItem navItemText="Home" menuItems={DemoDropdownMenus} />
-								<NavItem navItemText="Service" menuItems={PagesDropdownMenus} />
+							<a href="/" style={{color:"black" , fontWeight:"500" , marginRight:"15px"}}>Home</a>
+								<NavItem navItemText="Products" menuItems={PagesDropdownMenus} />
 								<NavItem navItemText="About" menuItems={ElementsMegaMenu} />
 								<NavItem navItemText="Blog" menuItems={BlogDropdownMenus} />
 								<NavItem navItemText="Contact Us" menuItems={ContactDropdownMenus} />

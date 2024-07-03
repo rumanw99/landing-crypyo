@@ -47,7 +47,7 @@ export default function HeaderHomeTwo() {
 
 							<Navbar>
 							<a href="/" style={{color:"black" , fontWeight:"500" , marginRight:"15px"}}>Home</a>
-								<NavItem navItemText="Service" menuItems={PagesDropdownMenus} />
+								<NavItem navItemText="Products" menuItems={PagesDropdownMenus} />
 								<NavItem navItemText="About" menuItems={ElementsMegaMenu}  />
 								<NavItem navItemText="Blog" menuItems={BlogDropdownMenus} />
 								<NavItem navItemText="Contact Us" menuItems={ContactDropdownMenus} />

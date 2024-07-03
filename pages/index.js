@@ -12,7 +12,7 @@ export default function IndexFive() {
 	return (
 		<>
 			<Head>
-				<title>B2B Ultimate - index o5</title>
+				<title>B2B Ultimate</title>
 			</Head>
 			<HeroSection />
 			<ClientSliderOne />
