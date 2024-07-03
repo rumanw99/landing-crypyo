@@ -26,7 +26,7 @@ export const DemoDropdownMenus = [
 // 	// 	path: "about",
 // 	// 	submenu: [
  		{
- 			title: "About Dark",
+ 			title: "Service",
  			path: "about-dark",
  		},
 // 	// 		{
@@ -66,7 +66,7 @@ export const DemoDropdownMenus = [
 // 	// 	path: "blog-dark",
 // 	// 	submenu: [
 			{
-				title: "Blog Dark",
+				title: "Service 01",
 				path: "blog-dark",
 			},
 // 	// 		{
