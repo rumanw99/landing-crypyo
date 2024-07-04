@@ -99,7 +99,7 @@ export default function CardSliderOne() {
 								<img src="/images/all-img/v3/card3.jpg" alt="" />
 							</div>
 							<div className="fugu--card-data">
-								<h3>CryptoPunks 4D Official</h3>
+								<h3>NFTPunks 4D Official</h3>
 								<p>Pre-sale : 18 May 2023</p>
 								<div className="fugu--card-footer">
 									<div className="fugu--card-footer-data">
@@ -135,7 +135,7 @@ export default function CardSliderOne() {
 								<img src="/images/all-img/v3/card5.jpg" alt="" />
 							</div>
 							<div className="fugu--card-data">
-								<h3>CryptoPunks 4D Official</h3>
+								<h3>NFTPunks 4D Official</h3>
 								<p>Pre-sale : 18 May 2023</p>
 								<div className="fugu--card-footer">
 									<div className="fugu--card-footer-data">

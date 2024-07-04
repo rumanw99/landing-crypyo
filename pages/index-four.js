@@ -1,6 +1,6 @@
 import Head from "next/head";
 import FaqAccordionOne from "../components/common/faq/faq-accordion-one";
-import NftCollectionSection from "../components/common/sliders/card/card-slider-two";
+import NFTCollectionSection from "../components/common/sliders/card/card-slider-two";
 import TeamHomeFour from "../components/common/team/team-home-four";
 import AboutSection from "../components/home-four/about-section";
 import ArtWorkSection from "../components/home-four/art-work-section";
@@ -18,7 +18,7 @@ export default function IndexFour() {
 			<TextSliderThree />
 			<AboutSection />
 			<ArtWorkSection />
-			<NftCollectionSection />
+			<NFTCollectionSection />
 			<RoadmapSection />
 			<TeamHomeFour />
 			<FaqAccordionOne />

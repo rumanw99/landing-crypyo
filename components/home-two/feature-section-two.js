@@ -6,7 +6,7 @@ export default function FeatureSectionTwo() {
 		<div className="section bg-gray-800 fugu-section-padding3">
 			<div className="container">
 				<div className="fugu-section-title title-white">
-					<h2>Everything you need for crypto trading is available</h2>
+					<h2>Everything you need for NFT trading is available</h2>
 				</div>
 				<div className="row">
 					<div className="col-lg-4 col-md-6">
@@ -31,7 +31,7 @@ export default function FeatureSectionTwo() {
 							<div className="fugu-iconbox-data3">
 								<h4>Guided by experts</h4>
 								<p>
-									CryptoExperts SAS is a company founded by internationally recognized industrial &
+									NFTExperts SAS is a company founded by internationally recognized industrial &
 									academic researchers.
 								</p>
 							</div>
@@ -45,7 +45,7 @@ export default function FeatureSectionTwo() {
 							<div className="fugu-iconbox-data3">
 								<h4>Affordable plans</h4>
 								<p>
-									If you're ready to invest in some crypto, check out the nexto cheap options that
+									If you're ready to invest in some NFT, check out the nexto cheap options that
 									could generate nice returns in 2023.
 								</p>
 							</div>
@@ -74,7 +74,7 @@ export default function FeatureSectionTwo() {
 								<h4>Online wallets</h4>
 								<p>
 									Best for security because it comes with the strongest security features & track
-									record of any cryptoo online wallet.
+									record of any NFTo online wallet.
 								</p>
 							</div>
 						</div>

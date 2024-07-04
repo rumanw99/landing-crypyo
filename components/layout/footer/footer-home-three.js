@@ -8,15 +8,14 @@ export default function FooterHomeThree() {
 			<div className="container">
 				<div className="fugu--footer-top">
 					<div className="row">
-						<div className="col-lg-3">
+						<div className="col-lg-4">
 							<div className="fugu--textarea">
 								<div className="fugu--footer-logo">
 									{/* <img src="/images/logo/logo-white.svg" alt="" className="light-version-logo" /> */}
 									<span style={{color:"white"}}>B2B Ultimate</span>
 								</div>
 								<p>
-									Discover NFTs by category, track the latest drops, and follow the collections you
-									love to enjoy it!
+								Founded in 2023 and based in the vibrant city of Dubai, B2B-Ultimate has swiftly established itself as a leader in the fintech industry.
 								</p>
 								<div className="fugu--social-icon">
 									<ul>
@@ -46,54 +45,52 @@ export default function FooterHomeThree() {
 						</div>
 						<div className="col-lg-2 offset-lg-1 col-md-4 col-sm-4">
 							<div className="fugu--footer-menu">
-								<span>Marketplace</span>
+								<span>Products</span>
 								<ul>
 									<li>
-										<Link href="#">Create A Store </Link>
+										<Link href="#">Service 1 </Link>
 									</li>
 									<li>
-										<Link href="#">Start Selling </Link>
+										<Link href="#">Service 2 </Link>
 									</li>
 									<li>
-										<Link href="#">My Account </Link>
+										<Link href="#">Service 3 </Link>
 									</li>
 									<li>
-										<Link href="#">Job </Link>
+										<Link href="#">Service 4 </Link>
 									</li>
-									<li>
-										<Link href="#">List a Item </Link>
-									</li>
+									
 								</ul>
 							</div>
 						</div>
 						<div className="col-lg-2 offset-lg-1 col-md-4 col-sm-4">
 							<div className="fugu--footer-menu">
-								<span>Marketplace</span>
+								<span>Quiq Links</span>
 								<ul>
 									<li>
-										<Link href="#">Art </Link>
+										<Link href="#">Home </Link>
 									</li>
 									<li>
-										<Link href="#">Digital Art </Link>
+										<Link href="#">Products </Link>
 									</li>
 									<li>
-										<Link href="#">Photography </Link>
+										<Link href="#">About </Link>
 									</li>
 									<li>
-										<Link href="#">Games </Link>
+										<Link href="#">Blog </Link>
 									</li>
 									<li>
-										<Link href="#">Music </Link>
+										<Link href="#">Contact </Link>
 									</li>
 								</ul>
 							</div>
 						</div>
-						<div className="col-lg-2 offset-lg-1 col-md-4 col-sm-4">
+						{/* <div className="col-lg-2 offset-lg-1 col-md-4 col-sm-4">
 							<div className="fugu--footer-menu">
 								<span>Marketplace</span>
 								<ul>
 									<li>
-										<Link href="#">Explore NFTs </Link>
+										<Link href="#">Explore NFT </Link>
 									</li>
 									<li>
 										<Link href="#">Platform Status </Link>
@@ -109,11 +106,11 @@ export default function FooterHomeThree() {
 									</li>
 								</ul>
 							</div>
-						</div>
+						</div> */}
 					</div>
 				</div>
 				<div className="fugu--footer-bottom">
-					assets <p>&copy; Copyright 2023, All Rights Reserved by Mthemeus</p>
+					assets <p>&copy; Copyright 2024, B2B Ultimate</p>
 					<div className="fugu--footer-menu">
 						<ul>
 							<li>

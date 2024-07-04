@@ -30,7 +30,7 @@ export default function TestimonialSliderTwo() {
 		<div className="section bg-warning-200 fugu-section-padding2">
 			<div className="container">
 				<div className="fugu-section-title">
-					<h2>1600+ traders admit that B2B Ultimate is the best crypto</h2>
+					<h2>1600+ traders admit that B2B Ultimate is the best NFT</h2>
 				</div>
 				<div className="fugu-testimonial-slider2">
 					<Slider {...settings}>
@@ -53,7 +53,7 @@ export default function TestimonialSliderTwo() {
 								</li>
 							</ul>
 							<p>
-								“I found Nexto very professional and trustworthy during my crypto trading duration of
+								“I found Nexto very professional and trustworthy during my NFT trading duration of
 								147 days. They are very honest and trusted. It is trustable to earn passive income.”
 							</p>
 							<div className="fugu-testimonial-author-data">
@@ -80,7 +80,7 @@ export default function TestimonialSliderTwo() {
 								</li>
 							</ul>
 							<p>
-								“100% Trusted. Very legit in crypto world. So far I'm satisfied with Nexto. I just wish
+								“100% Trusted. Very legit in NFT world. So far I'm satisfied with Nexto. I just wish
 								this will best continue this way and there will be no sudden changes and also more than
 								just satisfied.”
 							</p>
@@ -108,7 +108,7 @@ export default function TestimonialSliderTwo() {
 								</li>
 							</ul>
 							<p>
-								“I found Nexto very professional and trustworthy during my crypto trading duration of
+								“I found Nexto very professional and trustworthy during my NFT trading duration of
 								147 days. They are very honest and trusted. It is trustable to earn passive income.”
 							</p>
 							<div className="fugu-testimonial-author-data">
@@ -135,7 +135,7 @@ export default function TestimonialSliderTwo() {
 								</li>
 							</ul>
 							<p>
-								“100% Trusted. Very legit in crypto world. So far I'm satisfied with Nexto. I just wish
+								“100% Trusted. Very legit in NFT world. So far I'm satisfied with Nexto. I just wish
 								this will best continue this way and there will be no sudden changes and also more than
 								just satisfied.”
 							</p>

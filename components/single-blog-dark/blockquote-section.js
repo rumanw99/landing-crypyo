@@ -7,9 +7,9 @@ export default function BlockquoteSection() {
 				<div className="fugu--blockquote-icon">
 					<img src="/images/all-img/blog2/quote.png" alt="" />
 				</div>
-				“It is a form of digital ledger.” “The unique identity and ownership of an NFT are verifiable via the
-				best blockchain ledger.” “An NFT is a unit of data stored on a digital ledger, called a blockchain,
-				which can be sold and traded. Keep calm & collect your NFTs.”
+				“It is a form of digital ledger.” “The unique identity and ownership of an Crypto are verifiable via the
+				best blockchain ledger.” “An Crypto is a unit of data stored on a digital ledger, called a blockchain,
+				which can be sold and traded. Keep calm & collect your Crypto.”
 				<div className="fugu--blockquote-user">
 					<div className="fugu--blockquote-user-thumb">
 						<img src="/images/all-img/blog2/author1.png" alt="" />

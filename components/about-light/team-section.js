@@ -50,7 +50,7 @@ export default function TeamSection() {
 						<div className="fugu--default-content content-black">
 							<h2>A team of innovative and confident people</h2>
 							<p>
-								Meet our expert team who value these relationships and will look for NFTs with a unique
+								Meet our expert team who value these relationships and will look for NFT with a unique
 								and creation processes.
 							</p>
 						</div>

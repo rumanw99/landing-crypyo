@@ -87,10 +87,10 @@ export default function BlogSidebarSection() {
 				<div className="fugu--tags">
 					<ul>
 						<li>
-							<Link href={"#"}> NFTs art</Link>
+							<Link href={"#"}> NFT art</Link>
 						</li>
 						<li>
-							<Link href={"#"}> Cryptocurrency</Link>
+							<Link href={"#"}> NFTcurrency</Link>
 						</li>
 						<li>
 							<Link href={"#"}> Digital </Link>

@@ -37,12 +37,12 @@ export default function ClientSliderTwo() {
 		],
 	};
 	return (
-		<div className="fugu-client-section">
+		<div style={{ color:"white"}} className="fugu-client-section">
 			<div className="container">
 				<div className="fugu-client-title">
-					<h5>TTrusted by 1600+ of the world's most popular companies</h5>
+					<h5 style={{color:"white"}}>TTrusted by 1600+ of the world's most popular companies</h5>
 				</div>
-				<div className="fugu-client-slider2">
+				<div style={{background:"white"}} className="fugu-client-slider2">
 					<Slider {...settting}>
 						<div className="fugu-brand-logo">
 							<img src="/images/all-img/about/client1.png" alt="" />

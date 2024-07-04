@@ -94,7 +94,7 @@ export default function SingleBlogPost() {
 						</li>
 					</ul>
 					<p>
-						“Here, I'm rating the B2B Ultimate crypto app and the debit card. My experience is great! and as the app
+						“Here, I'm rating the B2B Ultimate Crypto app and the debit card. My experience is great! and as the app
 						is very well designed. Crypto is a marketing is very good and I think it'll to win.”
 					</p>
 				</div>
@@ -189,7 +189,7 @@ export default function SingleBlogPost() {
 								<p>Previous post</p>
 							</div>
 						</div>
-						<h6>What does the NFT Ecosystem look like after the Boom?</h6>
+						<h6>What does the Crypto Ecosystem look like after the Boom?</h6>
 					</a>
 				</Link>
 				<Link href={"#"} legacyBehavior>

@@ -39,7 +39,7 @@ export default function RelatedProjectSection() {
 						<img src="/images/all-img/portfolio/p5.png" alt="" />
 						<div className="fugu-gallery-data">
 							<h5>
-								<Link href={"single-portfolio"}> Crypto coin </Link>
+								<Link href={"single-portfolio"}> NFT coin </Link>
 							</h5>
 							<p>UI/UX Design</p>
 						</div>

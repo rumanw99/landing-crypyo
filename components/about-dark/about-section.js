@@ -7,7 +7,7 @@ export default function AboutSection() {
 					<div className="fugu--hero-content">
 						<h1>About our company</h1>
 						<p>
-						Founded in 2023 and based in the vibrant city of Dubai, B2B-Ultimate has swiftly established itself as a leader in the fintech industry. We specialize in providing comprehensive white-label solutions for crypto exchanges, payment gateways, crypto cards, ATMs, and POS machines. 
+						Founded in 2023 and based in the vibrant city of Dubai, B2B-Ultimate has swiftly established itself as a leader in the fintech industry. We specialize in providing comprehensive white-label solutions for NFT exchanges, payment gateways, NFT cards, ATMs, and POS machines. 
 						Our team of dedicated professionals combines extensive industry knowledge with innovative technology to deliver tailored solutions that meet the evolving needs of our B2B clients.
 						</p>
 					</div>

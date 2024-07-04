@@ -25,10 +25,10 @@ export const DemoDropdownMenus = [
 // 	// 	title: "About",
 // 	// 	path: "about",
 // 	// 	submenu: [
- 		{
- 			title: "Service",
- 			path: "about-dark",
- 		},
+ 		// {
+ 		// 	title: "Service",
+ 		// 	path: "about-dark",
+ 		// },
 // 	// 		{
 // 	// 			title: "About Light 01",
 // 	// 			path: "about-us",
@@ -65,10 +65,10 @@ export const DemoDropdownMenus = [
 // 	// 	title: "Blog Dark",
 // 	// 	path: "blog-dark",
 // 	// 	submenu: [
-			{
-				title: "Service 01",
-				path: "blog-dark",
-			},
+			// {
+			// 	title: "Service 01",
+			// 	path: "blog-dark",
+			// },
 // 	// 		{
 // 	// 			title: "Blog Dark Sidebar",
 // 	// 			path: "blog-dark-sidebar",
@@ -81,14 +81,14 @@ export const DemoDropdownMenus = [
 // 	// },
 	
 // 		//of
-//  			 {
-//  	title: "Services",
-// 	path: "service",
-//  },
-//   {
-//   	title: "Single Service",
-//   	path: "service",
-//   },
+ 			 {
+ 	title: "Services",
+	path: "service",
+ },
+  {
+  	title: "Single Service",
+  	path: "single-service",
+  },
 		
 	
 // 	// {
@@ -194,10 +194,10 @@ export const DemoDropdownMenus = [
  	title: "About Dark",
  	path: "about-dark",
  },
-//  {
-//  	title: "About Light",
-//  	path: "about-us",
-//  },
+ {
+ 	title: "About Light",
+ 	path: "about-us",
+ },
 //  {
 //  	title: "Blog Light 02",
 //  	path: "about-light",
@@ -217,10 +217,10 @@ export const DemoDropdownMenus = [
 // 	// 			title: "Blog Dark Sidebar",
 // 	// 			path: "blog-dark-sidebar",
 // 	// 		},
- 		{
- 			title: "Blog Dark Details",
- 			path: "single-blog-dark",
- 		},
+ 		// {
+ 		// 	title: "Blog Dark Details",
+ 		// 	path: "single-blog-dark",
+ 		// },
 // 	// 		{
 // 	// 			title: "Blog Light",
 // 	// 			path: "blog-light",

@@ -9,7 +9,7 @@ export default function FooterHomeFour() {
 				<div className="fugu--footer-top">
 					<div className="fugu--default-content content-black">
 						<h2 className="wow fadeInUpX" data-wow-delay="0s">
-							Join our NFTs community
+							Join our NFT community
 						</h2>
 						<p className="wow fadeInUpX" data-wow-delay="0.15s">
 							Meet artists & collectors for platform updates and get dozens of our extraordinary art
@@ -40,13 +40,13 @@ export default function FooterHomeFour() {
 										<Link href={"#"}> Home </Link>
 									</li>
 									<li>
-										<Link href={"about-us"}> About Us </Link>
+										<Link href={"about-us"}> Products </Link>
 									</li>
 									<li>
-										<Link href={"#"}> Collections </Link>
+										<Link href={"#"}> About </Link>
 									</li>
 									<li>
-										<Link href={"#"}> Service </Link>
+										<Link href={"#"}> Blog </Link>
 									</li>
 									<li>
 										<Link href={"contact"}> Contact </Link>
@@ -80,7 +80,7 @@ export default function FooterHomeFour() {
 				<div className="fugu--footer-bottom fugu--footer-bottom2">
 					<div className="row">
 						<div className="col-lg-6">
-							<p>&copy; Copyright 2023, All Rights Reserved by Mthemeus</p>
+							<p>&copy; Copyright 2024, B2B Ultimate</p>
 						</div>
 						<div className="col-lg-6">
 							<div className="fugu--footer-menu">

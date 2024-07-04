@@ -24,7 +24,7 @@ export default function BlogPostSection() {
 						</div>
 						<div className="fugu--blog-title">
 							<Link href={"/single-blog-light"}>
-								<h3>What does the NFT Ecosystem look like after the Boom?</h3>
+								<h3>What does the Crypto Ecosystem look like after the Boom?</h3>
 							</Link>
 						</div>
 						<Link href={"single-blog-light"} legacyBehavior>
@@ -92,7 +92,7 @@ export default function BlogPostSection() {
 						</div>
 						<div className="fugu--blog-title">
 							<Link href={"/single-blog-light"}>
-								<h3>We’ve valued one of the best NFT portfolios in the world!</h3>
+								<h3>We’ve valued one of the best Crypto portfolios in the world!</h3>
 							</Link>
 						</div>
 						<Link href={"single-blog-light"} legacyBehavior>
@@ -160,7 +160,7 @@ export default function BlogPostSection() {
 						</div>
 						<div className="fugu--blog-title">
 							<Link href={"/single-blog-light"}>
-								<h3>Celebrities and NFTs: what’s all the hype about?</h3>
+								<h3>Celebrities and Crypto: what’s all the hype about?</h3>
 							</Link>
 						</div>
 						<Link href={"single-blog-light"} legacyBehavior>
@@ -228,7 +228,7 @@ export default function BlogPostSection() {
 						</div>
 						<div className="fugu--blog-title">
 							<Link href={"/single-blog-light"}>
-								<h3>The Matrix NFT Avatars are coming to Nifty’s!</h3>
+								<h3>The Matrix Crypto Avatars are coming to Nifty’s!</h3>
 							</Link>
 						</div>
 						<Link href={"single-blog-light"} legacyBehavior>
@@ -262,7 +262,7 @@ export default function BlogPostSection() {
 						</div>
 						<div className="fugu--blog-title">
 							<Link href={"/single-blog-light"}>
-								<h3>Our NFT Market Report Q1 2023 is published</h3>
+								<h3>Our Crypto Market Report Q1 2023 is published</h3>
 							</Link>
 						</div>
 						<Link href={"single-blog-light"} legacyBehavior>

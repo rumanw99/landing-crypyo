@@ -38,10 +38,10 @@ export default function ArtWorkSection() {
 							<h2>We add value to your artwork & sell them</h2>
 							<p>
 								Start your NFT collection quickly & easily by grabbing a free NFT every week! Get in
-								early and grab NFTs before most of the world. Start your journey here.
+								early and grab NFT before most of the world. Start your journey here.
 							</p>
 							<p>
-								We're excited about a brand new type of digital a called NFT. NFTs have exciting new
+								We're excited about a brand new type of digital a called NFT. NFT have exciting new
 								properties: provably scarce, tradeable, and across multiple applications.
 							</p>
 							<div className="fugu--btn-wrap">

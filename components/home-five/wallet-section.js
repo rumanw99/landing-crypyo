@@ -28,9 +28,9 @@ export default function WalletSection() {
 						</div>
 						<div className="col-xl-6">
 							<div className="fugu--default-content">
-								<h2>In the crypto world, we are secure & trustworthy</h2>
+								<h2>In the NFT world, we are secure & trustworthy</h2>
 								<p>
-								B2B Ultimate is one of the largest and safest platforms out there. The best crypto wallets
+								B2B Ultimate is one of the largest and safest platforms out there. The best NFT wallets
 									provide a good mix of security tools and user-facing features at a reasonable cost.
 								</p>
 								<div className="fugu--meta">
@@ -79,15 +79,15 @@ export default function WalletSection() {
 							<div className="fugu--default-content">
 								<h2>Easy step to use B2B Ultimate wallet on any device</h2>
 								<p>
-									While the concept is simple a place to store your crypto & use choosing B2B Ultimate crypto
+									While the concept is simple a place to store your NFT & use choosing B2B Ultimate NFT
 									wallet can be an incredibly experience.
 								</p>
 								<div className="fugu--accordion-one accordion-two" id="accordionExample">
 									<Accordion defaultActiveKey="0">
 										<Accordion.Item eventKey="0">
-											<Accordion.Header>Crypto Exchanges</Accordion.Header>
+											<Accordion.Header>NFT Exchanges</Accordion.Header>
 											<Accordion.Body>
-											Crypto Exchanges: Customized white-label solutions that allow you to launch your own crypto exchange with ease.
+											NFT Exchanges: Customized white-label solutions that allow you to launch your own NFT exchange with ease.
 											</Accordion.Body>
 										</Accordion.Item>
 										<Accordion.Item eventKey="1">
@@ -97,9 +97,9 @@ export default function WalletSection() {
 											</Accordion.Body>
 										</Accordion.Item>
 										<Accordion.Item eventKey="2">
-											<Accordion.Header>Crypto Cards</Accordion.Header>
+											<Accordion.Header>NFT Cards</Accordion.Header>
 											<Accordion.Body>
-											White-label crypto card services that enable your customers to seamlessly spend their cryptocurrency.
+											White-label NFT card services that enable your customers to seamlessly spend their NFTcurrency.
 											</Accordion.Body>
 										</Accordion.Item>
 										<Accordion.Item eventKey="3">

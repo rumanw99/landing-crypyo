@@ -7,7 +7,7 @@ export default function FaqSection() {
 						<div className="fugu--default-content content-black">
 							<h2>Frequently asked questions</h2>
 							<p>
-								FAQ used to refer to a list of answers to typical NFTs questions that users might ask.
+								FAQ used to refer to a list of answers to typical NFT questions that users might ask.
 							</p>
 						</div>
 					</div>
@@ -73,7 +73,7 @@ export default function FaqSection() {
 										aria-expanded="false"
 										aria-controls="collapseThree"
 									>
-										What’s the connection between NFTs & crypto?
+										What’s the connection between NFT & NFT?
 									</button>
 								</h2>
 								<div
@@ -98,7 +98,7 @@ export default function FaqSection() {
 										aria-expanded="false"
 										aria-controls="collapseFour"
 									>
-										Are NFTs the future of art and collectibles?
+										Are NFT the future of art and collectibles?
 									</button>
 								</h2>
 								<div
@@ -123,7 +123,7 @@ export default function FaqSection() {
 										aria-expanded="false"
 										aria-controls="collapseFive"
 									>
-										What questions remain about NFTs?
+										What questions remain about NFT?
 									</button>
 								</h2>
 								<div

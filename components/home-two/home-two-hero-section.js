@@ -7,10 +7,10 @@ export default function HomeTwoHeroSection() {
 			<div className="container">
 				<div className="fugu-hero-content fugu-hero-content2">
 					<h1 className="wow fadeInUpX" data-wow-delay="0s">
-						The leading platform for cryptocurrency traders
+						The leading platform for NFTcurrency traders
 					</h1>
 					<p className="wow fadeInUpX" data-wow-delay="0.25s">
-						We offer a full-fledged long-term rental platform to cryptocurrency users. It plans to use
+						We offer a full-fledged long-term rental platform to NFTcurrency users. It plans to use
 						blockchain technology to ensure a secure seamless rental experience.
 					</p>
 					<div className="fugu-hero-btn-wrap wow fadeInUpX" data-wow-delay="0.40s">

@@ -40,7 +40,7 @@ export default function PricingSectionTwo() {
 								<ul>
 									<li>
 										<img src="/images/svg/check5.svg" alt="" />
-										Real-time crypto trading
+										Real-time NFT trading
 									</li>
 									<li>
 										<img src="/images/svg/check5.svg" alt="" />
@@ -81,7 +81,7 @@ export default function PricingSectionTwo() {
 								<ul>
 									<li>
 										<img src="/images/svg/check5.svg" alt="" />
-										Real-time crypto trading
+										Real-time NFT trading
 									</li>
 									<li>
 										<img src="/images/svg/check5.svg" alt="" />
@@ -122,7 +122,7 @@ export default function PricingSectionTwo() {
 								<ul>
 									<li>
 										<img src="/images/svg/check5.svg" alt="" />
-										Real-time crypto trading
+										Real-time NFT trading
 									</li>
 									<li>
 										<img src="/images/svg/check5.svg" alt="" />
@@ -163,7 +163,7 @@ export default function PricingSectionTwo() {
 								<ul>
 									<li>
 										<img src="/images/svg/check5.svg" alt="" />
-										Real-time crypto trading
+										Real-time NFT trading
 									</li>
 									<li>
 										<img src="/images/svg/check5.svg" alt="" />

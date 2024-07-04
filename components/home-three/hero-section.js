@@ -11,10 +11,10 @@ export default function HeroSection() {
 					<div className="col-lg-7">
 						<div className="fugu--hero-content">
 							<h1 className="wow fadeInUpX" data-wow-delay="0s">
-								Discover the latest digital art and collect NFTs
+								Discover the latest digital art and collect NFT
 							</h1>
 							<p className="wow fadeInUpX" data-wow-delay="0.10s">
-								The largest NFT marketplace. We make NFTs easier and more efficient for culture and
+								The largest NFT marketplace. We make NFT easier and more efficient for culture and
 								creativity, built efficiently for you.
 							</p>
 							<div className="fugu--btn-wrap fugu--hero-btn wow fadeInUpX" data-wow-delay="0.20s">

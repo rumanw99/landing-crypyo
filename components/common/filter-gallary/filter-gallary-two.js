@@ -107,7 +107,7 @@ export default function FilterGallaryTwo() {
 							<img src="/images/all-img/portfolio/p5.png" alt="" />
 							<div className="fugu-gallery-data">
 								<h4>
-									<Link href={"/single-portfolio"}>Crypto coin</Link>
+									<Link href={"/single-portfolio"}>NFT coin</Link>
 								</h4>
 								<p>UI/UX Design</p>
 							</div>

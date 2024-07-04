@@ -1,7 +1,7 @@
 /* eslint-disable @next/next/no-img-element */
 export default function FeatureSection() {
 	return (
-		<div className="section bg-warning-300 fugu-section-padding3">
+		<div style={{background:"#26242c !important" , color:"white"}} className="section bg-warning-300 fugu-section-padding3">
 			<div className="container">
 				<div className="fugu-section-title">
 					<h2>Modern features that set apart from everyone else</h2>

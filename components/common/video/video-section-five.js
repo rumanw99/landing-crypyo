@@ -10,7 +10,7 @@ export default function VideoSectionFive() {
 			<div className="container">
 				<div className="fugu--section-title">
 					<div className="fugu--default-content content-sm">
-						<h2>Check out a quick tutorial for the NFTs marketplace guide</h2>
+						<h2>Check out a quick tutorial for the NFT marketplace guide</h2>
 					</div>
 				</div>
 				<div className="fugu--video-thumb wow fadeInUpX" data-wow-delay=".10s">

@@ -12,7 +12,7 @@ export default function PostNavigation() {
 					</div>
 					<div className="fugu--post-navigation-data">
 						<p>Previous post</p>
-						<span>What does the NFT Ecosystem look like after the Boom?</span>
+						<span>What does the Crypto Ecosystem look like after the Boom?</span>
 					</div>
 				</div>
 			</Link>

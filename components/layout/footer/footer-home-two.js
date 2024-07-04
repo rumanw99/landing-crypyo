@@ -13,7 +13,7 @@ export default function FooterHomeTwo() {
 							Ready for an innovative trading strategy? Let's start now!
 						</h2>
 						<p className="wow fadeInUpX" data-wow-delay="0.15s">
-							Get start now! And buy and sell cryptocurrency It simplifies the process of buying and
+							Get start now! And buy and sell NFTcurrency It simplifies the process of buying and
 							selling digital from anywhere in the world.
 						</p>
 						<div className="fugu-app-btn-wrap wow fadeInUpX" data-wow-delay="0.25s">
@@ -72,7 +72,7 @@ export default function FooterHomeTwo() {
 				<div className="fugu-footer-bottom">
 					<div className="row">
 						<div className="col-lg-6 col-md-8">
-							<p>&copy; Copyright 2023, All Rights Reserved by Mthemeus</p>
+							<p>&copy; Copyright 2024, B2B Ultimate</p>
 						</div>
 						<div className="col-lg-6 col-md-4">
 							<div className="fugu-footer-menu">

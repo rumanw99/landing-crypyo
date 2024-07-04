@@ -5,7 +5,7 @@ import SingleCardSliderTwo from "./single-card-slider-two";
 
 import { v4 as uuid4 } from "uuid";
 
-const nftCollections = [
+const NFTCollections = [
 	{
 		img: "card1",
 		title: "Monkey Cowboy",
@@ -95,17 +95,17 @@ export default function CardSliderTwo() {
 			<div className="container">
 				<div className="fugu--section-title">
 					<div className="fugu--default-content content-black">
-						<h2>Start your NFTs collection</h2>
+						<h2>Start your NFT collection</h2>
 						<p>
 							Start your NFT collection quickly & easily by grabbing a free NFT every week! Get in early
-							and grab NFTs before most of the world.
+							and grab NFT before most of the world.
 						</p>
 					</div>
 				</div>
 			</div>
 			<div className="fugu--slider-two">
 				<Slider {...settings}>
-					{nftCollections.map((card) => (
+					{NFTCollections.map((card) => (
 						<SingleCardSliderTwo key={uuid4()} card={card} />
 					))}
 				</Slider>

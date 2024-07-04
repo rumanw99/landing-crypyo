@@ -7,16 +7,16 @@ export default function VideoSectionThree() {
 	const [isOpen, setOpen] = useState(false);
 
 	return (
-		<div className="section bg-warning-200 fugu-section-padding2">
+		<div style={{ color:"white"}} className="section fugu-section-padding2">
 			<div className="container">
 				<div className="fugu-section-title2">
 					<div className="row">
 						<div className="col-lg-6">
-							<h2>Buy your favorite crypto at the price you want</h2>
+							<h2 style={{color:"white"}}>Buy your favorite NFT at the price you want</h2>
 						</div>
 						<div className="col-lg-5 offset-lg-1 d-flex align-items-center">
 							<p>
-								This is a platform where you can buy & sell all your chosen-cryptocurrencies and digital
+								This is a platform where you can buy & sell all your chosen-NFTcurrencies and digital
 								assets at affordable prices. It is a plans to leverage blockchain technology.
 							</p>
 						</div>

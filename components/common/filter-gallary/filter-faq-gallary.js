@@ -30,7 +30,7 @@ export default function FilterFaqGallary() {
 									</Accordion.Item>
 									<Accordion.Item eventKey="2">
 										<Accordion.Header>
-											What’s the connection between NFTs & crypto?
+											What’s the connection between NFT & NFT?
 										</Accordion.Header>
 										<Accordion.Body>
 											At the most basic level, a non-fungible token is a one-of-a-kind, verifiable
@@ -57,7 +57,7 @@ export default function FilterFaqGallary() {
 									</Accordion.Item>
 									<Accordion.Item eventKey="2">
 										<Accordion.Header>
-											What’s the connection between NFTs & crypto?
+											What’s the connection between NFT & NFT?
 										</Accordion.Header>
 										<Accordion.Body>
 											At the most basic level, a non-fungible token is a one-of-a-kind, verifiable
@@ -88,7 +88,7 @@ export default function FilterFaqGallary() {
 									</Accordion.Item>
 									<Accordion.Item eventKey="2">
 										<Accordion.Header>
-											What’s the connection between NFTs & crypto?
+											What’s the connection between NFT & NFT?
 										</Accordion.Header>
 										<Accordion.Body>
 											At the most basic level, a non-fungible token is a one-of-a-kind, verifiable
@@ -115,7 +115,7 @@ export default function FilterFaqGallary() {
 									</Accordion.Item>
 									<Accordion.Item eventKey="2">
 										<Accordion.Header>
-											What’s the connection between NFTs & crypto?
+											What’s the connection between NFT & NFT?
 										</Accordion.Header>
 										<Accordion.Body>
 											At the most basic level, a non-fungible token is a one-of-a-kind, verifiable
@@ -146,7 +146,7 @@ export default function FilterFaqGallary() {
 									</Accordion.Item>
 									<Accordion.Item eventKey="2">
 										<Accordion.Header>
-											What’s the connection between NFTs & crypto?
+											What’s the connection between NFT & NFT?
 										</Accordion.Header>
 										<Accordion.Body>
 											At the most basic level, a non-fungible token is a one-of-a-kind, verifiable
@@ -173,7 +173,7 @@ export default function FilterFaqGallary() {
 									</Accordion.Item>
 									<Accordion.Item eventKey="2">
 										<Accordion.Header>
-											What’s the connection between NFTs & crypto?
+											What’s the connection between NFT & NFT?
 										</Accordion.Header>
 										<Accordion.Body>
 											At the most basic level, a non-fungible token is a one-of-a-kind, verifiable
@@ -205,7 +205,7 @@ export default function FilterFaqGallary() {
 									</Accordion.Item>
 									<Accordion.Item eventKey="2">
 										<Accordion.Header>
-											What’s the connection between NFTs & crypto?
+											What’s the connection between NFT & NFT?
 										</Accordion.Header>
 										<Accordion.Body>
 											At the most basic level, a non-fungible token is a one-of-a-kind, verifiable
@@ -232,7 +232,7 @@ export default function FilterFaqGallary() {
 									</Accordion.Item>
 									<Accordion.Item eventKey="2">
 										<Accordion.Header>
-											What’s the connection between NFTs & crypto?
+											What’s the connection between NFT & NFT?
 										</Accordion.Header>
 										<Accordion.Body>
 											At the most basic level, a non-fungible token is a one-of-a-kind, verifiable

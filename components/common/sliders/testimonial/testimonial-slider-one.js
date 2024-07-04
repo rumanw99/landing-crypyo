@@ -29,7 +29,7 @@ export default function TestimonialSliderOne() {
 		<div className="fugu-testimonial-section fugu-section-padding2">
 			<div className="container">
 				<div className="fugu-section-title title-large">
-					<h2>User gives feedback using our crypto app</h2>
+					<h2>User gives feedback using our NFT app</h2>
 				</div>
 				<div className="fugu-testimonial-slider">
 					<Slider {...settings}>
@@ -62,8 +62,8 @@ export default function TestimonialSliderOne() {
 							</div>
 							<h4>Really happy with the app 💰</h4>
 							<p>
-								Here, Im rating the B2B Ultimate crypto app and the debit card. My experience is great! & the
-								app is very well designed. Crypto is a marketing is very good and I think it ll to win
+								Here, Im rating the B2B Ultimate NFT app and the debit card. My experience is great! & the
+								app is very well designed. NFT is a marketing is very good and I think it ll to win
 								long term with B2B Ultimate app.
 							</p>
 						</div>
@@ -79,7 +79,7 @@ export default function TestimonialSliderOne() {
 							</div>
 							<h4>I love it! ❤️</h4>
 							<p>
-								I have been using B2B Ultimate crypto app since December 2021 and so far things have a been
+								I have been using B2B Ultimate NFT app since December 2021 and so far things have a been
 								alright where purchasing BTCs and to my external wallets. Thanks B2B Ultimate for a good
 								experience at my first Wallet
 							</p>
@@ -113,8 +113,8 @@ export default function TestimonialSliderOne() {
 							</div>
 							<h4>Really happy with the app 💰</h4>
 							<p>
-								Here, I'm rating the B2B Ultimate crypto app and the debit card. My experience is great! & the
-								app is very well designed. Crypto is a marketing is very good and I think it'll to win
+								Here, I'm rating the B2B Ultimate NFT app and the debit card. My experience is great! & the
+								app is very well designed. NFT is a marketing is very good and I think it'll to win
 								long term with B2B Ultimate app.
 							</p>
 						</div>
@@ -130,7 +130,7 @@ export default function TestimonialSliderOne() {
 							</div>
 							<h4>I love it! ❤️</h4>
 							<p>
-								I have been using B2B Ultimate crypto app since December 2021 and so far things have a been
+								I have been using B2B Ultimate NFT app since December 2021 and so far things have a been
 								alright where purchasing BTCs and to my external wallets. Thanks B2B Ultimate for a good
 								experience at my first Wallet
 							</p>

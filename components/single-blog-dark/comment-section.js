@@ -18,7 +18,7 @@ export default function CommentSection() {
 								<p>
 									The value that this server serves up is next level.I have just joined but wow I see
 									myself always coming back refreshing hoping for more.My advice for anyone wanting to
-									dabble in NFTs join without a moment.
+									dabble in Crypto join without a moment.
 								</p>
 							</div>
 							<Link href={"#"} legacyBehavior>
@@ -35,8 +35,8 @@ export default function CommentSection() {
 								<h5>Willium Marco</h5>
 								<span>Dec. 25, 2023</span>
 								<p>
-									NFT Trading Academy is amazing. Ever since I was invited as an influencer this has
-									been a crucial piece in terms of where I interact with the NFT Space and source
+									Crypto Trading Academy is amazing. Ever since I was invited as an influencer this has
+									been a crucial piece in terms of where I interact with the Crypto Space and source
 									knowledge.
 								</p>
 							</div>
@@ -56,7 +56,7 @@ export default function CommentSection() {
 								<p>
 									I have been using the service and it is great value for your money! With only one
 									good call you can make back what you pay plus profit. It is a very organized discord
-									and it has many channels talking about all NFT related topics. I highly recommend
+									and it has many channels talking about all Crypto related topics. I highly recommend
 									it!
 								</p>
 							</div>

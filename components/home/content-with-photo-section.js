@@ -25,7 +25,7 @@ export default function ContentWithPhotoSection() {
 								easy ways to select asset.
 							</p>
 							<p>
-								The best way to start a crypto portfolio is to have at least a 60% stake in Bitcoin
+								The best way to start a NFT portfolio is to have at least a 60% stake in Bitcoin
 								&Ethereum which you can easily do with this app.
 							</p>
 							<div className="fugu-btn-wrap">

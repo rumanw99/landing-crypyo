@@ -34,7 +34,7 @@ export default function TestimonialSection() {
 								</li>
 							</ul>
 							<p>
-								“I found B2B Ultimate very professional and trustworthy during my crypto trading duration of 147
+								“I found B2B Ultimate very professional and trustworthy during my NFT trading duration of 147
 								days. They are very honest and trusted.”
 							</p>
 							<div className="fugu-testimonial-author-wrap">
@@ -68,7 +68,7 @@ export default function TestimonialSection() {
 								</li>
 							</ul>
 							<p>
-								“100% Trusted. Very legit in crypto world. So far I'm satisfied with Nexto. I just wish
+								“100% Trusted. Very legit in NFT world. So far I'm satisfied with Nexto. I just wish
 								this will continue at this way and there will be no sudden changes.”
 							</p>
 							<div className="fugu-testimonial-author-wrap">
@@ -137,7 +137,7 @@ export default function TestimonialSection() {
 							</ul>
 							<p>
 								“Trustable ☺️ Best way to earn passive income. Everything was well explained and it was
-								easy to follow their clear. Very legit in crypto world.”
+								easy to follow their clear. Very legit in NFT world.”
 							</p>
 							<div className="fugu-testimonial-author-wrap">
 								<div className="fugu-testimonial-author-thumb">
@@ -204,7 +204,7 @@ export default function TestimonialSection() {
 								</li>
 							</ul>
 							<p>
-								“Best crypto scam investigator. It took less than 24h and gave all the details about the
+								“Best NFT scam investigator. It took less than 24h and gave all the details about the
 								scammer and guided me. My heartfull thanks 💗 ”
 							</p>
 							<div className="fugu-testimonial-author-wrap">
@@ -238,7 +238,7 @@ export default function TestimonialSection() {
 								</li>
 							</ul>
 							<p>
-								“I found B2B Ultimate very professional and trustworthy during my crypto trading duration of 147
+								“I found B2B Ultimate very professional and trustworthy during my NFT trading duration of 147
 								days. They are very honest and trusted.”
 							</p>
 							<div className="fugu-testimonial-author-wrap">
@@ -272,7 +272,7 @@ export default function TestimonialSection() {
 								</li>
 							</ul>
 							<p>
-								“100% Trusted. Very legit in crypto world. So far I'm satisfied with Nexto. I just wish
+								“100% Trusted. Very legit in NFT world. So far I'm satisfied with Nexto. I just wish
 								this will continue at this way and there will be no sudden changes.”
 							</p>
 							<div className="fugu-testimonial-author-wrap">

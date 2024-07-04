@@ -2,7 +2,7 @@
 /* eslint-disable @next/next/no-img-element */
 export default function AboutSection() {
 	return (
-		<div className="fugu-about-section">
+		<div style={{background:"#26242c" , color:"white"}} className="fugu-about-section">
 			<div className="container">
 				<div className="row">
 					<div className="col-xl-7 col-lg-6">
@@ -25,9 +25,9 @@ export default function AboutSection() {
 					</div>
 					<div className="col-xl-5 col-lg-6 col-md-11 d-flex align-items-center">
 						<div className="fugu-default-content">
-							<h2>The story behind our companys beginnings and our mission</h2>
+							<h2 style={{color:"white"}}>The story behind our companys beginnings and our mission</h2>
 							<p>
-							Founded in 2023 and based in the vibrant city of Dubai, B2B-Ultimate has swiftly established itself as a leader in the fintech industry. We specialize in providing comprehensive white-label solutions for crypto exchanges, payment gateways, crypto cards, ATMs, and POS machines. 
+							Founded in 2023 and based in the vibrant city of Dubai, B2B-Ultimate has swiftly established itself as a leader in the fintech industry. We specialize in providing comprehensive white-label solutions for NFT exchanges, payment gateways, NFT cards, ATMs, and POS machines. 
 							</p>
 							<p>
 							Our team of dedicated professionals combines extensive industry knowledge with innovative technology to deliver tailored solutions that meet the evolving needs of our B2B clients.

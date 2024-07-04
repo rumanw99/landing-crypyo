@@ -30,11 +30,11 @@ export default function BlogTopSection() {
 						</div>
 						<div className="fugu--blog-title">
 							<Link href={"single-blog-light"}>
-								<h3>NFTs & Japanese Culture: a rising, diverse community</h3>
+								<h3>Crypto & Japanese Culture: a rising, diverse community</h3>
 							</Link>
 						</div>
 						<p>
-							It has now been 6 months since the NFT market saw indicators strongly shaken up, with
+							It has now been 6 months since the Crypto market saw indicators strongly shaken up, with
 							additional over hype a month ago...
 						</p>
 						<div className="fugu--blog-user">

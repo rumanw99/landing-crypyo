@@ -22,7 +22,7 @@ export default function BlogSidebarSection() {
 					<div className="fugu-categories">
 						<ul>
 							<li>
-								<Link href={"/"}>Cryptocurrency (05)</Link>
+								<Link href={"/"}>NFTcurrency (05)</Link>
 							</li>
 							<li>
 								<Link href={"/"}>Web Development (18)</Link>
@@ -56,7 +56,7 @@ export default function BlogSidebarSection() {
 						</div>
 						<h6>
 							<Link href={"/"}>
-								Blockchain and government will they have live happily ever after trade crypto world?
+								Blockchain and government will they have live happily ever after trade NFT world?
 							</Link>
 						</h6>
 					</div>

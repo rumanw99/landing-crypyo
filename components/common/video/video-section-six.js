@@ -7,7 +7,7 @@ const ModalVideo = dynamic(() => import("react-modal-video"), { ssr: false });
 export default function VideoSectionSix() {
 	const [isOpen, setOpen] = useState(false);
 	return (
-		<div className="section fugu-section-padding">
+		<div style={{background:"#26242c" , color:"white"}} className="section fugu-section-padding">
 			<div className="container">
 				<div className="row">
 					<div className="col-xl-6 offset-xl-1 col-lg-6 order-lg-2">
@@ -23,7 +23,7 @@ export default function VideoSectionSix() {
 					</div>
 					<div className="col-xl-5 col-lg-6 col-md-10 d-flex align-items-center">
 						<div className="fugu-default-content">
-							<h2>How do we provide our clients with industry a leading security?</h2>
+							<h2 style={{color:"white"}}>How do we provide our clients with industry a leading security?</h2>
 							<p>
 							At B2B-Ultimate, our mission is to empower businesses by offering cutting-edge financial technology solutions that enhance operational efficiency and drive growth. We are committed to delivering exceptional value through our white-label services, enabling our clients to offer secure, reliable, and user-friendly financial products under their own brand.
 							</p>

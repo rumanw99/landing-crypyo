@@ -77,7 +77,7 @@ export default function FooterHomeFive() {
 										<Link href="#">Blogs</Link>
 									</li>
 									<li>
-										<Link href="#">Contact as</Link>
+										<Link href="contact-dark">Contact as</Link>
 									</li>
 									
 								</ul>

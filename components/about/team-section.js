@@ -3,10 +3,10 @@ import Link from "next/link";
 /* eslint-disable @next/next/no-img-element */
 export default function TeamSection() {
 	return (
-		<div className="section fugu-section-padding3">
+		<div style={{background:"#26242c !important" , color:"white"}} className="section fugu-section-padding3">
 			<div className="container">
 				<div className="fugu-section-title">
-					<h2>Our experts work to make life easier for customers</h2>
+					<h2 style={{color:"white"}}>Our experts work to make life easier for customers</h2>
 				</div>
 				<div className="row">
 					<div className="col-xxl-3 col-lg-4 col-md-6">

@@ -33,7 +33,7 @@ export default function TradingSectionTwo() {
 
 					<div className="col-lg-6 col-md-10 d-flex align-items-center">
 						<div className="fugu-default-content">
-							<h2>Start your crypto trading with the most easy process</h2>
+							<h2>Start your NFT trading with the most easy process</h2>
 							<p>
 								It simplifies the process of buying and selling digital from anywhere in the world.
 								Available to citizens in the United States, Europe, & Australia.
@@ -48,7 +48,7 @@ export default function TradingSectionTwo() {
 									<img src="/images/svg/arrow-black-right2.svg" alt="" />
 								</div>
 								<div className="fugu-accordion-item">
-									<h4>Start buying & selling crypto as you wish</h4>
+									<h4>Start buying & selling NFT as you wish</h4>
 									<img src="/images/svg/arrow-black-right2.svg" alt="" />
 								</div>
 							</div>

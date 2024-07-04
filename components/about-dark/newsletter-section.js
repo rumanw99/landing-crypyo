@@ -6,7 +6,7 @@ export default function NewsletterSection() {
 				<div className="fugu--newslatter-wrap">
 					<div className="fugu--section-title">
 						<div className="fugu--default-content content-sm wow fadeInUpX" data-wow-delay=".10s">
-							<h2>Subscribe to get the latest news updates about NFTS</h2>
+							<h2>Subscribe to get the latest news updates about NFT</h2>
 							<p>
 								Get regular updates about interesting & secret upcoming NFT projects & events that are
 								coming exclusively on our site.

@@ -9,7 +9,7 @@ export default function FeatureSection() {
 					<div className="fugu--default-content content-black">
 						<h2>Our vision is to build a strong NFT portfolio of denomination</h2>
 						<p>
-							We're excited about a brand new type of digital good called a non-fungible token. NFTs get
+							We're excited about a brand new type of digital good called a non-fungible token. NFT get
 							their value the transaction proves ownership of the art.
 						</p>
 					</div>
@@ -21,7 +21,7 @@ export default function FeatureSection() {
 								<h2>01</h2>
 								<span>Safe and secure</span>
 								<p>
-									NFTs are safe when bought or sold on reputable exchanges, & they cannot be stolen if
+									NFT are safe when bought or sold on reputable exchanges, & they cannot be stolen if
 									users properly secure.
 								</p>
 							</div>

@@ -162,11 +162,11 @@ export default function AboutSection() {
 					</div>
 					<div className="col-xl-5 offset-xl-2 col-lg-7 offset-lg-1 d-flex align-items-center">
 						<div className="fugu--default-content content-black">
-							<h2>A clear concept of an NFTs marketplace</h2>
+							<h2>A clear concept of an NFT marketplace</h2>
 							<p>
 								NFT art is a digital asset that is collectable, unique, and non-transferrable, Cortes
 								explained. Every NFT is unique in it's creative design and cannot be duplicated, making
-								them limited and rare. NFTs get their value because the transaction proves ownership of
+								them limited and rare. NFT get their value because the transaction proves ownership of
 								the art.
 							</p>
 							<div className="fugu--btn-wrap">

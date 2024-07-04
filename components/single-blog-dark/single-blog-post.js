@@ -12,19 +12,19 @@ export default function SingleBlogPost() {
 			<img className="fugu--single-thumb" src="/images/all-img/blog2/single-blog.png" alt="" />
 			<p>
 				A technologically advanced society like Japan is a natural place for non-fungible tokens to flourish.
-				While the adoption of NFTs has been slow in Japan thus far, we believe the conditions are ideal for
+				While the adoption of Crypto has been slow in Japan thus far, we believe the conditions are ideal for
 				sustained growth and innovation.
 			</p>
-			<h3>NFT’s Home in the East</h3>
+			<h3>Crypto Home in the East</h3>
 			<p>
-				Japanese values align with the essential nature of NFTs. For instance, omoiyari — awareness and
+				Japanese values align with the essential nature of Crypto. For instance, omoiyari — awareness and
 				consideration of others — is taught to Japanese school children from an early age. This principle
-				parallels the community building & concern for barriers to entry common to NFT projects. Values like
+				parallels the community building & concern for barriers to entry common to Crypto projects. Values like
 				ganbaru (effort) and gaman enduring cultivated from years of quality education and broader socialization
 				propel continued learning essential to Web3 technologies and overcoming barriers.
 			</p>
 			<p>
-				The Japanese NFT community is in its early days. In this article, we’ll provide an overview of the
+				The Japanese Crypto community is in its early days. In this article, we’ll provide an overview of the
 				community from standpoint of cultural exports, namely the mangaverse and gaming.
 			</p>
 			<h3>Anime and the Mangaverse</h3>
@@ -36,7 +36,7 @@ export default function SingleBlogPost() {
 			</p>
 			<h3>CloneX: Murakami x RTKFT</h3>
 			<p>
-				One popular mangaverse NFT project is CloneX. According to our data at the time of writing this artic
+				One popular mangaverse Crypto project is CloneX. According to our data at the time of writing this artic
 				sixth among collectibles offered on the Ethereum blockchain. RTFKT pronounced ‘artifa and contemporary
 				Japanese artist Takashi Murak collaborated on this project that blends commercial art, streetwear, and
 				metaverse experimentati in the shape of avatars. The collaboration makes sense because RTFKT is a

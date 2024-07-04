@@ -7,7 +7,7 @@ export default function RoadmapSection() {
 					<div className="fugu--default-content content-black">
 						<h2>The Roadmap</h2>
 						<p>
-							A nft roadmap is a strategic planning tool used to set desired outcomes, milestones into the
+							A NFT roadmap is a strategic planning tool used to set desired outcomes, milestones into the
 							marketplace.
 						</p>
 					</div>
@@ -57,7 +57,7 @@ export default function RoadmapSection() {
 							<div className="fugu--iconbox-data">
 								<h4>Phase 4</h4>
 								<span>Sell & Growth</span>
-								<p>Since NFTs are blockchain-based , you need a wallet to create</p>
+								<p>Since NFT are blockchain-based , you need a wallet to create</p>
 							</div>
 						</div>
 					</div>

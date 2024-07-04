@@ -1,14 +1,14 @@
 /* eslint-disable react/no-unescaped-entities */
 /* eslint-disable @next/next/no-img-element */
-export default function NftRoadMap() {
+export default function NFTRoadMap() {
 	return (
 		<div className="fugu--roadmap-section">
 			<div className="container">
 				<div className="fugu--section-title">
 					<div className="fugu--default-content content-sm">
-						<h2>Create and sell your NFTs</h2>
+						<h2>Create and sell your NFT</h2>
 						<p>
-							Anyone can make a profile on Foundation but only selected creators can mint NFTs & published
+							Anyone can make a profile on Foundation but only selected creators can mint NFT & published
 							a complete guide.
 						</p>
 					</div>

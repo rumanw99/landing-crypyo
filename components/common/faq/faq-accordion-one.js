@@ -8,7 +8,7 @@ export default function FaqAccordionOne() {
 						<div className="fugu--default-content content-black">
 							<h2>Frequently asked questions</h2>
 							<p>
-								FAQ used to refer to a list of answers to typical NFTs questions that users might ask.
+								FAQ used to refer to a list of answers to typical NFT questions that users might ask.
 							</p>
 						</div>
 					</div>
@@ -30,21 +30,21 @@ export default function FaqAccordionOne() {
 									</Accordion.Body>
 								</Accordion.Item>
 								<Accordion.Item eventKey="2">
-									<Accordion.Header>What’s the connection between NFTs & crypto?</Accordion.Header>
+									<Accordion.Header>What’s the connection between NFT & NFT?</Accordion.Header>
 									<Accordion.Body>
 										At the most basic level, a non-fungible token is a one-of-a-kind, verifiable
 										digital asset that can be exchanged between a creator and a buyer.
 									</Accordion.Body>
 								</Accordion.Item>
 								<Accordion.Item eventKey="3">
-									<Accordion.Header>Are NFTs the future of art and collectibles?</Accordion.Header>
+									<Accordion.Header>Are NFT the future of art and collectibles?</Accordion.Header>
 									<Accordion.Body>
 										At the most basic level, a non-fungible token is a one-of-a-kind, verifiable
 										digital asset that can be exchanged between a creator and a buyer.
 									</Accordion.Body>
 								</Accordion.Item>
 								<Accordion.Item eventKey="4">
-									<Accordion.Header>What questions remain about NFTs?</Accordion.Header>
+									<Accordion.Header>What questions remain about NFT?</Accordion.Header>
 									<Accordion.Body>
 										At the most basic level, a non-fungible token is a one-of-a-kind, verifiable
 										digital asset that can be exchanged between a creator and a buyer.

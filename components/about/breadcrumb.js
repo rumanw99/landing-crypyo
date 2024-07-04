@@ -6,15 +6,15 @@ export default function Breadcrumb() {
 		<div className="fugu-breadcrumb-section">
 			<div className="container">
 				<div className="breadcrumbs">
-					<h1 className="wow fadeInUpX" data-wow-delay="0s">
+					<h1 style={{color:"white"}} className="wow fadeInUpX" data-wow-delay="0s">
 						About Us
 					</h1>
 					<nav aria-label="breadcrumb" className="wow fadeInUpX" data-wow-delay="0.15s">
 						<ol className="breadcrumb">
-							<li className="breadcrumb-item">
-								<Link href={"/"}>Home</Link>
+							<li  className="breadcrumb-item">
+								<Link style={{color:"white"}} href={"/"}>Home</Link>
 							</li>
-							<li className="breadcrumb-item active" aria-current="page">
+							<li style={{color:"white"}} className="breadcrumb-item active" aria-current="page">
 								About Us
 							</li>
 						</ol>

@@ -40,7 +40,7 @@ export default function VisionSection() {
 						<div className="fugu--default-content content-sm">
 							<h2>Our vision is to build a strong NFT portfolio of denomination</h2>
 							<p>
-								We're excited about a brand new type of digital good called NFT. NFTs have exciting new
+								We're excited about a brand new type of digital good called NFT. NFT have exciting new
 								properties: unique, provably scarce, tradeable, and usable across multiple applications.
 							</p>
 							<p>

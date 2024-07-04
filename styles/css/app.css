@@ -2349,7 +2349,7 @@ header.fugu-header-section {
 
 header.fugu-header-section.sticky-menu {
 	padding: 10px 0;
-	background-color: #fff;
+	background-color: var(--gray-900);
 	box-shadow: 0 4px 80px rgba(0, 0, 0, 0.06);
 }
 
@@ -3531,7 +3531,7 @@ button#fugu--search-btn {
 .fugu-breadcrumb-section {
 	padding: 188px 0 120px;
 	position: relative;
-	background-color: var(--warning-400);
+	background-color: var(--gray-900);
 }
 @media (max-width: 991px) {
 	.fugu-breadcrumb-section {
@@ -5677,7 +5677,7 @@ a.fugu-app-btn:last-child {
 }
 
 .fugu-iconbox-wrap {
-	border-radius: 3px;
+	border-radius: 10px;
 	padding: 39px;
 	display: flex;
 	transition: all 0.4s;
@@ -5701,7 +5701,7 @@ a.fugu-app-btn:last-child {
 	border: 1px solid rgba(19, 17, 26, 0.1);
 }
 .fugu-iconbox-wrap.fugu-iconbox-wrap5:hover {
-	background: #ffffff;
+	background: var(--gray-800);
 	border: 1px solid transparent;
 	box-shadow: 0px 4px 60px rgba(0, 0, 0, 0.06);
 }
@@ -7021,6 +7021,7 @@ a.fugu-faq-btn:hover {
 
 .fugu-client-section {
 	padding: 75px 0 80px;
+	background: var(--gray-900);
 }
 @media (max-width: 767px) {
 	.fugu-client-section {
@@ -7726,6 +7727,7 @@ a.fugu-pricing-btn.active {
 
 .fugu-section-padding {
 	padding: 120px 0;
+	background: var(--gray-900);
 }
 @media (max-width: 991px) {
 	.fugu-section-padding {
@@ -7740,6 +7742,7 @@ a.fugu-pricing-btn.active {
 
 .fugu-section-padding2 {
 	padding: 110px 0 120px;
+	background: var(--gray-900);
 }
 @media (max-width: 991px) {
 	.fugu-section-padding2 {
@@ -7754,6 +7757,7 @@ a.fugu-pricing-btn.active {
 
 .fugu-section-padding3 {
 	padding: 110px 0 96px;
+	background: var(--gray-900);
 }
 @media (max-width: 991px) {
 	.fugu-section-padding3 {
@@ -9016,6 +9020,7 @@ a.fugu-pricing-btn.active {
 
 .fugu-innovative-services-section {
 	padding-top: 120px;
+	background: var(--gray-900);
 }
 @media (max-width: 991px) {
 	.fugu-innovative-services-section {

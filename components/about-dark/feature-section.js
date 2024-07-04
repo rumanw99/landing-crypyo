@@ -14,8 +14,8 @@ export default function FeatureSection() {
 						<div className="col-lg-4 offset-lg-1">
 							<div className="fugu--default-content">
 								<p>
-									Nexto is a universal marketplace that has been working with NFTS Art since 2002. we
-									are ready to change the world with NFTs!
+									Nexto is a universal marketplace that has been working with NFT Art since 2002. we
+									are ready to change the world with NFT!
 								</p>
 							</div>
 						</div>
@@ -33,7 +33,7 @@ export default function FeatureSection() {
 							<div className="fugu--iconbox-data">
 								<h4>Safe and secure</h4>
 								<p>
-									NFTs are safe when bought or sold on reputable exchanges, & they cannot be stolen if
+									NFT are safe when bought or sold on reputable exchanges, & they cannot be stolen if
 									users properly secure.
 								</p>
 							</div>

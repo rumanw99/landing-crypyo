@@ -23,7 +23,7 @@ export default function ContentWithPhotoSectionTwo() {
 						<div className="fugu-default-content large-content">
 							<h2>Open an account in 3 easy steps</h2>
 							<p>
-								Become a better investor on the go, right in the app. Join a new generation of crypto
+								Become a better investor on the go, right in the app. Join a new generation of NFT
 								investors. Easy interface to create an account.
 							</p>
 							<div className="fugu-icon-list2">
@@ -46,7 +46,7 @@ export default function ContentWithPhotoSectionTwo() {
 										<div className="fulo-list-icon">
 											<img src="/images/svg/lightning-bolt.svg" alt="" />
 										</div>
-										<h4>Start buying & selling crypto as you wish</h4>
+										<h4>Start buying & selling NFT as you wish</h4>
 										<p>Although many people prefer to apply the buy and hold.</p>
 									</li>
 								</ul>

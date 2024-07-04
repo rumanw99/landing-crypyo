@@ -95,7 +95,7 @@ export default function FilterGallaryFour() {
 							</div>
 							<div className="col-lg-5 d-flex align-items-center">
 								<div className="fugu-gallery-data3">
-									<h4>Crypto coin</h4>
+									<h4>NFT coin</h4>
 									<p>
 										There are many variations of passages of Lorem Ipsum available, but the majority
 										have suffered alteration in some form.

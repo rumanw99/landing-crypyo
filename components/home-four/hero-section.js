@@ -14,7 +14,7 @@ export default function HeroSection() {
 					</h1>
 					<p className="wow fadeInUpX" data-wow-delay=".10s">
 						Nexto is the largest NFT marketplace. There are enough digital artworks available online that
-						make NFTs easier and more efficient for you.
+						make NFT easier and more efficient for you.
 					</p>
 					<div className="fugu--btn-wrap fugu--hero-btn wow fadeInUpX" data-wow-delay=".20s">
 						<Link href={"#"} legacyBehavior>

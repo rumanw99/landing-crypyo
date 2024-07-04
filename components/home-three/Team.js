@@ -10,7 +10,7 @@ export default function Team() {
 						<div className="fugu--default-content content-sm">
 							<h2>Meet our dynamic team</h2>
 							<p>
-								Collectors who value these relationships will look for NFTs with unique narratives and
+								Collectors who value these relationships will look for Crypto with unique narratives and
 								creation processes.
 							</p>
 						</div>

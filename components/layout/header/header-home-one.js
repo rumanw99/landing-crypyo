@@ -33,7 +33,7 @@ export default function HeaderHomeOne() {
 					<div className="brand-logo">
 						<Link href={"/"}>
 							{/* <img src="/images/logo/logo-black.svg" alt="logo" className="light-version-logo" /> */}
-							<span style={{color:"black"}}>B2B Ultimate</span>
+							<span style={{color:"white"}}>B2B Ultimate</span>
 						</Link>
 					</div>
 					<div className="menu-block-wrapper">
@@ -50,7 +50,7 @@ export default function HeaderHomeOne() {
 
 							<Navbar>
 							
-							<a href="/" style={{color:"black" , fontWeight:"500" , marginRight:"15px"}}>Home</a>
+							<a href="/" style={{color:"white" , fontWeight:"500" , marginRight:"15px"}}>Home</a>
 				
 
 							
@@ -62,7 +62,7 @@ export default function HeaderHomeOne() {
 						</nav>
 					</div>
 					<div className="header-btn header-btn-l1 ms-auto d-none d-xs-inline-flex">
-						<a className="fugu-btn fugu-header-btn" href="contact.html">
+						<a style={{color:"black" , background:"white"}} className="fugu-btn fugu-header-btn" href="contact.html">
 							Get Started
 						</a>
 					</div>

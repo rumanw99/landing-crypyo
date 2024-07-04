@@ -43,8 +43,8 @@ export default function FilterGalarryOne() {
 					<div className="fugu--default-content content-sm">
 						<h2>Explore the most unique artworks</h2>
 						<p>
-							NFTs are usually associated with non-physical art but in reality, there are several
-							different types of NFTs and are explained in this guide.
+							NFT are usually associated with non-physical art but in reality, there are several
+							different types of NFT and are explained in this guide.
 						</p>
 					</div>
 				</div>
@@ -251,7 +251,7 @@ export default function FilterGalarryOne() {
 				<div className="fugu--portfolio-btn">
 					<Link href={"#"} legacyBehavior>
 						<a className="fugu--outline-btn">
-							<span>View All NFTs</span>
+							<span>View All NFT</span>
 						</a>
 					</Link>
 				</div>

@@ -9,7 +9,7 @@ export default function BreadcrumbsSection() {
 				<p className="wow fadeInUpX" data-wow-delay=".10s">
 					Your source of market analysis, news, developments, and project reviews for the NFT ecosystem.
 					Discover and keep up to date with the latest NFT news and events. Nexto is the best place to
-					analyze, track and discover NFTs.
+					analyze, track and discover NFT.
 				</p>
 				<div className="fugu--newsletter fugu--search wow fadeInUpX" data-wow-delay=".30s">
 					<input type="email" placeholder="Search..." />

@@ -86,11 +86,11 @@ export default function BlogFiltering() {
 								</div>
 								<div className="fugu--blog-title">
 									<Link href="single-blog-dark">
-										<h3>What does the NFT Ecosystem look like after the Boom?</h3>
+										<h3>What does the Crypto Ecosystem look like after the Boom?</h3>
 									</Link>
 								</div>
 								<p>
-									It has now been 6 months since the NFT market saw indicators strongly shaken up,
+									It has now been 6 months since the Crypto market saw indicators strongly shaken up,
 									with additional over hype a month ago...
 								</p>
 								<div className="fugu--blog-user">
@@ -138,7 +138,7 @@ export default function BlogFiltering() {
 									</Link>
 								</div>
 								<p>
-									It has now been 6 months since the NFT market saw indicators strongly shaken up,
+									It has now been 6 months since the Crypto market saw indicators strongly shaken up,
 									with additional over hype a month ago...
 								</p>
 								<div className="fugu--blog-user">
@@ -179,11 +179,11 @@ export default function BlogFiltering() {
 								</div>
 								<div className="fugu--blog-title">
 									<Link href="single-blog-dark">
-										<h3>What does the NFT Ecosystem look like after the Boom?</h3>
+										<h3>What does the Crypto Ecosystem look like after the Boom?</h3>
 									</Link>
 								</div>
 								<p>
-									It has now been 6 months since the NFT market saw indicators strongly shaken up,
+									It has now been 6 months since the Crypto market saw indicators strongly shaken up,
 									with additional over hype a month ago...
 								</p>
 								<div className="fugu--blog-user">
@@ -231,7 +231,7 @@ export default function BlogFiltering() {
 									</Link>
 								</div>
 								<p>
-									It has now been 6 months since the NFT market saw indicators strongly shaken up,
+									It has now been 6 months since the Crypto market saw indicators strongly shaken up,
 									with additional over hype a month ago...
 								</p>
 								<div className="fugu--blog-user">
@@ -275,11 +275,11 @@ export default function BlogFiltering() {
 								</div>
 								<div className="fugu--blog-title">
 									<Link href="single-blog-dark">
-										<h3>Always be on time on your NFTs and metaverse event with Dwiss!</h3>
+										<h3>Always be on time on your Crypto and metaverse event with Dwiss!</h3>
 									</Link>
 								</div>
 								<p>
-									It has now been 6 months since the NFT market saw indicators strongly shaken up,
+									It has now been 6 months since the Crypto market saw indicators strongly shaken up,
 									with additional over hype a month ago...
 								</p>
 								<div className="fugu--blog-user">
@@ -327,7 +327,7 @@ export default function BlogFiltering() {
 									</Link>
 								</div>
 								<p>
-									It has now been 6 months since the NFT market saw indicators strongly shaken up,
+									It has now been 6 months since the Crypto market saw indicators strongly shaken up,
 									with additional over hype a month ago...
 								</p>
 								<div className="fugu--blog-user">
@@ -371,11 +371,11 @@ export default function BlogFiltering() {
 								</div>
 								<div className="fugu--blog-title">
 									<Link href="single-blog-dark">
-										<h3>Ultra Club & NFTs: Is E11even Miami the King of Non-Fungible Nightlife?</h3>
+										<h3>Ultra Club & Crypto: Is E11even Miami the King of Non-Fungible Nightlife?</h3>
 									</Link>
 								</div>
 								<p>
-									It has now been 6 months since the NFT market saw indicators strongly shaken up,
+									It has now been 6 months since the Crypto market saw indicators strongly shaken up,
 									with additional over hype a month ago...
 								</p>
 								<div className="fugu--blog-user">
@@ -423,7 +423,7 @@ export default function BlogFiltering() {
 									</Link>
 								</div>
 								<p>
-									It has now been 6 months since the NFT market saw indicators strongly shaken up,
+									It has now been 6 months since the Crypto market saw indicators strongly shaken up,
 									with additional over hype a month ago...
 								</p>
 								<div className="fugu--blog-user">

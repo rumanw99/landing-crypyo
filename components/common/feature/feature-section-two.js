@@ -6,7 +6,7 @@ export default function FeatureSectionTwo() {
 		<div className="section bg-warning-400 fugu-section-padding3">
 			<div className="container">
 				<div className="fugu-section-title title-large">
-					<h2>Combines the best features of crypto</h2>
+					<h2>Combines the best features of NFT</h2>
 				</div>
 				<div className="row">
 					<div className="col-lg-6">
@@ -36,7 +36,7 @@ export default function FeatureSectionTwo() {
 							<div className="fugu-iconbox-data">
 								<h4>Ownership over your coins</h4>
 								<p>
-									The most reliable way to prove ownership of crypto currencies is to sign a specified
+									The most reliable way to prove ownership of NFT currencies is to sign a specified
 									message with a key.
 								</p>
 								<Link href={"/"} legacyBehavior>

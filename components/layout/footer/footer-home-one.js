@@ -23,41 +23,39 @@ export default function FooterHomeOne() {
 							<span>Product</span>
 							<ul>
 								<li>
-									<Link href={"#"}> Invest </Link>
+									<Link href={"#"}> Service 1 </Link>
 								</li>
 								<li>
-									<Link href={"#"}> Crypto </Link>
+									<Link href={"#"}> Service 2 </Link>
 								</li>
 								<li>
-									<Link href={"#"}> Cash Card </Link>
+									<Link href={"#"}> Service 3</Link>
 								</li>
 								<li>
-									<Link href={"#"}> Learn </Link>
+									<Link href={"#"}> Service 4 </Link>
 								</li>
-								<li>
-									<Link href={"#"}> Snacks </Link>
-								</li>
+								
 							</ul>
 						</div>
 					</div>
 					<div className="col-lg-3 col-md-4 col-sm-4">
 						<div className="fugu-footer-menu fugu-custom-margin">
-							<span>Company</span>
+							<span>Quiq Links</span>
 							<ul>
 								<li>
 									<Link href="/">Home </Link>
 								</li>
 								<li>
-									<Link href="about-us">About </Link>
+									<Link href="about-us">Products </Link>
 								</li>
 								<li>
-									<Link href="career">Careers </Link>
+									<Link href="career">About </Link>
 								</li>
 								<li>
 									<Link href="blog">Blog </Link>
 								</li>
 								<li>
-									<Link href="single-blog-light">Blog post </Link>
+									<Link href="single-blog-light">Contact  </Link>
 								</li>
 							</ul>
 						</div>

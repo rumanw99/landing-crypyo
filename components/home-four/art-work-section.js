@@ -37,7 +37,7 @@ export default function ArtWorkSection() {
 							<h2>We add value to your artwork & sell them</h2>
 							<p>
 								Start your NFT collection quickly & easily by grabbing a free NFT every week! Get in
-								early and grab NFTs before most of the world. Start your journey here.
+								early and grab NFT before most of the world. Start your journey here.
 							</p>
 							<div className="fugu--counter-wrap fugu--counter-wrap2">
 								<div className="fugu--counter-data">

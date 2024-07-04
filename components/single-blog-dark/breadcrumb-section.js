@@ -6,9 +6,9 @@ export default function BreadcrumbSection() {
 	return (
 		<div className="fugu--breadcrumbs-section">
 			<div className="fugu--breadcrumbs-data">
-				<h1>NFTs & Japanese Culture: a rising, diverse community</h1>
+				<h1>Crypto & Japanese Culture: a rising, diverse community</h1>
 				<p>
-					The Japanese NFT community is in its early days. In this article, we’ll provide an overview of the
+					The Japanese Crypto community is in its early days. In this article, we’ll provide an overview of the
 					community from the standpoint of cultural exports, namely the mangaverse and gaming.
 				</p>
 				<div className="fugu--blog-meta">

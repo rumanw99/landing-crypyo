@@ -9,7 +9,7 @@ export default function HeroSection() {
 					<div className="col-xl-6 col-lg-7">
 						<div className="fugu-hero-content">
 							<h1 className="wow fadeInUpX" data-wow-delay="0s">
-								The crypto trading app for the next-gen
+								The NFT trading app for the next-gen
 							</h1>
 							<p className="wow fadeInUpX" data-wow-delay="0.25s">
 							B2B Ultimate is the app that gives you access to trading tools that you can actively buy & sell

@@ -10,8 +10,8 @@ export default function CommunicationSection() {
 					<div className="fugu--default-content content-sm content-black">
 						<h2>Prefer to reach out directly?</h2>
 						<p>
-							Nexto is a universal marketplace that has been working with NFTS Art since 2002. we are
-							ready to change the world with NFTs!
+							Nexto is a universal marketplace that has been working with NFT Art since 2002. we are
+							ready to change the world with NFT!
 						</p>
 					</div>
 				</div>
