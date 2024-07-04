@@ -15,6 +15,11 @@
   ],
   "rootMainFiles": [],
   "pages": {
+    "/404": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/404.js"
+    ],
     "/_app": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
@@ -30,10 +35,15 @@
       "static/chunks/main.js",
       "static/chunks/pages/contact-dark.js"
     ],
-    "/single-blog-dark": [
+    "/service": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/single-blog-dark.js"
+      "static/chunks/pages/service.js"
+    ],
+    "/single-service": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/single-service.js"
     ]
   },
   "ampFirstPages": []

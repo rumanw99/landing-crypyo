@@ -6,7 +6,7 @@ export default function NFTRoadMap() {
 			<div className="container">
 				<div className="fugu--section-title">
 					<div className="fugu--default-content content-sm">
-						<h2>Create and sell your NFT</h2>
+						<h2>Create and sell your Crypto</h2>
 						<p>
 							Anyone can make a profile on Foundation but only selected creators can mint NFT & published
 							a complete guide.

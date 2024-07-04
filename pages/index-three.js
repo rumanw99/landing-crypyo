@@ -5,7 +5,7 @@ import CardSliderOne from "../components/common/sliders/card/card-slider-one";
 import TextSliderTwo from "../components/common/sliders/text/text-slider-two";
 import HeroSection from "../components/home-three/hero-section";
 import NewsLetter from "../components/home-three/news-letter";
-import NFTRoadMap from "../components/home-three/NFT-roadmap";
+import NFTRoadMap from "../components/home-three/nft-roadmap";
 import Team from "../components/home-three/Team";
 
 const FilterGalarryOne = dynamic(() => import("../components/common/filter-gallary/filter-gallary-one"), {
