@@ -29,9 +29,9 @@ export default function VideoSectionFour() {
 					</div>
 					<div className="col-xl-6 d-flex align-items-center">
 						<div className="fugu--default-content">
-							<h2> B2B Ultimate is the most trusted NFTcurrency platform</h2>
+							<h2> B2B Ultimate is the most trusted Cryptocurrency platform</h2>
 							<p>
-							Founded in 2023 and based in the vibrant city of Dubai, B2B-Ultimate has swiftly established itself as a leader in the fintech industry. We specialize in providing comprehensive white-label solutions for NFT exchanges, payment gateways, NFT cards, ATMs, and POS machines. 
+							Founded in 2023 and based in the vibrant city of Dubai, B2B-Ultimate has swiftly established itself as a leader in the fintech industry. We specialize in providing comprehensive white-label solutions for Crypto exchanges, payment gateways, Crypto cards, ATMs, and POS machines. 
 							</p>
 							<p>
 							Our team of dedicated professionals combines extensive industry knowledge with innovative technology to deliver tailored solutions that meet the evolving needs of our B2B clients.

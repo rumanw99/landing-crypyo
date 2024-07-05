@@ -22,9 +22,9 @@ export default function VideoSectionTwo() {
 					</div>
 					<div className="col-lg-5 col-md-10 d-flex align-items-center">
 						<div className="fugu-default-content large-content">
-							<h2>Safe way to buy and sell NFT</h2>
+							<h2>Safe way to buy and sell Crypto</h2>
 							<p>
-								You can easily buy, sell, store, and transfer NFTcurrency in one place. Get the right
+								You can easily buy, sell, store, and transfer Cryptocurrency in one place. Get the right
 								to buy or sell stocks at a specific date for a specific price. No commissions here
 								either.
 							</p>
@@ -40,7 +40,7 @@ export default function VideoSectionTwo() {
 									</li>
 									<li>
 										<img src="/images/svg/check1.svg" alt="" />
-										Automatically invest part of every pay of NFT.
+										Automatically invest part of every pay of Crypto.
 									</li>
 								</ul>
 							</div>

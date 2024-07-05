@@ -29,7 +29,7 @@ export default function ChartSection() {
 									</li>
 									<li style={{color:"white"}}>
 										<img src="/images/svg/check1.svg" alt="" />
-										Automatically invest part of every pay of NFT.
+										Automatically invest part of every pay of Crypto.
 									</li>
 								</ul>
 							</div>

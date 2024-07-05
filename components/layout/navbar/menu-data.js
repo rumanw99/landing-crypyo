@@ -82,11 +82,19 @@ export const DemoDropdownMenus = [
 	
 // 		//of
  			 {
- 	title: "Services",
+ 	title: "Service 01",
 	path: "service",
  },
   {
-  	title: "Single Service",
+  	title: "Service 02",
+  	path: "single-service",
+  },
+ 			 {
+ 	title: "Service 03",
+	path: "service",
+ },
+  {
+  	title: "Service 04",
   	path: "single-service",
   },
 		
@@ -190,14 +198,14 @@ export const DemoDropdownMenus = [
  export const ElementsMegaMenu = [
 
 // 		// of
- {
- 	title: "About Dark",
- 	path: "about-dark",
- },
- {
- 	title: "About Light",
- 	path: "about-us",
- },
+//  {
+//  	title: "About Dark",
+//  	path: "about-dark",
+//  },
+//  {
+//  	title: "About Light",
+//  	path: "about-us",
+//  },
 //  {
 //  	title: "Blog Light 02",
 //  	path: "about-light",
@@ -285,18 +293,18 @@ export const DemoDropdownMenus = [
 
  export const BlogDropdownMenus = [
 // 	//of
-	{
- 		title: "Blog Dark",
- 		path: "blog-dark",
- 	},
+	// {
+ 	// 	title: "Blog Dark",
+ 	// 	path: "blog-dark",
+ 	// },
 // 	// {
 // 	// 	title: "Blog Dark Sidebar",
 // 	// 	path: "blog-dark-sidebar",
 // 	// },
- {
- 	title: "Blog Dark Details",
- 	path: "single-blog-dark",
- },
+//  {
+//  	title: "Blog Dark Details",
+//  	path: "single-blog-dark",
+//  },
 // 	{
 // 		title: "Blog Light",
 // 		path: "blog-light",
@@ -317,10 +325,10 @@ export const DemoDropdownMenus = [
 
  export const ContactDropdownMenus = [
 // 	//of
- 	{
- 		title: "Contact Dark",
- 		path: "contact-dark",
- 	},
+ 	// {
+ 	// 	title: "Contact Dark",
+ 	// 	path: "contact-dark",
+ 	// },
 // 	{
 // 		title: "Contact Light",
 // 		path: "contact",

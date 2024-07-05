@@ -7,7 +7,7 @@ const ModalVideo = dynamic(() => import("react-modal-video"), { ssr: false });
 export default function VideoSectionSix() {
 	const [isOpen, setOpen] = useState(false);
 	return (
-		<div style={{background:"#26242c" , color:"white"}} className="section fugu-section-padding">
+		<div style={{ color:"white"}} className="section fugu-section-padding" style={{ backgroundImage: "url(/images/all-img/v5/hero-bg2.png)" }}>
 			<div className="container">
 				<div className="row">
 					<div className="col-xl-6 offset-xl-1 col-lg-6 order-lg-2">

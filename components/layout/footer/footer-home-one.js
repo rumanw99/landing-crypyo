@@ -22,18 +22,18 @@ export default function FooterHomeOne() {
 						<div className="fugu-footer-menu">
 							<span>Product</span>
 							<ul>
-								<li>
-									<Link href={"#"}> Service 1 </Link>
-								</li>
-								<li>
-									<Link href={"#"}> Service 2 </Link>
-								</li>
-								<li>
-									<Link href={"#"}> Service 3</Link>
-								</li>
-								<li>
-									<Link href={"#"}> Service 4 </Link>
-								</li>
+							<li>
+										<Link href="service">Service 1</Link>
+									</li>
+									<li>
+										<Link href="single-service">Service 2</Link>
+									</li>
+									<li>
+										<Link href="service">Service 3</Link>
+									</li>
+									<li>
+										<Link href="single-service">Service 4</Link>
+									</li>
 								
 							</ul>
 						</div>
@@ -46,16 +46,16 @@ export default function FooterHomeOne() {
 									<Link href="/">Home </Link>
 								</li>
 								<li>
-									<Link href="about-us">Products </Link>
+									<Link href="/service">Products </Link>
 								</li>
 								<li>
-									<Link href="career">About </Link>
+									<Link href="/about-dark">About </Link>
 								</li>
 								<li>
-									<Link href="blog">Blog </Link>
+									<Link href="/blog-dark">Blog </Link>
 								</li>
 								<li>
-									<Link href="single-blog-light">Contact  </Link>
+									<Link href="/contact-dark">Contact  </Link>
 								</li>
 							</ul>
 						</div>

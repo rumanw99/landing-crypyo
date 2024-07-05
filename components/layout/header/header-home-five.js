@@ -49,9 +49,12 @@ export default function HeaderHomeFive() {
 							<Navbar>
 								<NavItem navItemText="Home" />
 								<NavItem navItemText="Products" menuItems={PagesDropdownMenus} />
-								<NavItem navItemText="About" menuItems={ElementsMegaMenu}  />
-								<NavItem navItemText="Blogs" menuItems={BlogDropdownMenus}  />
-								<NavItem navItemText="Contact Us" menuItems={ContactDropdownMenus} />
+								{/* <NavItem navItemText="About" menuItems={ElementsMegaMenu}  /> */}
+								<a href="/about-dark" style={{color:"white" , fontWeight:"500" , marginRight:"40px" , marginLeft:"20px"}}>About</a>
+								{/* <NavItem navItemText="Blogs" menuItems={BlogDropdownMenus}  /> */}
+								<a href="/blog-dark" style={{color:"white" , fontWeight:"500" , marginRight:"40px"}}>Blog</a>
+								{/* <NavItem navItemText="Contact Us" menuItems={ContactDropdownMenus} /> */}
+								<a href="/contact-dark" style={{color:"white" , fontWeight:"500" , marginRight:"40px"}}>Contact Us</a>
 							</Navbar>
 						</nav>
 					</div>

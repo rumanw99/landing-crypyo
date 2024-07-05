@@ -40,7 +40,7 @@ export default function TestimonialSection() {
 							</div>
 							<div className="fugu--testimonial-data">
 								<p>
-									“I found B2B Ultimate very professional and trustworthy during my NFT trading duration of
+									“I found B2B Ultimate very professional and trustworthy during my Crypto trading duration of
 									147 days. They are very honest and trusted.”
 								</p>
 							</div>
@@ -78,7 +78,7 @@ export default function TestimonialSection() {
 							</div>
 							<div className="fugu--testimonial-data">
 								<p>
-									“100% Trusted. Very legit in NFT world. So far I'm satisfied with B2B Ultimate. I just
+									“100% Trusted. Very legit in Crypto world. So far I'm satisfied with B2B Ultimate. I just
 									wish this will continue at this way and there will be no sudden changes.”
 								</p>
 							</div>
@@ -155,7 +155,7 @@ export default function TestimonialSection() {
 							<div className="fugu--testimonial-data">
 								<p>
 									“Trustable ☺️ Best way to earn passive income. Everything was well explained and it
-									was easy to follow their clear. Very legit in NFT world.”
+									was easy to follow their clear. Very legit in Crypto world.”
 								</p>
 							</div>
 							<div className="fugu--testimonial-author">
@@ -230,7 +230,7 @@ export default function TestimonialSection() {
 							</div>
 							<div className="fugu--testimonial-data">
 								<p>
-									“Best NFT scam investigator. It took less than 24h and gave all the details about
+									“Best Crypto scam investigator. It took less than 24h and gave all the details about
 									the scammer and guided me. My heartfull thanks 💗 ”
 								</p>
 							</div>

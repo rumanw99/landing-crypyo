@@ -1,7 +1,7 @@
 /* eslint-disable @next/next/no-img-element */
 export default function InovativeServiceSection() {
 	return (
-		<div className="fugu-innovative-services-section">
+		<div className="fugu-innovative-services-section" style={{ backgroundImage: "url(/images/all-img/v5/hero-bg2.png)" }}>
 			<div className="container">
 				<div className="row">
 					<div className="col-xxl-6 col-xl-6 col-lg-6 offset-xxl-1 order-lg-2">

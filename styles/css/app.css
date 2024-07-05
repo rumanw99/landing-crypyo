@@ -2349,7 +2349,7 @@ header.fugu-header-section {
 
 header.fugu-header-section.sticky-menu {
 	padding: 10px 0;
-	background-color: var(--gray-900);
+	background-color: var(--gray-800);
 	box-shadow: 0 4px 80px rgba(0, 0, 0, 0.06);
 }
 
@@ -3045,7 +3045,8 @@ footer.fugo--footer-section.white-version .fugo--footer-bottom p {
 	border-radius: 10px;
 	display: inline-block;
 	color: var(--gray-10);
-	background: linear-gradient(to right, #ff00d4, #7d41ea, #0080ff);
+	background: var(--primary-500);
+	/* background: linear-gradient(to right, #ff00d4, #7d41ea, #0080ff); */
 }
 .fugu--outline-btn span {
 	display: flex;
@@ -3094,7 +3095,8 @@ footer.fugo--footer-section.white-version .fugo--footer-bottom p {
 	color: #fff;
 	padding: 10.5px 31px;
 	background-size: 200% auto !important;
-	background: linear-gradient(to right, #ff00d4 0%, #7d41ea 30.35%, #0080ff 100%);
+	background: var(--primary-500);
+	/* background: linear-gradient(to right, #ff00d4 0%, #7d41ea 30.35%, #0080ff 100%); */
 }
 .fugu--btn.fugu--menu-btn1:hover {
 	background-position: right center;
@@ -3224,7 +3226,8 @@ footer.fugo--footer-section.white-version .fugo--footer-bottom p {
 	transition: all 0.4s;
 	opacity: 0;
 	border-radius: 10px;
-	background: linear-gradient(225deg, #0080ff 0%, #7d41ea 46.35%, #ff00d4 100%);
+	background: var(--primary-500);
+	/* background: linear-gradient(225deg, #0080ff 0%, #7d41ea 46.35%, #ff00d4 100%); */
 }
 .fugu--btn:hover:before {
 	opacity: 1;
@@ -3441,7 +3444,8 @@ button#fugu--search-btn {
 	border-radius: 10px;
 	position: absolute;
 	background-size: 200% auto !important;
-	background: linear-gradient(to right, #ff00d4 0%, #7d41ea 30.35%, #0080ff 100%);
+	background: var(--primary-500);
+	/* background: linear-gradient(to right, #ff00d4 0%, #7d41ea 30.35%, #0080ff 100%); */
 }
 #fugu--submit-btn:hover {
 	background-position: right center;
@@ -3524,14 +3528,22 @@ button#fugu--search-btn {
 	font-size: 16px;
 	color: #fff;
 	transition: all 0.4s;
-	background: linear-gradient(225deg, #0080ff 0, #7d41ea 46.35%, #ff00d4 100%);
+	/* background: linear-gradient(225deg, #0080ff 0, #7d41ea 46.35%, #ff00d4 100%); */
 	border-radius: 10px;
+	background: var(--primary-500);
 }
 
 .fugu-breadcrumb-section {
 	padding: 188px 0 120px;
 	position: relative;
-	background-color: var(--gray-900);
+	background-color: var(--gray-800);
+
+	z-index: 0;
+
+	
+	background-size: cover;
+	background-position: center;
+	
 }
 @media (max-width: 991px) {
 	.fugu-breadcrumb-section {
@@ -7021,7 +7033,7 @@ a.fugu-faq-btn:hover {
 
 .fugu-client-section {
 	padding: 75px 0 80px;
-	background: var(--gray-900);
+	background: var(--gray-800);
 }
 @media (max-width: 767px) {
 	.fugu-client-section {
@@ -7727,7 +7739,7 @@ a.fugu-pricing-btn.active {
 
 .fugu-section-padding {
 	padding: 120px 0;
-	background: var(--gray-900);
+	background: var(--gray-800);
 }
 @media (max-width: 991px) {
 	.fugu-section-padding {
@@ -7742,7 +7754,7 @@ a.fugu-pricing-btn.active {
 
 .fugu-section-padding2 {
 	padding: 110px 0 120px;
-	background: var(--gray-900);
+	background: var(--gray-800);
 }
 @media (max-width: 991px) {
 	.fugu-section-padding2 {
@@ -7757,7 +7769,7 @@ a.fugu-pricing-btn.active {
 
 .fugu-section-padding3 {
 	padding: 110px 0 96px;
-	background: var(--gray-900);
+	background: var(--gray-800);
 }
 @media (max-width: 991px) {
 	.fugu-section-padding3 {
@@ -8322,15 +8334,18 @@ a.fugu-pricing-btn.active {
 	color: white;
 	cursor: pointer;
 	transition: all 0.4s;
-	background: linear-gradient(to right, #ff00d4, #7d41ea, #0080ff);
+	/* background: linear-gradient(to right, #ff00d4, #7d41ea, #0080ff); */
+	background: var(--primary-500);
 }
 .fugu--portfolio-menu ul li.active {
 	transition: all 0.4s;
-	background: linear-gradient(225deg, #0080ff 0%, #7d41ea 46.35%, #ff00d4 100%);
+	background: var(--primary-500);
+	/* background: linear-gradient(225deg, #0080ff 0%, #7d41ea 46.35%, #ff00d4 100%); */
 }
 .fugu--portfolio-menu ul li.active span {
 	transition: all 0.4s;
-	background: linear-gradient(225deg, #0080ff 0%, #7d41ea 46.35%, #ff00d4 100%);
+	background: var(--primary-500);
+	/* background: linear-gradient(225deg, #0080ff 0%, #7d41ea 46.35%, #ff00d4 100%); */
 }
 @media (max-width: 1199px) {
 	.fugu--portfolio-menu ul li {
@@ -8394,7 +8409,8 @@ a.fugu-pricing-btn.active {
 .fugu--text-slider-section {
 	padding: 22px 0;
 	overflow: hidden;
-	background: linear-gradient(225deg, #0080ff 0%, #7d41ea 46.35%, #ff00d4 100%);
+	background: var(--primary-500);
+	/* background: linear-gradient(225deg, #0080ff 0%, #7d41ea 46.35%, #ff00d4 100%); */
 }
 
 .fugu--text-slider-data {
@@ -8497,7 +8513,8 @@ a.fugu-pricing-btn.active {
 	margin: -2px;
 	transition: all 0.4s;
 	border-radius: inherit;
-	background: linear-gradient(to right, #ff00d4, #7d41ea, #0080ff);
+	background: var(--primary-500);
+	/* background: linear-gradient(to right, #ff00d4, #7d41ea, #0080ff); */
 }
 
 .fugu-text-slider-section {
@@ -9020,7 +9037,7 @@ a.fugu-pricing-btn.active {
 
 .fugu-innovative-services-section {
 	padding-top: 120px;
-	background: var(--gray-900);
+	background: var(--gray-800);
 }
 @media (max-width: 991px) {
 	.fugu-innovative-services-section {
@@ -10790,6 +10807,12 @@ button#fugu-input-submit:hover {
 
 .fugu--comment-field {
 	margin-bottom: 24px;
+}
+.fugu--comment-field input::placeholder{
+	color: white;
+}
+.fugu--comment-field textarea::placeholder{
+	color: white;
 }
 
 .dark-version .fugu--blog-title h3 {

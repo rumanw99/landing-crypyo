@@ -19,7 +19,7 @@ export default function ContactSection() {
 						<ul>
 							<li>
 								<Link href={"#"}>
-									<span>
+									<span style={{background:"#2c04fe"}}>
 										<img src="/images/svg2/phone2.svg" alt="" />
 									</span>
 									00971568398322
@@ -27,7 +27,7 @@ export default function ContactSection() {
 							</li>
 							<li>
 								<Link href={"#"}>
-									<span>
+									<span style={{background:"#2c04fe"}}>
 										<img src="/images/svg2/mail2.svg" alt="" />
 									</span>
 									mail@example.com
@@ -35,7 +35,7 @@ export default function ContactSection() {
 							</li>
 							<li>
 								<Link href={"#"}>
-									<span>
+									<span style={{background:"#2c04fe"}}>
 										<img src="/images/svg2/map2.svg" alt="" />
 									</span>
 									Dubai
@@ -48,7 +48,7 @@ export default function ContactSection() {
 						<ul>
 							<li>
 								<Link href={"#"}>
-									<span>
+									<span style={{background:"#2c04fe"}}>
 										<img src="/images/svg2/clock.svg" alt="" />
 									</span>
 									Monday to Thursday: 7:00 – 15:00 Friday to Saturday: 7:00 – 15:00 Sunday: CLOSED
@@ -81,6 +81,19 @@ export default function ContactSection() {
 									placeholder="Your Email*"
 									{...register("email", { required: true })}
 									aria-invalid={errors.email ? "true" : "false"}
+								/>
+								{errors.email?.type === "required" && (
+									<p role="alert" className="error">
+										Email is required
+									</p>
+								)}
+							</div>
+							<div className="fugu--comment-field">
+								<input
+									type="phone"
+									placeholder="Your Phone*"
+									{...register("phone", { required: true })}
+									aria-invalid={errors.phone ? "true" : "false"}
 								/>
 								{errors.email?.type === "required" && (
 									<p role="alert" className="error">

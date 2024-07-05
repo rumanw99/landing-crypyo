@@ -37,19 +37,19 @@ export default function FooterHomeFour() {
 							<div className="fugu--footer-menu2">
 								<ul>
 									<li>
-										<Link href={"#"}> Home </Link>
+										<Link href={"/"}> Home </Link>
 									</li>
 									<li>
-										<Link href={"about-us"}> Products </Link>
+										<Link href={"/service"}> Products </Link>
 									</li>
 									<li>
-										<Link href={"#"}> About </Link>
+										<Link href={"/about-dark"}> About </Link>
 									</li>
 									<li>
-										<Link href={"#"}> Blog </Link>
+										<Link href={"/blog-dark"}> Blog </Link>
 									</li>
 									<li>
-										<Link href={"contact"}> Contact </Link>
+										<Link href={"/contact-dark"}> Contact </Link>
 									</li>
 								</ul>
 							</div>

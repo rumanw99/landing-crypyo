@@ -18,7 +18,7 @@ export default function VisionSection() {
 												<img src="/images/all-img/v3/card5.jpg" alt="" />
 											</div>
 											<div className="fugu--card-data">
-												<h3>3D ZelenskiyNFT</h3>
+												<h3>3D ZelenskiyCrypto</h3>
 												<p>Pre-sale : 18 May 2023</p>
 												<div className="fugu--card-footer">
 													<div className="fugu--card-footer-data">
@@ -38,9 +38,9 @@ export default function VisionSection() {
 					</div>
 					<div className="col-xl-6 offset-xl-2 col-lg-7 offset-lg-1 d-flex align-items-center">
 						<div className="fugu--default-content content-sm">
-							<h2>Our vision is to build a strong NFT portfolio of denomination</h2>
+							<h2>Our vision is to build a strong Crypto portfolio of denomination</h2>
 							<p>
-								We're excited about a brand new type of digital good called NFT. NFT have exciting new
+								We're excited about a brand new type of digital good called Crypto. Crypto have exciting new
 								properties: unique, provably scarce, tradeable, and usable across multiple applications.
 							</p>
 							<p>
@@ -48,7 +48,7 @@ export default function VisionSection() {
 								ownership of an asset more secure. Blockchain tech can also make ownership of more
 								transparent.
 							</p>
-							<div className="fugu--btn-wrap">
+							<div  className="fugu--btn-wrap">
 								<Link legacyBehavior href={"/"}>
 									<a className="fugu--btn bg-gradient">Join Community</a>
 								</Link>

@@ -7,41 +7,41 @@ export default function FaqAccordionFour() {
 			<div className="container">
 				<div className="fugu--section-title">
 					<div className="fugu--default-content content-sm content-black">
-						<h2>If you need to know anything about NFT, just ask us!</h2>
+						<h2>If you need to know anything about Crypto, just ask us!</h2>
 					</div>
 				</div>
 				<div className="fugu--accordion-one accordion-five">
 					<Accordion defaultActiveKey="0">
 						<Accordion.Item eventKey="0">
-							<Accordion.Header>What is an NFT?</Accordion.Header>
+							<Accordion.Header>What is an Crypto?</Accordion.Header>
 							<Accordion.Body>
 								At the most basic level, a non-fungible token is a one-of-a-kind, verifiable digital
 								asset that can be exchanged between a creator and a buyer.
 							</Accordion.Body>
 						</Accordion.Item>
 						<Accordion.Item eventKey="1">
-							<Accordion.Header>What makes an NFT valuable?</Accordion.Header>
+							<Accordion.Header>What makes an Crypto valuable?</Accordion.Header>
 							<Accordion.Body>
 								At the most basic level, a non-fungible token is a one-of-a-kind, verifiable digital
 								asset that can be exchanged between a creator and a buyer.
 							</Accordion.Body>
 						</Accordion.Item>
 						<Accordion.Item eventKey="2">
-							<Accordion.Header>What’s the connection between NFT & NFT?</Accordion.Header>
+							<Accordion.Header>What’s the connection between Crypto & Crypto?</Accordion.Header>
 							<Accordion.Body>
 								At the most basic level, a non-fungible token is a one-of-a-kind, verifiable digital
 								asset that can be exchanged between a creator and a buyer.
 							</Accordion.Body>
 						</Accordion.Item>
 						<Accordion.Item eventKey="3">
-							<Accordion.Header>Are NFT the future of art and collectibles?</Accordion.Header>
+							<Accordion.Header>Are Crypto the future of art and collectibles?</Accordion.Header>
 							<Accordion.Body>
 								At the most basic level, a non-fungible token is a one-of-a-kind, verifiable digital
 								asset that can be exchanged between a creator and a buyer.
 							</Accordion.Body>
 						</Accordion.Item>
 						<Accordion.Item eventKey="4">
-							<Accordion.Header>What questions remain about NFT?</Accordion.Header>
+							<Accordion.Header>What questions remain about Crypto?</Accordion.Header>
 							<Accordion.Body>
 								At the most basic level, a non-fungible token is a one-of-a-kind, verifiable digital
 								asset that can be exchanged between a creator and a buyer.

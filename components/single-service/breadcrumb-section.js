@@ -27,6 +27,16 @@ export default function BreadcrumbSection() {
 			<div className="fugu-shape9">
 				<img src="assets/images/shape/shape8.png" alt="" />
 			</div>
+
+
+			<div className="fugu--circle-shape circle-one">
+				<img src="/images/all-img/shapes-round.png" alt="" />
+				<div className="waves wave-1"></div>
+			</div>
+			<div className="fugu--circle-shape circle-two">
+				<img src="/images/all-img/shapes-round.png" alt="" />
+				<div className="waves wave-1"></div>
+			</div>
 		</div>
 	);
 }

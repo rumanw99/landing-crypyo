@@ -8,14 +8,14 @@ export default function FeatureSection() {
 					<div className="row">
 						<div className="col-lg-7">
 							<div className="fugu--default-content content-sm">
-								<h2>Our strength is to change the path of our creativity trade NFT</h2>
+								<h2>Our strength is to change the path of our creativity trade Crypto</h2>
 							</div>
 						</div>
 						<div className="col-lg-4 offset-lg-1">
 							<div className="fugu--default-content">
 								<p>
-									Nexto is a universal marketplace that has been working with NFT Art since 2002. we
-									are ready to change the world with NFT!
+									Nexto is a universal marketplace that has been working with Crypto Art since 2002. we
+									are ready to change the world with Crypto!
 								</p>
 							</div>
 						</div>
@@ -33,7 +33,7 @@ export default function FeatureSection() {
 							<div className="fugu--iconbox-data">
 								<h4>Safe and secure</h4>
 								<p>
-									NFT are safe when bought or sold on reputable exchanges, & they cannot be stolen if
+									Crypto are safe when bought or sold on reputable exchanges, & they cannot be stolen if
 									users properly secure.
 								</p>
 							</div>
@@ -67,7 +67,7 @@ export default function FeatureSection() {
 							<div className="fugu--iconbox-data">
 								<h4>Creative team</h4>
 								<p>
-									Nexto has creative artists, painters, and designers working tirelessly on NFT art
+									Nexto has creative artists, painters, and designers working tirelessly on Crypto art
 									all over the world.
 								</p>
 							</div>

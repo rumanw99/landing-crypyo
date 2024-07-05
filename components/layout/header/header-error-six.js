@@ -40,14 +40,17 @@ export default function HeaderErrorSix() {
 							<Navbar>
 							<a href="/" style={{color:"black" , fontWeight:"500" , marginRight:"15px"}}>Home</a>
 								<NavItem navItemText="Products" menuItems={PagesDropdownMenus} />
-								<NavItem navItemText="About" menuItems={ElementsMegaMenu} />
-								<NavItem navItemText="Blog" menuItems={BlogDropdownMenus} />
-								<NavItem navItemText="Contact Us" menuItems={ContactDropdownMenus} />
+								{/* <NavItem navItemText="About" menuItems={ElementsMegaMenu} /> */}
+								<a href="/about-dark" style={{color:"white" , fontWeight:"500" , marginRight:"40px", marginLeft:"20px"}}>About</a>
+								{/* <NavItem navItemText="Blog" menuItems={BlogDropdownMenus} /> */}
+								<a href="/blog-dark" style={{color:"white" , fontWeight:"500" , marginRight:"40px"}}>Blog</a>
+								{/* <NavItem navItemText="Contact Us" menuItems={ContactDropdownMenus} /> */}
+								<a href="/contact-dark" style={{color:"white" , fontWeight:"500" , marginRight:"40px"}}>Contact Us</a>
 							</Navbar>
 						</nav>
 					</div>
 					<div className="header-btn header-btn-l1 ms-auto d-none d-xs-inline-flex">
-						<a className="fugu-btn fugu-header-btn" href="contact.html">
+						<a className="fugu--btn fugu--menu-btn3" href="contact.html">
 							Get Started
 						</a>
 					</div>

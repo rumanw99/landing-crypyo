@@ -12,6 +12,15 @@ export default function BreadcrumbSection() {
 					back to you within 24-48 hours or as soon as possible.
 				</p>
 			</div>
+
+			<div className="fugu--circle-shape circle-one">
+				<img src="/images/all-img/shapes-round.png" alt="" />
+				<div className="waves wave-1"></div>
+			</div>
+			<div className="fugu--circle-shape circle-two">
+				<img src="/images/all-img/shapes-round.png" alt="" />
+				<div className="waves wave-1"></div>
+			</div>
 		</div>
 	);
 }

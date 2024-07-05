@@ -47,17 +47,17 @@ export default function FooterHomeThree() {
 							<div className="fugu--footer-menu">
 								<span>Products</span>
 								<ul>
-									<li>
-										<Link href="#">Service 1 </Link>
+								<li>
+										<Link href="service">Service 1</Link>
 									</li>
 									<li>
-										<Link href="#">Service 2 </Link>
+										<Link href="single-service">Service 2</Link>
 									</li>
 									<li>
-										<Link href="#">Service 3 </Link>
+										<Link href="service">Service 3</Link>
 									</li>
 									<li>
-										<Link href="#">Service 4 </Link>
+										<Link href="single-service">Service 4</Link>
 									</li>
 									
 								</ul>
@@ -67,21 +67,21 @@ export default function FooterHomeThree() {
 							<div className="fugu--footer-menu">
 								<span>Quiq Links</span>
 								<ul>
-									<li>
-										<Link href="#">Home </Link>
-									</li>
-									<li>
-										<Link href="#">Products </Link>
-									</li>
-									<li>
-										<Link href="#">About </Link>
-									</li>
-									<li>
-										<Link href="#">Blog </Link>
-									</li>
-									<li>
-										<Link href="#">Contact </Link>
-									</li>
+								<li>
+									<Link href="/">Home </Link>
+								</li>
+								<li>
+									<Link href="/service">Products </Link>
+								</li>
+								<li>
+									<Link href="/about-dark">About </Link>
+								</li>
+								<li>
+									<Link href="/blog-dark">Blog </Link>
+								</li>
+								<li>
+									<Link href="/contact-dark">Contact  </Link>
+								</li>
 								</ul>
 							</div>
 						</div>

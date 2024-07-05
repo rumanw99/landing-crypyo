@@ -13,7 +13,7 @@ export default function HeroSection() {
 							</h1>
 							<p className="wow fadeInUpX" data-wow-delay="0.15s">
 								Get started with one of the easiest and most secure platforms for buying, selling,
-								trading, and earning NFTcurrency in one place.
+								trading, and earning Cryptocurrency in one place.
 							</p>
 							<div className="fugu--btn-wrap fugu--hero-btn wow fadeInUpX" data-wow-delay="0.25s">
 								<Link href={"/"} legacyBehavior>

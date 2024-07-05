@@ -7,9 +7,9 @@ export default function FeatureSection() {
 			<div className="container">
 				<div className="fugu--section-title">
 					<div className="fugu--default-content">
-						<h2>Innovative features to buy, trade and invest in NFT</h2>
+						<h2>Innovative features to buy, trade and invest in Crypto</h2>
 						<p>
-							A NFTcurrency is a digital & virtual currency that is secured by B2B Ultimate which makes it
+							A Cryptocurrency is a digital & virtual currency that is secured by B2B Ultimate which makes it
 							nearly impossible to counterfeit or double-spend.
 						</p>
 					</div>
@@ -42,7 +42,7 @@ export default function FeatureSection() {
 							<div className="fugu--iconbox-data">
 								<h4>Safe and secure</h4>
 								<p>
-									NFTcurrency is a digital currency using to secure transactions so there are
+									Cryptocurrency is a digital currency using to secure transactions so there are
 									generally fewer safeguards.
 								</p>
 							</div>
@@ -108,7 +108,7 @@ export default function FeatureSection() {
 							<div className="fugu--iconbox-data">
 								<h4>Reports & analytics</h4>
 								<p>
-									NFT fund report published by a cointelegraph research investigates provides
+									Crypto fund report published by a cointelegraph research investigates provides
 									benefits to its users.
 								</p>
 							</div>

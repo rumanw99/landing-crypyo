@@ -7,9 +7,9 @@ export default function FaqAccordionTwo() {
 			<div className="container">
 				<div className="fugu--section-title">
 					<div className="fugu--default-content">
-						<h2>Do you have any questions about NFTcurrency? Ask us</h2>
+						<h2>Do you have any questions about Cryptocurrency? Ask us</h2>
 						<p>
-							Frequently asked questions qbout NFTcurrency & blockchain technology. NFTgraphic
+							Frequently asked questions qbout Cryptocurrency & blockchain technology. Cryptographic
 							security for conducting trusted transactions.
 						</p>
 					</div>
@@ -19,26 +19,23 @@ export default function FaqAccordionTwo() {
 						<div className="col-lg-6">
 							<Accordion defaultActiveKey="0">
 								<Accordion.Item eventKey="0">
-									<Accordion.Header>Q. What is NFTcurrency in general?</Accordion.Header>
+									<Accordion.Header>Q. What is cryptocurrency?</Accordion.Header>
 									<Accordion.Body>
-										A NFTcurrency is a digital currency, which is an alternative form of payment
-										created using encryption algorithms.
+									Cryptocurrency is a type of digital asset that uses cryptography to secure transactions and control the creation of new units
 									</Accordion.Body>
 								</Accordion.Item>
 								<Accordion.Item eventKey="1">
 									<Accordion.Header>
-										Q. What other types of NFTcurrency are out there?
+										Q. How can I buy cryptocurrencies?
 									</Accordion.Header>
 									<Accordion.Body>
-										A NFTcurrency is a digital currency, which is an alternative form of payment
-										created using encryption algorithms.
+									You can buy cryptocurrencies through online cryptocurrency exchanges like Binance or Coinbase.
 									</Accordion.Body>
 								</Accordion.Item>
 								<Accordion.Item eventKey="2">
-									<Accordion.Header>Q. What’s the connection between NFT & NFT?</Accordion.Header>
+									<Accordion.Header>Q. What is mining and how does it work?</Accordion.Header>
 									<Accordion.Body>
-										A NFTcurrency is a digital currency, which is an alternative form of payment
-										created using encryption algorithms.
+									Mining is the process of verifying transactions and adding them to the public ledger (blockchain). Mining requires solving complex mathematical problems using powerful computers.
 									</Accordion.Body>
 								</Accordion.Item>
 							</Accordion>
@@ -46,26 +43,23 @@ export default function FaqAccordionTwo() {
 						<div className="col-lg-6">
 							<Accordion>
 								<Accordion.Item eventKey="0">
-									<Accordion.Header>Q. How safe is NFTcurrency?</Accordion.Header>
+									<Accordion.Header>Q. What is blockchain technology?</Accordion.Header>
 									<Accordion.Body>
-										A NFTcurrency is a digital currency, which is an alternative form of payment
-										created using encryption algorithms.
+									Blockchain is a distributed digital ledger that records all transactions made with a particular cryptocurrency
 									</Accordion.Body>
 								</Accordion.Item>
 								<Accordion.Item eventKey="1">
 									<Accordion.Header>
-										Q. What regulation and requirements govern bitcoin?
+										Q. Are cryptocurrencies safe?
 									</Accordion.Header>
 									<Accordion.Body>
-										A NFTcurrency is a digital currency, which is an alternative form of payment
-										created using encryption algorithms.
+									The security of cryptocurrencies depends on how users handle their digital wallets and transactions
 									</Accordion.Body>
 								</Accordion.Item>
 								<Accordion.Item eventKey="2">
-									<Accordion.Header>What’s the connection between NFT & NFT?</Accordion.Header>
+									<Accordion.Header>What are the common uses of cryptocurrencies?</Accordion.Header>
 									<Accordion.Body>
-										A NFTcurrency is a digital currency, which is an alternative form of payment
-										created using encryption algorithms.
+									Cryptocurrencies are used for various purposes such as investment, day trading, international money transfers, and paying for goods and services
 									</Accordion.Body>
 								</Accordion.Item>
 							</Accordion>

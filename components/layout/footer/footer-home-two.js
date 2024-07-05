@@ -41,20 +41,17 @@ export default function FooterHomeTwo() {
 						<div className="col-xl-7 col-lg-8">
 							<div className="fugu-footer-menu2">
 								<ul>
-									<li>
-										<Link href={"#"}> Demos </Link>
+								<li>
+										<Link href="service">Service 1</Link>
 									</li>
 									<li>
-										<Link href={"#"}> About Us </Link>
+										<Link href="single-service">Service 2</Link>
 									</li>
 									<li>
-										<Link href={"#"}> Collections </Link>
+										<Link href="service">Service 3</Link>
 									</li>
 									<li>
-										<Link href={"#"}> Pages </Link>
-									</li>
-									<li>
-										<Link href={"#"}> Contact </Link>
+										<Link href="single-service">Service 4</Link>
 									</li>
 								</ul>
 							</div>
@@ -77,12 +74,21 @@ export default function FooterHomeTwo() {
 						<div className="col-lg-6 col-md-4">
 							<div className="fugu-footer-menu">
 								<ul>
-									<li>
-										<Link href={"#"}> Terms </Link>
-									</li>
-									<li>
-										<Link href={"#"}> Privacy Policy </Link>
-									</li>
+								<li>
+									<Link href="/">Home </Link>
+								</li>
+								<li>
+									<Link href="/service">Products </Link>
+								</li>
+								<li>
+									<Link href="/about-dark">About </Link>
+								</li>
+								<li>
+									<Link href="/blog-dark">Blog </Link>
+								</li>
+								<li>
+									<Link href="/contact-dark">Contact  </Link>
+								</li>
 								</ul>
 							</div>
 						</div>

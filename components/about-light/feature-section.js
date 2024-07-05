@@ -7,9 +7,9 @@ export default function FeatureSection() {
 			<div className="container">
 				<div className="fugu--section-title">
 					<div className="fugu--default-content content-black">
-						<h2>Our vision is to build a strong NFT portfolio of denomination</h2>
+						<h2>Our vision is to build a strong Crypto portfolio of denomination</h2>
 						<p>
-							We're excited about a brand new type of digital good called a non-fungible token. NFT get
+							We're excited about a brand new type of digital good called a non-fungible token. Crypto get
 							their value the transaction proves ownership of the art.
 						</p>
 					</div>
@@ -21,7 +21,7 @@ export default function FeatureSection() {
 								<h2>01</h2>
 								<span>Safe and secure</span>
 								<p>
-									NFT are safe when bought or sold on reputable exchanges, & they cannot be stolen if
+									Crypto are safe when bought or sold on reputable exchanges, & they cannot be stolen if
 									users properly secure.
 								</p>
 							</div>
@@ -45,7 +45,7 @@ export default function FeatureSection() {
 								<h2>03</h2>
 								<span>Creative team</span>
 								<p>
-									Nexto has creative artists, painters, and designers working tirelessly on NFT art
+									Nexto has creative artists, painters, and designers working tirelessly on Crypto art
 									all over the world.
 								</p>
 							</div>

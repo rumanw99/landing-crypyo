@@ -6,9 +6,9 @@ export default function NewsletterSection() {
 				<div className="fugu--newslatter-wrap">
 					<div className="fugu--section-title">
 						<div className="fugu--default-content content-sm wow fadeInUpX" data-wow-delay=".10s">
-							<h2>Subscribe to get the latest news updates about NFT</h2>
+							<h2>Subscribe to get the latest news updates about Crypto</h2>
 							<p>
-								Get regular updates about interesting & secret upcoming NFT projects & events that are
+								Get regular updates about interesting & secret upcoming Crypto projects & events that are
 								coming exclusively on our site.
 							</p>
 						</div>
@@ -21,9 +21,9 @@ export default function NewsletterSection() {
 					</div>
 				</div>
 			</div>
-			<div className="fugu--shape4">
+			{/* <div className="fugu--shape4">
 				<img src="/images/shape2/shape4.png" alt="" />
-			</div>
+			</div> */}
 		</div>
 	);
 }
