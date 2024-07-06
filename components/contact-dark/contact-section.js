@@ -1,14 +1,89 @@
 /* eslint-disable @next/next/no-img-element */
 import Link from "next/link";
-import { useForm } from "react-hook-form";
+import { useForm , Controller  } from "react-hook-form";
+import Select from 'react-select';
+
 export default function ContactSection() {
+
+	const options = [
+		{ value: 'option1', label: 'Option 1' },
+		{ value: 'option2', label: 'Option 2' },
+		{ value: 'option3', label: 'Option 3' },
+		// أضف المزيد من الخيارات حسب الحاجة
+	  ];
 	const {
 		register,
 		handleSubmit,
+		control,
 		watch,
 		formState: { errors },
 	} = useForm();
 	const onSubmit = (data) => console.log(data);
+
+
+
+	const customStyles = {
+		control: (provided, state) => ({
+		  ...provided,
+		  background: "#13111a", 
+		  border: state.isFocused ? '1px solid #80bdff' : '1px solid #ced4da',
+		  boxShadow: state.isFocused ? '0 0 0 .2rem rgba(0, 123, 255, .25)' : 'none',
+		  '&:hover': {
+			border: state.isFocused ? '1px solid #80bdff' : '1px solid #80bdff'
+		  },
+		  borderRadius: '.25rem',
+		//   padding: '0 0.75rem',
+		//   height: 'calc(2.25rem + 2px)',
+		  display: 'flex',
+		  alignItems: 'center'
+		}),
+		// valueContainer: (provided) => ({
+		// 	...provided,
+		// 	padding: '10px', // إزالة أي حشو إضافي قد يسبب المربع
+		//   }),
+
+		input: (provided) => ({
+			...provided,
+			margin: '0', // إزالة الهوامش
+			padding: '0', // إزالة الحشوات
+			opacity: '0', // إخفاء الإدخال
+		  }),
+		multiValue: (provided) => ({
+		  ...provided,
+		  backgroundColor: '#007bff',
+		  color: 'white',
+		  borderRadius: '.25rem',
+		}),
+		multiValueLabel: (provided) => ({
+		  ...provided,
+		  color: 'white',
+		}),
+		multiValueRemove: (provided) => ({
+		  ...provided,
+		  color: 'white',
+		  ':hover': {
+			backgroundColor: 'blue',
+			color: 'white',
+		  },
+		}),
+		option: (provided, state) => ({
+		  ...provided,
+		  backgroundColor: state.isSelected ? '#007bff' : state.isFocused ? 'rgba(0, 123, 255, .1)' : 'white',
+		  color: state.isSelected ? 'white' : '#007bff',
+		  padding: '.5rem 1rem',
+		}),
+
+		placeholder: (provided) => ({
+			...provided,
+			// color: '#ced4da',
+			marginLeft: '20px',
+		  }),
+		  indicatorsContainer: (provided) => ({
+			...provided,
+			display: 'flex',
+			alignItems: 'center',
+		  }),
+	  };
 
 	return (
 		<div className="fugu--contact-section">
@@ -101,6 +176,31 @@ export default function ContactSection() {
 									</p>
 								)}
 							</div>
+
+							<div className="fugu--comment-field">
+        <Controller
+          name="multiSelect"
+          control={control}
+          rules={{ required: true }}
+          render={({ field }) => (
+            <Select
+              {...field}
+              options={options}
+              isMulti
+              placeholder="Select options*"
+			  styles={customStyles} 	
+            //   classNamePrefix="custom-select"
+              aria-invalid={errors.multiSelect ? "true" : "false"}
+			  
+            />
+          )}
+        />
+        {errors.multiSelect && (
+          <p role="alert" className="error">
+            Selecting at least one option is required
+          </p>
+        )}
+      </div>
 							<div className="fugu--comment-field">
 								<textarea
 									name="textarea"
