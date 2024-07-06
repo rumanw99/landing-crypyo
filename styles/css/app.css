@@ -11565,3 +11565,13 @@ circle {
 .fugu-testimonial-slider2 .slick-initialized .slick-slide {
 	padding: 0 15px;
 }
+
+
+.fugu--testimonial-slider .slick-slide {
+	padding: 0 10px; /* ضبط الفراغ الجانبي */
+  }
+  
+  .fugu--testimonial-slider .slick-list {
+	margin: 0 -10px; /* تعديل الهامش لتعويض فراغ العنصر */
+  }
+
