@@ -59,7 +59,7 @@ export default function HeaderHomeFour() {
 					</div>
 					<div className="header-btn header-btn-l1 ms-auto d-none d-xs-inline-flex">
 						<a className="fugu--btn fugu--menu-btn3" href="contact.html">
-							Connect Wallet
+							Get Started
 						</a>
 					</div>
 

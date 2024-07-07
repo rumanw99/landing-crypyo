@@ -82,20 +82,20 @@ export const DemoDropdownMenus = [
 	
 // 		//of
  			 {
- 	title: "Service 01",
+ 	title: "Crypto Exchanges",
 	path: "service",
  },
   {
-  	title: "Service 02",
-  	path: "single-service",
+  	title: "Payment Gateways",
+  	path: "service",
   },
  			 {
- 	title: "Service 03",
+ 	title: "Crypto Cards",
 	path: "service",
  },
   {
-  	title: "Service 04",
-  	path: "single-service",
+  	title: "ATMs and POS Machines",
+  	path: "service",
   },
 		
 	
