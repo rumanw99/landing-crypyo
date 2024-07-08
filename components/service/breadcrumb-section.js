@@ -29,10 +29,10 @@ export default function BreadcrumbSection() {
 					<nav aria-label="breadcrumb" className="wow fadeInUpX" data-wow-delay="0.15s">
 						<ol className="breadcrumb">
 							<li className="breadcrumb-item">
-								<Link style={{color:"white"}} href={"/"}>Home</Link>
+								<Link style={{color:"white"}} href={"/index-five"}>Home</Link>
 							</li>
 							<li style={{color:"white"}}  className="breadcrumb-item active" aria-current="page">
-								Our Service
+							Crypto Exchanges
 							</li>
 						</ol>
 					</nav>

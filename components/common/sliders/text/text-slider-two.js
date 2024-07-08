@@ -29,21 +29,27 @@ export default function TextSliderTwo() {
 				<Slider {...settings}>
 					<div className="fugu--text-slider-data">
 						<div className="fugu--text-slider-icon">
-							<img src="/images/all-img/v3/daimond.png" alt="" />
+							<img style={{width:"40px" , height:"40px"}} src="/images/all-img/service/crypto23.png" alt="" />
 						</div>
-						<h3>COLLECT RARE AND EXTRAORDINARY RARE ARTWORK</h3>
+						<h3>Crypto Exchanges</h3>
 					</div>
 					<div className="fugu--text-slider-data">
 						<div className="fugu--text-slider-icon">
-							<img src="/images/all-img/v3/daimond.png" alt="" />
+							<img style={{width:"40px" , height:"40px"}} src="/images/all-img/service/crypto24.png" alt="" />
 						</div>
-						<h3>COLLECT RARE AND EXTRAORDINARY RARE ARTWORK</h3>
+						<h3>Payment Gateways</h3>
 					</div>
 					<div className="fugu--text-slider-data">
 						<div className="fugu--text-slider-icon">
-							<img src="/images/all-img/v3/daimond.png" alt="" />
+							<img style={{width:"40px" , height:"40px"}} src="/images/all-img/service/crypto25.png" alt="" />
 						</div>
-						<h3>COLLECT RARE AND EXTRAORDINARY RARE ARTWORK</h3>
+						<h3>Crypto Cards</h3>
+					</div>
+					<div className="fugu--text-slider-data">
+						<div className="fugu--text-slider-icon">
+							<img style={{width:"40px" , height:"40px"}} src="/images/all-img/service/crypto26.png" alt="" />
+						</div>
+						<h3>ATMs and POS Machines</h3>
 					</div>
 				</Slider>
 			</div>

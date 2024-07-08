@@ -18,15 +18,16 @@ export default function VisionSection() {
 												<img src="/images/all-img/v3/crypto12.png" alt="" />
 											</div>
 											<div className="fugu--card-data">
-												<h3>3D ZelenskiyCrypto</h3>
-												<p>Pre-sale : 18 May 2023</p>
+												<h3>B2B Ultimate
+												</h3>
+												<p> 18 May 2024</p>
 												<div className="fugu--card-footer">
 													<div className="fugu--card-footer-data">
-														<span>Mint Price:</span>
-														<h4>0.194 ETH</h4>
+														<span>Dubai</span>
+														
 													</div>
-													<Link href={"/"} legacyBehavior>
-														<a className="fugu--btn btn-sm bg-white">Place a Bid</a>
+													<Link href={"https://wa.me/00971568398322"} legacyBehavior>
+														<a className="fugu--btn btn-sm bg-white"  target="_blank">Connect Whatsapp</a>
 													</Link>
 												</div>
 											</div>

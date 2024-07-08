@@ -87,15 +87,15 @@ export const DemoDropdownMenus = [
  },
   {
   	title: "Payment Gateways",
-  	path: "service",
+  	path: "service-2",
   },
  			 {
  	title: "Crypto Cards",
-	path: "service",
+	path: "service-3",
  },
   {
   	title: "ATMs and POS Machines",
-  	path: "service",
+  	path: "service-4",
   },
 		
 	

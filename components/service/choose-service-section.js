@@ -15,14 +15,13 @@ export default function ChooseServiceSection() {
 								<img src="/images/all-img/icon1.png" alt="" />
 							</div>
 							<div className="fugu-iconbox-data">
-								<h4 style={{color:"white"}}>Crypto Trading</h4>
+								<h4 style={{color:"white"}}>Ease of Customization</h4>
 								<p style={{color:"white"}}>
-								Efficient and secure platform for trading cryptocurrencies with real-time data and analytics.
-
+								White-label crypto exchange platforms come with modular architectures that make it easy to customize the interface and functionalities to suit your specific needs
 
 								</p>
 
-								<Link href="single-service" legacyBehavior>
+								<Link href="" legacyBehavior>
 									<a style={{color:"white"}} className="fugu-icon-btn">
 										Discover More <img src="/images/svg/arrow-black-right.svg" alt="" />
 									</a>
@@ -36,11 +35,10 @@ export default function ChooseServiceSection() {
 								<img src="/images/all-img/icon2.png" alt="" />
 							</div>
 							<div className="fugu-iconbox-data">
-								<h4 style={{color:"white"}}>Crypto Wallet Management</h4>
+								<h4 style={{color:"white"}}>Quick Deployment</h4>
 								<p>
-								Manage and store your cryptocurrencies securely with our easy-to-use wallet solutions.
-								</p>
-								<Link href="single-service" legacyBehavior>
+								These solutions are pre-built and require only minor adjustments before they can be deployed.								</p>
+								<Link href="" legacyBehavior>
 									<a style={{color:"white"}} className="fugu-icon-btn">
 										Discover More <img src="/images/svg/arrow-black-right.svg" alt="" />
 									</a>
@@ -54,13 +52,12 @@ export default function ChooseServiceSection() {
 								<img src="/images/all-img/icon3.png" alt="" />
 							</div>
 							<div className="fugu-iconbox-data">
-								<h4 style={{color:"white"}}>Crypto Payment Solutions</h4>
+								<h4 style={{color:"white"}}>Cost-Effective</h4>
 								<p>
-								Facilitate cryptocurrency payments for your business with our seamless integration services.
-
+								Developing a crypto exchange from scratch is expensive and time-consuming. White-label solutions lower the costs and reduce development time
 
 								</p>
-								<Link href="single-service" legacyBehavior>
+								<Link href="" legacyBehavior>
 									<a style={{color:"white"}} className="fugu-icon-btn">
 										Discover More <img src="/images/svg/arrow-black-right.svg" alt="" />
 									</a>
@@ -74,13 +71,12 @@ export default function ChooseServiceSection() {
 								<img src="/images/all-img/icon4.png" alt="" />
 							</div>
 							<div className="fugu-iconbox-data">
-								<h4 style={{color:"white"}}>Blockchain Development</h4>
+								<h4 style={{color:"white"}}>Robust Security</h4>
 								<p>
-								Custom blockchain solutions tailored to your business needs, ensuring transparency and security.
-
+								Security is a critical aspect of cryptocurrency exchanges. Providers like ChainUp and Coindhan Cloud offer advanced security features such as encryption protocols, multi-signature wallets
 
 								</p>
-								<Link href="single-service" legacyBehavior>
+								<Link href="" legacyBehavior>
 									<a style={{color:"white"}} className="fugu-icon-btn">
 										Discover More <img src="/images/svg/arrow-black-right.svg" alt="" />
 									</a>
@@ -95,13 +91,12 @@ export default function ChooseServiceSection() {
 								<img src="/images/all-img/icon5.png" alt="" />
 							</div>
 							<div className="fugu-iconbox-data">
-								<h4 style={{color:"white"}}>Smart Contracts</h4>
+								<h4 style={{color:"white"}}>Comprehensive Features</h4>
 								<p>
-								Automate your agreements with our secure and efficient smart contract development services.
-
+								These platforms often include a range of advanced trading features such as spot trading, margin trading, futures trading, and automated market making (AMM) for high liquidity.
 
 								</p>
-								<Link href="single-service" legacyBehavior>
+								<Link href="" legacyBehavior>
 									<a style={{color:"white"}} className="fugu-icon-btn">
 										Discover More <img src="/images/svg/arrow-black-right.svg" alt="" />
 									</a>
@@ -115,10 +110,9 @@ export default function ChooseServiceSection() {
 								<img src="/images/all-img/icon6.png" alt="" />
 							</div>
 							<div className="fugu-iconbox-data">
-								<h4 style={{color:"white"}}>Crypto Mining Services</h4>
+								<h4 style={{color:"white"}}>Regulatory Compliance</h4>
 								<p>
-								Reliable and efficient crypto mining solutions with top-notch hardware and software support.
-
+								Staying compliant with regulatory standards is crucial. White-label solutions typically include built-in compliance features for KYC/AML
 
 
 
@@ -126,7 +120,7 @@ export default function ChooseServiceSection() {
 
 
 								</p>
-								<Link href="single-service" legacyBehavior>
+								<Link href="" legacyBehavior>
 									<a style={{color:"white"}} className="fugu-icon-btn">
 										Discover More <img src="/images/svg/arrow-black-right.svg" alt="" />
 									</a>
