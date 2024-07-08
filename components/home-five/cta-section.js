@@ -33,7 +33,7 @@ export default function CtaSection() {
 		  '&:hover': {
 			border: state.isFocused ? '1px solid #80bdff' : '1px solid #80bdff'
 		  },
-		  borderRadius: '.25rem',
+		  borderRadius: '10px',
 		//   padding: '0 0.75rem',
 		//   height: 'calc(2.25rem + 2px)',
 		  display: 'flex',

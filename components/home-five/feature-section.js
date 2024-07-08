@@ -1,5 +1,39 @@
 /* eslint-disable react/no-unescaped-entities */
-import React from "react";
+import React, { useState } from "react";
+
+import { useSpring, animated } from 'react-spring';
+
+const Card = ({ children }) => {
+	const [isHovered, setIsHovered] = useState(false);
+  
+	const hoverStyle = useSpring({
+	  transform: isHovered ? 'scale(1.1)' : 'scale(1)',
+	  boxShadow: isHovered ? '0 20px 30px rgba(0, 0, 0, 0.2)' : '0 4px 8px rgba(0, 0, 0, 0.1)'
+	});
+  
+	return (
+	  <animated.div
+		onMouseEnter={() => setIsHovered(true)}
+		onMouseLeave={() => setIsHovered(false)}
+		style={{
+		  ...hoverStyle,
+		//   width: '200px',
+		//   height: '300px',
+		  margin: '10px',
+		//   border: '1px solid #ccc',
+		  borderRadius: '8px',
+		//   background: '#fff',
+		//   display: 'flex',
+		//   flexDirection: 'column',
+		//   alignItems: 'center',
+		//   justifyContent: 'center',
+		  transition: 'transform 0.3s, box-shadow 0.3s'
+		}}
+	  >
+		{children}
+	  </animated.div>
+	);
+  };
 
 export default function FeatureSection() {
 	return (
@@ -16,6 +50,7 @@ export default function FeatureSection() {
 				</div>
 				<div className="row">
 					<div className="col-xl-4 col-md-6">
+					<Card>
 						<div style={{borderRadius:"20px"}} className="fugu--iconbox-wrap fugu--iconbox-wrap3 wow fadeInUpX" data-wow-delay="0s">
 							<div className="fugu--iconbox-thumb">
 								<svg
@@ -47,8 +82,10 @@ export default function FeatureSection() {
 								</p>
 							</div>
 						</div>
+						</Card>
 					</div>
 					<div className="col-xl-4 col-md-6">
+					<Card>
 						<div style={{borderRadius:"20px"}} className="fugu--iconbox-wrap fugu--iconbox-wrap3 wow fadeInUpX" data-wow-delay=".10s">
 							<div className="fugu--iconbox-thumb">
 								<svg
@@ -80,8 +117,10 @@ export default function FeatureSection() {
 								</p>
 							</div>
 						</div>
+						</Card>
 					</div>
 					<div className="col-xl-4 col-md-6">
+						<Card>
 						<div style={{borderRadius:"20px"}} className="fugu--iconbox-wrap fugu--iconbox-wrap3 wow fadeInUpX" data-wow-delay=".20s">
 							<div className="fugu--iconbox-thumb">
 								<svg
@@ -113,8 +152,10 @@ export default function FeatureSection() {
 								</p>
 							</div>
 						</div>
+						</Card>
 					</div>
 					<div className="col-xl-4 col-md-6">
+					<Card>
 						<div style={{borderRadius:"20px"}} className="fugu--iconbox-wrap fugu--iconbox-wrap3 wow fadeInUpX" data-wow-delay=".30s">
 							<div className="fugu--iconbox-thumb">
 								<svg
@@ -146,8 +187,10 @@ export default function FeatureSection() {
 								</p>
 							</div>
 						</div>
+						</Card>
 					</div>
 					<div className="col-xl-4 col-md-6">
+					<Card>
 						<div style={{borderRadius:"20px"}} className="fugu--iconbox-wrap fugu--iconbox-wrap3 wow fadeInUpX" data-wow-delay=".40s">
 							<div className="fugu--iconbox-thumb">
 								<svg
@@ -175,8 +218,10 @@ export default function FeatureSection() {
 								</p>
 							</div>
 						</div>
+						</Card>
 					</div>
 					<div className="col-xl-4 col-md-6">
+					<Card>
 						<div style={{borderRadius:"20px"}} className="fugu--iconbox-wrap fugu--iconbox-wrap3 wow fadeInUpX" data-wow-delay=".50s">
 							<div className="fugu--iconbox-thumb">
 								<svg
@@ -212,6 +257,7 @@ export default function FeatureSection() {
 								</p>
 							</div>
 						</div>
+						</Card>
 					</div>
 				</div>
 			</div>
