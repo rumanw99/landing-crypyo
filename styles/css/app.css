@@ -2345,7 +2345,6 @@ header.fugu-header-section {
 	top: 0;
 	padding: 13px 0;
 	transition: all 0.4s;
-	background-color: var(--gray-900);
 }
 
 header.fugu-header-section.sticky-menu {
@@ -2381,6 +2380,7 @@ header.fugu--header-section {
 	top: 0;
 	padding: 13px 0;
 	transition: all 0.4s;
+	background: var(--gray-800) !important;
 }
 header.fugu--header-section.fugu--header-three {
 	background-color: var(--gray-800);

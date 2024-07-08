@@ -26,13 +26,13 @@ export default function FooterHomeOne() {
 										<Link href="service">Crypto Exchanges</Link>
 									</li>
 									<li>
-										<Link href="service">Payment Gateways</Link>
+										<Link href="service-2">Payment Gateways</Link>
 									</li>
 									<li>
-										<Link href="service">Crypto Cards</Link>
+										<Link href="service-3">Crypto Cards</Link>
 									</li>
 									<li>
-										<Link href="service">ATMs and POS Machines</Link>
+										<Link href="service-4">ATMs and POS Machines</Link>
 									</li>
 								
 							</ul>
