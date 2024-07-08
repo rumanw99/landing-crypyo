@@ -17,12 +17,13 @@ export default function HeaderErrorSix() {
 		setIsMobileMenuOpen(false);
 	};
 	return (
-		<header className="site-header site-header--menu-right fugu-header-section bg-warning-400" id="sticky-menu">
+		<header className="site-header site-header--menu-right fugu-header-section" id="sticky-menu">
 			<div className="container-fluid">
 				<nav className="navbar site-navbar">
 					<div className="brand-logo">
 						<Link href={"/"}>
-							<img src="/images/logo/logo-black.svg" alt="" className="light-version-logo" />
+							{/* <img src="/images/logo/logo-black.svg" alt="" className="light-version-logo" /> */}
+							<span style={{color:"white"}}>B2B Ultimate</span>
 						</Link>
 					</div>
 					<div className="menu-block-wrapper">
@@ -38,7 +39,7 @@ export default function HeaderErrorSix() {
 							</div>
 
 							<Navbar>
-							<a href="/" style={{color:"black" , fontWeight:"500" , marginRight:"15px"}}>Home</a>
+							<a href="/" style={{color:"white" , fontWeight:"500" , marginRight:"15px"}}>Home</a>
 								<NavItem navItemText="Products" menuItems={PagesDropdownMenus} />
 								{/* <NavItem navItemText="About" menuItems={ElementsMegaMenu} /> */}
 								<a href="/about-dark" style={{color:"white" , fontWeight:"500" , marginRight:"40px", marginLeft:"20px"}}>About</a>
@@ -50,7 +51,7 @@ export default function HeaderErrorSix() {
 						</nav>
 					</div>
 					<div className="header-btn header-btn-l1 ms-auto d-none d-xs-inline-flex">
-						<a className="fugu--btn fugu--menu-btn3" href="contact.html">
+						<a className="fugu--btn fugu--menu-btn3" href="service">
 							Get Started
 						</a>
 					</div>

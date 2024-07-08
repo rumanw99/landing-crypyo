@@ -42,16 +42,16 @@ export default function FooterHomeTwo() {
 							<div className="fugu-footer-menu2">
 								<ul>
 								<li>
-										<Link href="service">Service 1</Link>
+										<Link href="service">Crypto Exchanges</Link>
 									</li>
 									<li>
-										<Link href="single-service">Service 2</Link>
+										<Link href="service">Payment Gateways</Link>
 									</li>
 									<li>
-										<Link href="service">Service 3</Link>
+										<Link href="service">Crypto Cards</Link>
 									</li>
 									<li>
-										<Link href="single-service">Service 4</Link>
+										<Link href="service">ATMs and POS Machines</Link>
 									</li>
 								</ul>
 							</div>

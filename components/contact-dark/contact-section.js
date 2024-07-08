@@ -6,10 +6,10 @@ import Select from 'react-select';
 export default function ContactSection() {
 
 	const options = [
-		{ value: 'option1', label: 'Option 1' },
-		{ value: 'option2', label: 'Option 2' },
-		{ value: 'option3', label: 'Option 3' },
-		// أضف المزيد من الخيارات حسب الحاجة
+		{ value: 'option1', label: 'Crypto Exchanges' },
+		{ value: 'option2', label: 'Payment Gateways' },
+		{ value: 'option3', label: 'Crypto Cards' },
+		{ value: 'option3', label: 'ATMs and POS Machines' },
 	  ];
 	const {
 		register,

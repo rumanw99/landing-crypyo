@@ -59,7 +59,7 @@ export default function HeaderHomeFive() {
 						</nav>
 					</div>
 					<div className="header-btn header-btn-l1 ms-auto d-none d-xs-inline-flex">
-						<a className="fugu--btn fugu--menu-btn3" href="about-dark">
+						<a className="fugu--btn fugu--menu-btn3" href="service">
 							Get Started
 						</a>
 					</div>

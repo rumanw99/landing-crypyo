@@ -16,10 +16,10 @@ export default function HeroSection() {
 								trading, and earning Cryptocurrency in one place.
 							</p>
 							<div className="fugu--btn-wrap fugu--hero-btn wow fadeInUpX" data-wow-delay="0.25s">
-								<Link href={"/"} legacyBehavior>
+								<Link href={"/service"} legacyBehavior>
 									<a className="fugu--btn bg-blue active">Get Started</a>
 								</Link>
-								<Link href={"/"} legacyBehavior>
+								<Link href={"/about-dark"} legacyBehavior>
 									<a className="fugu--btn bg-blue">Discover More</a>
 								</Link>
 							</div>

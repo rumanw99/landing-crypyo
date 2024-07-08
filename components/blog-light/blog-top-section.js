@@ -8,7 +8,7 @@ export default function BlogTopSection() {
 				<div className="fugu--blog-wrap">
 					<div className="fugu--blog-thumb">
 						<Link href={"single-blog-light"}>
-							<img src="/images/all-img/blog2/dark/blog.png" alt="" />
+							<img src="/images/all-img/blog2/dark/crypto22.png" alt="" />
 						</Link>
 						<div className="fugu--blog-badge">Art & Analysis</div>
 					</div>

@@ -6,7 +6,7 @@ export default function InovativeServiceSection() {
 				<div className="row">
 					<div className="col-xxl-6 col-xl-6 col-lg-6 offset-xxl-1 order-lg-2">
 						<div className="fugu-innovative-services-thumb wow fadeInUpX">
-							<img src="/images/all-img/service/thumb.png" alt="" />
+							<img style={{borderRadius:"20px"}} src="/images/all-img/service/tame.png" alt="" />
 						</div>
 					</div>
 					<div className="col-xxl-5 col-xl-6 col-lg-6 col-md-10 d-flex align-items-center">

@@ -12,19 +12,19 @@ export default function VideoSectionFour() {
 				<div className="row">
 					<div className="col-xl-6">
 						<div className="fugu--video-thumb wow fadeInUpX" data-wow-delay="0.10s">
-							<img src="/images/all-img/v5/video-thumb.png" alt="" />
-							<div className="fugu--popup" onClick={() => setOpen(true)}>
+							<img style={{borderRadius:"20px" , height:"500px"}} src="/images/all-img/v5/tamework.png" alt="" />
+							{/* <div className="fugu--popup" onClick={() => setOpen(true)}>
 								<img src="/images/all-img/v5/play-button.png" alt="" />
 								<div className="waves wave-1"></div>
 								<div className="waves wave-2"></div>
 								<div className="waves wave-3"></div>
-							</div>
-							<div className="fugu--video-shape1">
+							</div> */}
+							{/* <div className="fugu--video-shape1">
 								<img src="/images/shape2/shape-video.png" alt="" />
-							</div>
-							<div className="fugu--video-shape2">
+							</div> */}
+							{/* <div className="fugu--video-shape2">
 								<img src="/images/shape2/shape-video.png" alt="" />
-							</div>
+							</div> */}
 						</div>
 					</div>
 					<div className="col-xl-6 d-flex align-items-center">
@@ -37,7 +37,7 @@ export default function VideoSectionFour() {
 							Our team of dedicated professionals combines extensive industry knowledge with innovative technology to deliver tailored solutions that meet the evolving needs of our B2B clients.
 							</p>
 							<div className="fugu--btn-wrap">
-								<Link href={"#"} legacyBehavior>
+								<Link href={"about-dark"} legacyBehavior>
 									<a className="fugu--btn bg-blue">Discover More</a>
 								</Link>
 							</div>

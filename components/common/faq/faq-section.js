@@ -18,25 +18,21 @@ export default function FaqSection() {
 					<div className="col-lg-6 offset-lg-1">
 						<div className="fugu-accordion-wrap">
 							<div className="fugu-accordion-item">
-								<h4 style={{color:"white"}}>Is it safe to use NFT app?</h4>
+								<h4 style={{color:"white"}}>What are the best ways to secure my cryptocurrency wallet?</h4>
 								<p>
-									There are many variations of passages of Lorem Ipsum available, but the majority
-									have suffered alteration in some form, by injected humour of this.
+								Use two-factor authentication, store private keys in a secure offline location, and use trusted hardware wallets for protection.
 								</p>
 							</div>
 							<div className="fugu-accordion-item">
-								<h4 style={{color:"white"}}>Do you provide any moneyback guarantee?</h4>
+								<h4 style={{color:"white"}}>How do I start trading cryptocurrencies safely and efficiently?</h4>
 								<p>
-									Once you've approved a connection request from the app the B2B Ultimate can to send
-									transaction requests to wallet, which is the on your must also have manually approve
-									in the Wallet easily provided.
+								Begin by learning, choose reliable trading platforms, diversify your portfolio, and only invest what you can afford to lose to mitigate high risks.
 								</p>
 							</div>
 							<div className="fugu-accordion-item">
-								<h4 style={{color:"white"}}>How long do you provide supports plugins?</h4>
+								<h4 style={{color:"white"}}>What are the main advantages and disadvantages of using smart contracts in business?</h4>
 								<p>
-									It has survived not only five centuries, but also the leap into electronic for the
-									support do you want typesetting, remaining essentially unchanged.
+								Smart contracts offer security, transparency, and cost reduction, but they may face legal challenges and complexities in programming and execution.
 								</p>
 							</div>
 						</div>

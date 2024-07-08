@@ -111,7 +111,7 @@ export default function WalletSection() {
 									</Accordion>
 								</div>
 								<div className="fugu--btn-wrap">
-									<Link href={"#"} legacyBehavior>
+									<Link href={"/blog-dark"} legacyBehavior>
 										<a className="fugu--btn bg-blue">Go To Exchanges</a>
 									</Link>
 								</div>

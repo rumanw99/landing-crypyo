@@ -7,9 +7,7 @@ export default function BreadcrumbsSection() {
 					Blog & Resources
 				</h1>
 				<p className="wow fadeInUpX" data-wow-delay="0.10s">
-					Your source of market analysis, news, developments, and project reviews for the Crypto ecosystem.
-					Discover and keep up to date with the latest Crypto news and events. Nexto is the best place to
-					analyze, track and discover Crypto.
+				Welcome to our Crypto Blog & Resources page, your ultimate destination for in-depth market analysis, the latest news, and detailed reviews of cryptocurrency projects. Stay informed about the dynamic world of cryptocurrencies through our continuous news and event coverage. Explore trends, track market movements, and discover new opportunities within the cryptocurrency ecosystem. We provide reliable analyses and expertise to help you succeed in this ever-evolving field. Join us to stay updated on the latest developments and innovations in the world of cryptocurrencies.
 				</p>
 				<div className="fugu--newsletter fugu--search wow fadeInUpX" data-wow-delay="0.20s">
 					<input type="email" placeholder="Search..." />

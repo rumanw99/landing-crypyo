@@ -15,10 +15,11 @@ export default function ChooseServiceSection() {
 								<img src="/images/all-img/icon1.png" alt="" />
 							</div>
 							<div className="fugu-iconbox-data">
-								<h4 style={{color:"white"}}>Industry-leading security</h4>
+								<h4 style={{color:"white"}}>Crypto Trading</h4>
 								<p style={{color:"white"}}>
-									Security tokens are digital that represent & transferred ownership rights to a
-									blockchain token.
+								Efficient and secure platform for trading cryptocurrencies with real-time data and analytics.
+
+
 								</p>
 
 								<Link href="single-service" legacyBehavior>
@@ -35,10 +36,9 @@ export default function ChooseServiceSection() {
 								<img src="/images/all-img/icon2.png" alt="" />
 							</div>
 							<div className="fugu-iconbox-data">
-								<h4 style={{color:"white"}}>Ownership over your coins</h4>
+								<h4 style={{color:"white"}}>Crypto Wallet Management</h4>
 								<p>
-									The most reliable way to prove ownership of NFT currencies is to sign a specified
-									message with a key.
+								Manage and store your cryptocurrencies securely with our easy-to-use wallet solutions.
 								</p>
 								<Link href="single-service" legacyBehavior>
 									<a style={{color:"white"}} className="fugu-icon-btn">
@@ -54,10 +54,11 @@ export default function ChooseServiceSection() {
 								<img src="/images/all-img/icon3.png" alt="" />
 							</div>
 							<div className="fugu-iconbox-data">
-								<h4 style={{color:"white"}}>Cold storage for most users</h4>
+								<h4 style={{color:"white"}}>Crypto Payment Solutions</h4>
 								<p>
-									A cold wallet, otherwise known as a hardware wallet cold storage, is a physical
-									device that keeps offline.
+								Facilitate cryptocurrency payments for your business with our seamless integration services.
+
+
 								</p>
 								<Link href="single-service" legacyBehavior>
 									<a style={{color:"white"}} className="fugu-icon-btn">
@@ -73,10 +74,11 @@ export default function ChooseServiceSection() {
 								<img src="/images/all-img/icon4.png" alt="" />
 							</div>
 							<div className="fugu-iconbox-data">
-								<h4 style={{color:"white"}}>Crime insurance against theft</h4>
+								<h4 style={{color:"white"}}>Blockchain Development</h4>
 								<p>
-									Crime insurance protects a company from loss of money, securities, inventory from
-									fraud events.
+								Custom blockchain solutions tailored to your business needs, ensuring transparency and security.
+
+
 								</p>
 								<Link href="single-service" legacyBehavior>
 									<a style={{color:"white"}} className="fugu-icon-btn">
@@ -93,10 +95,11 @@ export default function ChooseServiceSection() {
 								<img src="/images/all-img/icon5.png" alt="" />
 							</div>
 							<div className="fugu-iconbox-data">
-								<h4 style={{color:"white"}}>Watch and analyze charts</h4>
+								<h4 style={{color:"white"}}>Smart Contracts</h4>
 								<p>
-									A cold wallet, otherwise known as a hardware wallet cold storage, is a physical
-									device that keeps offline.
+								Automate your agreements with our secure and efficient smart contract development services.
+
+
 								</p>
 								<Link href="single-service" legacyBehavior>
 									<a style={{color:"white"}} className="fugu-icon-btn">
@@ -112,10 +115,16 @@ export default function ChooseServiceSection() {
 								<img src="/images/all-img/icon6.png" alt="" />
 							</div>
 							<div className="fugu-iconbox-data">
-								<h4 style={{color:"white"}}>Invest in real time</h4>
+								<h4 style={{color:"white"}}>Crypto Mining Services</h4>
 								<p>
-									Crime insurance protects a company from loss of money, securities, inventory from
-									fraud events.
+								Reliable and efficient crypto mining solutions with top-notch hardware and software support.
+
+
+
+
+
+
+
 								</p>
 								<Link href="single-service" legacyBehavior>
 									<a style={{color:"white"}} className="fugu-icon-btn">

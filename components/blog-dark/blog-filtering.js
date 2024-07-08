@@ -64,7 +64,7 @@ export default function BlogFiltering() {
 						<div className="fugu--blog-wrap">
 							<div className="fugu--blog-thumb">
 								<Link href="single-blog-dark">
-									<img src="/images/all-img/blog2/dark/blog1.png" alt="" />
+									<img src="/images/all-img/blog2/dark/crypto15.png" alt="" />
 								</Link>
 								<div className="fugu--blog-badge">Art & Analysis</div>
 							</div>
@@ -112,7 +112,7 @@ export default function BlogFiltering() {
 						<div className="fugu--blog-wrap">
 							<div className="fugu--blog-thumb">
 								<Link href="single-blog-dark">
-									<img src="/images/all-img/blog2/dark/blog2.png" alt="" />
+									<img src="/images/all-img/blog2/dark/crypto14.png" alt="" />
 								</Link>
 								<div className="fugu--blog-badge">Art & Analysis</div>
 							</div>
@@ -157,7 +157,7 @@ export default function BlogFiltering() {
 						<div className="fugu--blog-wrap">
 							<div className="fugu--blog-thumb">
 								<Link href="single-blog-dark">
-									<img src="/images/all-img/blog2/dark/blog1.png" alt="" />
+									<img src="/images/all-img/blog2/dark/crypto16.png" alt="" />
 								</Link>
 								<div className="fugu--blog-badge">Art & Analysis</div>
 							</div>
@@ -205,7 +205,7 @@ export default function BlogFiltering() {
 						<div className="fugu--blog-wrap">
 							<div className="fugu--blog-thumb">
 								<Link href="single-blog-dark">
-									<img src="/images/all-img/blog2/dark/blog2.png" alt="" />
+									<img src="/images/all-img/blog2/dark/crypto17.png" alt="" />
 								</Link>
 								<div className="fugu--blog-badge">Art & Analysis</div>
 							</div>
@@ -253,7 +253,7 @@ export default function BlogFiltering() {
 						<div className="fugu--blog-wrap">
 							<div className="fugu--blog-thumb">
 								<Link href="single-blog-dark">
-									<img src="/images/all-img/blog2/dark/blog3.png" alt="" />
+									<img src="/images/all-img/blog2/dark/crypto18.png" alt="" />
 								</Link>
 								<div className="fugu--blog-badge">Art & Analysis</div>
 							</div>
@@ -301,7 +301,7 @@ export default function BlogFiltering() {
 						<div className="fugu--blog-wrap">
 							<div className="fugu--blog-thumb">
 								<Link href="single-blog-dark">
-									<img src="/images/all-img/blog2/dark/blog4.png" alt="" />
+									<img src="/images/all-img/blog2/dark/crypto19.png" alt="" />
 								</Link>
 								<div className="fugu--blog-badge">Art & Analysis</div>
 							</div>
@@ -349,7 +349,7 @@ export default function BlogFiltering() {
 						<div className="fugu--blog-wrap">
 							<div className="fugu--blog-thumb">
 								<Link href="single-blog-dark">
-									<img src="/images/all-img/blog2/dark/blog5.png" alt="" />
+									<img src="/images/all-img/blog2/dark/crypto20.png" alt="" />
 								</Link>
 								<div className="fugu--blog-badge">Art & Analysis</div>
 							</div>
@@ -397,7 +397,7 @@ export default function BlogFiltering() {
 						<div className="fugu--blog-wrap">
 							<div className="fugu--blog-thumb">
 								<Link href="single-blog-dark">
-									<img src="/images/all-img/blog2/dark/blog6.png" alt="" />
+									<img src="/images/all-img/blog2/dark/crypto21.png" alt="" />
 								</Link>
 								<div className="fugu--blog-badge">Art & Analysis</div>
 							</div>

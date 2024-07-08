@@ -15,7 +15,7 @@ export default function VisionSection() {
 									<div className="swiper-slide">
 										<div className="fugu--card-wrap">
 											<div className="fugu--card-thumb">
-												<img src="/images/all-img/v3/card5.jpg" alt="" />
+												<img src="/images/all-img/v3/crypto12.png" alt="" />
 											</div>
 											<div className="fugu--card-data">
 												<h3>3D ZelenskiyCrypto</h3>

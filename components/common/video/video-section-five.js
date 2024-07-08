@@ -10,17 +10,17 @@ export default function VideoSectionFive() {
 			<div className="container">
 				<div className="fugu--section-title">
 					<div className="fugu--default-content content-sm">
-						<h2>Check out a quick tutorial for the Crypto marketplace guide</h2>
+						<h2>Contact us to learn more about the world of crypto and digital currencies.</h2>
 					</div>
 				</div>
 				<div className="fugu--video-thumb wow fadeInUpX" data-wow-delay=".10s">
-					<img src="/images/all-img/about2/video-thumb.png" alt="" />
-					<div className="fugu--popup" onClick={() => setOpen(true)}>
+					<img src="/images/all-img/about2/crypto13.png" alt="" />
+					{/* <div className="fugu--popup" onClick={() => setOpen(true)}>
 						<img src="/images/all-img/about2/play-button.png" alt="" />
 						<div className="waves wave-1"></div>
 						<div className="waves wave-2"></div>
 						<div className="waves wave-3"></div>
-					</div>
+					</div> */}
 				</div>
 			</div>
 			<ModalVideo

@@ -359,7 +359,7 @@ export default function TestimonialSection() {
       </Slider>
     </div>
 				<div className="fugu--testimonial-button">
-					<Link href={"#"} legacyBehavior>
+					<Link href={"/about-dark"} legacyBehavior>
 						<a className="fugu--btn bg-blue">View All Reviews</a>
 					</Link>
 				</div>
